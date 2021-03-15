@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-15T14:28:11.000Z",
+    "uiExpiraionDate": "2021-03-15T14:45:04.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 15, 2021, 07:13 AM",
+        "publishDate": "March 15, 2021, 07:30 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -28,15 +28,15 @@
                     },
                     {
                         "countyName": "Tulare                                  ",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "1780",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "2234",
                         "centroidX": "-118.799964511698",
                         "centroidY": "36.2202593720"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "1916"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "2370"
                 }
             },
             "cityBlock": {
@@ -85,8 +85,8 @@
                     },
                     {
                         "cityName": "Unincorporated Area - Tulare County",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "1718",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "2172",
                         "centroidX": "-118.788443923240",
                         "centroidY": "36.21746718789750"
                     },
@@ -99,8 +99,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "1916"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "2370"
                 }
             },
             "zipCodeBlock": {
@@ -155,6 +155,13 @@
                         "centroidY": "36.04741238403020"
                     },
                     {
+                        "zipCodeName": "93286",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "454",
+                        "centroidX": "-119.019313140660",
+                        "centroidY": "36.50297514976090"
+                    },
+                    {
                         "zipCodeName": "93292",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "1694",
@@ -170,8 +177,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "32",
-                    "totalCustomersAffected": "4127"
+                    "totalIncidents": "34",
+                    "totalCustomersAffected": "5035"
                 }
             },
             "districtBlock": {
@@ -199,8 +206,8 @@
                     },
                     {
                         "districtNumber": "51",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "1780",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "2234",
                         "centroidX": "-118.876559186538",
                         "centroidY": "36.18092984147310"
                     },
@@ -227,8 +234,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "1916"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "2370"
                 }
             },
             "sectorBlock": {
@@ -256,8 +263,8 @@
                     },
                     {
                         "sectorNumber": "SAN JOAQUIN",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "1780",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "2234",
                         "centroidX": "-118.876559186538",
                         "centroidY": "36.18092984147310"
                     },
@@ -277,8 +284,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "1916"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "2370"
                 }
             }
         },
@@ -293,7 +300,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153490",
                     "outageStartDateTime": "3/14/2021 8:17:18 PM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
                     "lastChangeDateTime": "3/15/2021 6:33:46 AM",
                     "estimateCLUDateTime": "3/15/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -318,7 +325,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153492",
                     "outageStartDateTime": "3/14/2021 8:17:31 PM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
                     "lastChangeDateTime": "3/15/2021 6:33:29 AM",
                     "estimateCLUDateTime": "3/15/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -338,12 +345,37 @@
                     "centroidY": "33.62927500000360"
                 },
                 {
+                    "incidentId": "123790379",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "F",
+                    "OANNumber": "1153497",
+                    "outageStartDateTime": "3/14/2021 9:05:20 PM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
+                    "lastChangeDateTime": "3/15/2021 5:53:44 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "1694",
+                    "zipCode": "93292",
+                    "countyName": "Tulare                                  ",
+                    "cityName": "Unincorporated Area - Tulare County",
+                    "districtNumber": "51",
+                    "sectorNumber": "SAN JOAQUIN",
+                    "ERTCode": "07",
+                    "centroidX": "-119.254486238679",
+                    "centroidY": "36.35132184880160"
+                },
+                {
                     "incidentId": "123782513",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152970",
                     "outageStartDateTime": "3/14/2021 9:16:55 PM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
                     "lastChangeDateTime": "3/15/2021 5:24:54 AM",
                     "estimateCLUDateTime": "3/15/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -368,7 +400,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154298",
                     "outageStartDateTime": "3/15/2021 5:00:00 AM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
                     "lastChangeDateTime": "3/15/2021 5:17:08 AM",
                     "estimateCLUDateTime": "3/15/2021 12:00:00 PM",
                     "memoCauseCode": "21",
@@ -393,7 +425,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154747",
                     "outageStartDateTime": "3/15/2021 5:00:00 AM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
                     "lastChangeDateTime": "3/15/2021 6:33:34 AM",
                     "estimateCLUDateTime": "3/15/2021 4:00:00 PM",
                     "memoCauseCode": "07",
@@ -415,11 +447,11 @@
                 {
                     "incidentId": "123859626",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "A",
+                    "FACJobStatusCode": "D",
                     "OANNumber": "1158314",
                     "outageStartDateTime": "3/15/2021 4:26:39 AM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
-                    "lastChangeDateTime": "3/15/2021 6:26:40 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
+                    "lastChangeDateTime": "3/15/2021 7:09:41 AM",
                     "estimateCLUDateTime": "3/15/2021 12:30:00 PM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -438,38 +470,13 @@
                     "centroidY": "36.07482375091690"
                 },
                 {
-                    "incidentId": "123859721",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "A",
-                    "OANNumber": "1158321",
-                    "outageStartDateTime": "3/15/2021 5:00:00 AM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
-                    "lastChangeDateTime": "3/15/2021 5:45:46 AM",
-                    "estimateCLUDateTime": "Most up by 3/15/2021 12:00:00 PM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "29",
-                    "zipCode": "90277",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "Redondo Beach",
-                    "districtNumber": "44",
-                    "sectorNumber": "EL NIDO",
-                    "ERTCode": "05",
-                    "centroidX": "-118.386647",
-                    "centroidY": "33.81985800000380"
-                },
-                {
                     "incidentId": "123861226",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1158328",
                     "outageStartDateTime": "3/15/2021 2:47:32 AM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
-                    "lastChangeDateTime": "3/15/2021 6:53:47 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
+                    "lastChangeDateTime": "3/15/2021 7:08:59 AM",
                     "estimateCLUDateTime": "Most up by 3/15/2021 2:30:00 PM",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
@@ -493,7 +500,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154735",
                     "outageStartDateTime": "3/15/2021 5:00:00 AM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
                     "lastChangeDateTime": "3/15/2021 6:33:30 AM",
                     "estimateCLUDateTime": "3/15/2021 4:00:00 PM",
                     "memoCauseCode": "07",
@@ -518,7 +525,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1158319",
                     "outageStartDateTime": "3/15/2021 5:25:06 AM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
                     "lastChangeDateTime": "3/15/2021 6:28:07 AM",
                     "estimateCLUDateTime": "3/15/2021 12:00:00 PM",
                     "memoCauseCode": "15",
@@ -538,29 +545,54 @@
                     "centroidY": "35.80881182528870"
                 },
                 {
-                    "incidentId": "123790379",
-                    "incidentType": "PO",
+                    "incidentId": "123861012",
+                    "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
-                    "OANNumber": "1153497",
-                    "outageStartDateTime": "3/14/2021 9:05:20 PM",
-                    "versionDate": "3/15/2021 7:05:03 AM",
-                    "lastChangeDateTime": "3/15/2021 5:53:44 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "1694",
-                    "zipCode": "93292",
+                    "OANNumber": "1158325",
+                    "outageStartDateTime": "3/15/2021 6:06:57 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
+                    "lastChangeDateTime": "3/15/2021 7:18:50 AM",
+                    "estimateCLUDateTime": "3/15/2021 3:30:00 PM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "10",
+                    "crewStatusCodeDescription": "We are testing the lines to help limit the number of customers affected.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "454",
+                    "zipCode": "93286",
                     "countyName": "Tulare                                  ",
                     "cityName": "Unincorporated Area - Tulare County",
                     "districtNumber": "51",
                     "sectorNumber": "SAN JOAQUIN",
                     "ERTCode": "07",
-                    "centroidX": "-119.254486240799",
-                    "centroidY": "36.35132177858880"
+                    "centroidX": "-119.097499385281",
+                    "centroidY": "36.38965447229530"
+                },
+                {
+                    "incidentId": "123859721",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "A",
+                    "OANNumber": "1158321",
+                    "outageStartDateTime": "3/15/2021 5:00:00 AM",
+                    "versionDate": "3/15/2021 7:23:22 AM",
+                    "lastChangeDateTime": "3/15/2021 5:45:46 AM",
+                    "estimateCLUDateTime": "Most up by 3/15/2021 12:00:00 PM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "29",
+                    "zipCode": "90277",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Redondo Beach",
+                    "districtNumber": "44",
+                    "sectorNumber": "EL NIDO",
+                    "ERTCode": "05",
+                    "centroidX": "-118.386647",
+                    "centroidY": "33.81985800000380"
                 }
             ]
         }
