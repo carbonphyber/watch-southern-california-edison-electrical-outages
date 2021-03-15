@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-15T06:30:57.000Z",
+    "uiExpiraionDate": "2021-03-15T06:52:58.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 14, 2021, 11:15 PM",
+        "publishDate": "March 14, 2021, 11:37 PM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -43,14 +43,14 @@
                     {
                         "countyName": "Ventura                                 ",
                         "numberOfIncidents": "4",
-                        "numberoOfCustomersAffected": "654",
+                        "numberoOfCustomersAffected": "655",
                         "centroidX": "-119.194616846888",
                         "centroidY": "33.95953385222530"
                     }
                 ],
                 "countyTotals": {
                     "totalIncidents": "16",
-                    "totalCustomersAffected": "1538"
+                    "totalCustomersAffected": "1539"
                 }
             },
             "cityBlock": {
@@ -93,7 +93,7 @@
                     {
                         "cityName": "Ojai",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "108",
+                        "numberoOfCustomersAffected": "109",
                         "centroidX": "-119.246994200315",
                         "centroidY": "34.448712751951"
                     },
@@ -149,7 +149,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "16",
-                    "totalCustomersAffected": "1538"
+                    "totalCustomersAffected": "1539"
                 }
             },
             "zipCodeBlock": {
@@ -241,7 +241,7 @@
                     {
                         "zipCodeName": "93023",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "108",
+                        "numberoOfCustomersAffected": "109",
                         "centroidX": "-119.248769338774",
                         "centroidY": "34.44894787655650"
                     },
@@ -255,7 +255,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "42",
-                    "totalCustomersAffected": "4346"
+                    "totalCustomersAffected": "4348"
                 }
             },
             "districtBlock": {
@@ -298,7 +298,7 @@
                     {
                         "districtNumber": "39",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "108",
+                        "numberoOfCustomersAffected": "109",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
                     },
@@ -347,7 +347,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "16",
-                    "totalCustomersAffected": "1538"
+                    "totalCustomersAffected": "1539"
                 }
             },
             "sectorBlock": {
@@ -404,7 +404,7 @@
                     {
                         "sectorNumber": "SANTA CLARA",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "108",
+                        "numberoOfCustomersAffected": "109",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
                     },
@@ -425,7 +425,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "16",
-                    "totalCustomersAffected": "1538"
+                    "totalCustomersAffected": "1539"
                 }
             }
         },
@@ -440,7 +440,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152246",
                     "outageStartDateTime": "3/14/2021 8:27:52 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 8:29:32 PM",
                     "estimateCLUDateTime": "3/15/2021 12:00:00 AM",
                     "memoCauseCode": "21",
@@ -465,8 +465,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152242",
                     "outageStartDateTime": "3/14/2021 8:05:15 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
-                    "lastChangeDateTime": "3/14/2021 8:51:41 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
+                    "lastChangeDateTime": "3/14/2021 10:29:43 PM",
                     "estimateCLUDateTime": "3/15/2021 4:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -481,8 +481,8 @@
                     "districtNumber": "35",
                     "sectorNumber": "MOORPARK",
                     "ERTCode": "06",
-                    "centroidX": "-118.92163850",
-                    "centroidY": "34.316387500008"
+                    "centroidX": "-118.921853497022",
+                    "centroidY": "34.31755550030830"
                 },
                 {
                     "incidentId": "123776832",
@@ -490,7 +490,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152294",
                     "outageStartDateTime": "3/14/2021 9:00:00 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 10:23:08 PM",
                     "estimateCLUDateTime": "3/15/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -515,7 +515,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153490",
                     "outageStartDateTime": "3/14/2021 8:17:18 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 10:21:33 PM",
                     "estimateCLUDateTime": "3/15/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -540,7 +540,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153492",
                     "outageStartDateTime": "3/14/2021 8:17:31 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 10:26:09 PM",
                     "estimateCLUDateTime": "3/15/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -565,7 +565,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1153497",
                     "outageStartDateTime": "3/14/2021 9:05:20 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 10:10:04 PM",
                     "estimateCLUDateTime": "3/15/2021 4:00:00 AM",
                     "memoCauseCode": "21",
@@ -590,7 +590,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153469",
                     "outageStartDateTime": "3/14/2021 9:17:13 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 9:20:20 PM",
                     "estimateCLUDateTime": "3/15/2021 3:00:00 AM",
                     "memoCauseCode": "21",
@@ -610,13 +610,38 @@
                     "centroidY": "33.68519250005690"
                 },
                 {
+                    "incidentId": "123681715",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1143877",
+                    "outageStartDateTime": "3/14/2021 10:00:00 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
+                    "lastChangeDateTime": "3/14/2021 10:17:34 PM",
+                    "estimateCLUDateTime": "3/15/2021 5:00:00 AM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
+                    "crewStatusCode": "03",
+                    "crewStatusCodeDescription": "Our crews are on the way. ",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "42",
+                    "zipCode": "90505",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Torrance",
+                    "districtNumber": "44",
+                    "sectorNumber": "EL NIDO",
+                    "ERTCode": "06",
+                    "centroidX": "-118.350195",
+                    "centroidY": "33.79778900002180"
+                },
+                {
                     "incidentId": "123806587",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154853",
                     "outageStartDateTime": "3/14/2021 8:58:04 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
-                    "lastChangeDateTime": "3/14/2021 9:37:39 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
+                    "lastChangeDateTime": "3/14/2021 10:37:36 PM",
                     "estimateCLUDateTime": "3/15/2021 5:00:00 AM",
                     "memoCauseCode": "23",
                     "memoCauseCodeDescription": "Cable Upgrade",
@@ -624,7 +649,7 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "108",
+                    "numberOfCustomersAffected": "109",
                     "zipCode": "93023",
                     "countyName": "Ventura                                 ",
                     "cityName": "Ojai",
@@ -640,7 +665,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1150011",
                     "outageStartDateTime": "3/14/2021 10:45:00 AM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 9:41:48 PM",
                     "estimateCLUDateTime": "3/15/2021 2:00:00 AM",
                     "memoCauseCode": "07",
@@ -660,37 +685,12 @@
                     "centroidY": "34.05580633374210"
                 },
                 {
-                    "incidentId": "123859100",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1158295",
-                    "outageStartDateTime": "3/14/2021 7:05:58 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
-                    "lastChangeDateTime": "3/14/2021 9:55:51 PM",
-                    "estimateCLUDateTime": "Most up by 3/15/2021 1:00:00 AM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "01",
-                    "crewStatusCodeDescription": "We are aware of the problem.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "127",
-                    "zipCode": "90808",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "Long Beach",
-                    "districtNumber": "46",
-                    "sectorNumber": "LIGHTHIPE",
-                    "ERTCode": "05",
-                    "centroidX": "-118.069327457543",
-                    "centroidY": "33.82108622991040"
-                },
-                {
                     "incidentId": "123776957",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152325",
                     "outageStartDateTime": "3/14/2021 8:05:44 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 8:20:41 PM",
                     "estimateCLUDateTime": "3/15/2021 4:00:00 AM",
                     "memoCauseCode": "07",
@@ -715,7 +715,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152970",
                     "outageStartDateTime": "3/14/2021 9:16:55 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 9:17:33 PM",
                     "estimateCLUDateTime": "3/15/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -740,7 +740,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156131",
                     "outageStartDateTime": "3/14/2021 8:24:46 AM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 6:39:15 PM",
                     "estimateCLUDateTime": "3/15/2021 2:00:00 AM",
                     "memoCauseCode": "07",
@@ -765,7 +765,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1158297",
                     "outageStartDateTime": "3/14/2021 8:02:02 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 8:44:09 PM",
                     "estimateCLUDateTime": "Most up by 3/15/2021 12:30:00 AM",
                     "memoCauseCode": "16",
@@ -790,7 +790,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1158301",
                     "outageStartDateTime": "3/14/2021 9:31:45 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
                     "lastChangeDateTime": "3/14/2021 10:15:34 PM",
                     "estimateCLUDateTime": "Most up by 3/15/2021 4:00:00 AM",
                     "memoCauseCode": "15",
@@ -810,29 +810,29 @@
                     "centroidY": "33.917165029447"
                 },
                 {
-                    "incidentId": "123681715",
-                    "incidentType": "PO",
+                    "incidentId": "123859100",
+                    "incidentType": "Not Available",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1143877",
-                    "outageStartDateTime": "3/14/2021 10:00:00 PM",
-                    "versionDate": "3/14/2021 10:55:52 PM",
-                    "lastChangeDateTime": "3/14/2021 10:17:34 PM",
-                    "estimateCLUDateTime": "3/15/2021 5:00:00 AM",
-                    "memoCauseCode": "07",
-                    "memoCauseCodeDescription": "Upgrading Equipment",
-                    "crewStatusCode": "03",
-                    "crewStatusCodeDescription": "Our crews are on the way. ",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "42",
-                    "zipCode": "90505",
+                    "OANNumber": "1158295",
+                    "outageStartDateTime": "3/14/2021 7:05:58 PM",
+                    "versionDate": "3/14/2021 11:09:19 PM",
+                    "lastChangeDateTime": "3/14/2021 10:31:06 PM",
+                    "estimateCLUDateTime": "Most up by 3/15/2021 1:00:00 AM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "01",
+                    "crewStatusCodeDescription": "We are aware of the problem.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "127",
+                    "zipCode": "90808",
                     "countyName": "Los Angeles                             ",
-                    "cityName": "Torrance",
-                    "districtNumber": "44",
-                    "sectorNumber": "EL NIDO",
-                    "ERTCode": "06",
-                    "centroidX": "-118.350195",
-                    "centroidY": "33.79778900002180"
+                    "cityName": "Long Beach",
+                    "districtNumber": "46",
+                    "sectorNumber": "LIGHTHIPE",
+                    "ERTCode": "05",
+                    "centroidX": "-118.069327457543",
+                    "centroidY": "33.82108622991040"
                 }
             ]
         }
