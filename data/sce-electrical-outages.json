@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-15T13:45:03.000Z",
+    "uiExpiraionDate": "2021-03-15T13:56:35.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 15, 2021, 06:30 AM",
+        "publishDate": "March 15, 2021, 06:41 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,8 +14,8 @@
                     },
                     {
                         "countyName": "Riverside                               ",
-                        "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "132",
+                        "numberOfIncidents": "6",
+                        "numberoOfCustomersAffected": "133",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -28,15 +28,15 @@
                     },
                     {
                         "countyName": "Tulare                                  ",
-                        "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "4628",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "2416",
                         "centroidX": "-118.799964511698",
                         "centroidY": "36.2202593720"
                     }
                 ],
                 "countyTotals": {
                     "totalIncidents": "12",
-                    "totalCustomersAffected": "4845"
+                    "totalCustomersAffected": "2634"
                 }
             },
             "cityBlock": {
@@ -49,13 +49,6 @@
                         "centroidY": "33.62858661429670"
                     },
                     {
-                        "cityName": "East Porterville",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "2212",
-                        "centroidX": "-118.978571381452",
-                        "centroidY": "36.05853760492950"
-                    },
-                    {
                         "cityName": "Jurupa Valley",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "111",
@@ -64,8 +57,8 @@
                     },
                     {
                         "cityName": "Palm Springs",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "2",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "3",
                         "centroidX": "-116.538050571858",
                         "centroidY": "33.801705291180"
                     },
@@ -107,7 +100,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "12",
-                    "totalCustomersAffected": "4845"
+                    "totalCustomersAffected": "2634"
                 }
             },
             "zipCodeBlock": {
@@ -156,8 +149,8 @@
                     },
                     {
                         "zipCodeName": "93257",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "2274",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "62",
                         "centroidX": "-119.036594279088",
                         "centroidY": "36.04741238403020"
                     },
@@ -177,15 +170,15 @@
                     },
                     {
                         "zipCodeName": "No Zip Code",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "2",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "3",
                         "centroidX": "\n        ",
                         "centroidY": "\n        "
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "35",
-                    "totalCustomersAffected": "10150"
+                    "totalIncidents": "34",
+                    "totalCustomersAffected": "5727"
                 }
             },
             "districtBlock": {
@@ -213,15 +206,15 @@
                     },
                     {
                         "districtNumber": "51",
-                        "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "4628",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "2416",
                         "centroidX": "-118.876559186538",
                         "centroidY": "36.18092984147310"
                     },
                     {
                         "districtNumber": "79",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "2",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "3",
                         "centroidX": "-116.592399612918",
                         "centroidY": "33.73075475445940"
                     },
@@ -242,7 +235,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "12",
-                    "totalCustomersAffected": "4845"
+                    "totalCustomersAffected": "2634"
                 }
             },
             "sectorBlock": {
@@ -256,8 +249,8 @@
                     },
                     {
                         "sectorNumber": "DEVERS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "2",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "3",
                         "centroidX": "-116.592399612918",
                         "centroidY": "33.73075475445940"
                     },
@@ -270,8 +263,8 @@
                     },
                     {
                         "sectorNumber": "SAN JOAQUIN",
-                        "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "4628",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "2416",
                         "centroidX": "-118.876559186538",
                         "centroidY": "36.18092984147310"
                     },
@@ -292,7 +285,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "12",
-                    "totalCustomersAffected": "4845"
+                    "totalCustomersAffected": "2634"
                 }
             }
         },
@@ -302,13 +295,13 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123790328",
+                    "incidentId": "123790348",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1153490",
-                    "outageStartDateTime": "3/14/2021 8:17:18 PM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
-                    "lastChangeDateTime": "3/14/2021 10:21:33 PM",
+                    "OANNumber": "1153492",
+                    "outageStartDateTime": "3/14/2021 8:17:31 PM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
+                    "lastChangeDateTime": "3/14/2021 11:07:43 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -316,15 +309,15 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "3",
+                    "numberOfCustomersAffected": "12",
                     "zipCode": "92595",
                     "countyName": "Riverside                               ",
                     "cityName": "Wildomar",
                     "districtNumber": "88",
                     "sectorNumber": "VALLEY",
                     "ERTCode": "06",
-                    "centroidX": "-117.290667993615",
-                    "centroidY": "33.63190616990010"
+                    "centroidX": "-117.29025550",
+                    "centroidY": "33.62927500000360"
                 },
                 {
                     "incidentId": "123790379",
@@ -332,9 +325,9 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1153497",
                     "outageStartDateTime": "3/14/2021 9:05:20 PM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
                     "lastChangeDateTime": "3/15/2021 5:53:44 AM",
-                    "estimateCLUDateTime": "3/15/2021 7:00:00 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
@@ -357,7 +350,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152970",
                     "outageStartDateTime": "3/14/2021 9:16:55 PM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
                     "lastChangeDateTime": "3/15/2021 5:24:54 AM",
                     "estimateCLUDateTime": "3/15/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -382,7 +375,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154298",
                     "outageStartDateTime": "3/15/2021 5:00:00 AM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
                     "lastChangeDateTime": "3/15/2021 5:17:08 AM",
                     "estimateCLUDateTime": "3/15/2021 12:00:00 PM",
                     "memoCauseCode": "21",
@@ -402,13 +395,38 @@
                     "centroidY": "33.61071950000360"
                 },
                 {
+                    "incidentId": "123805261",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1154747",
+                    "outageStartDateTime": "3/15/2021 5:00:00 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
+                    "lastChangeDateTime": "3/15/2021 6:29:14 AM",
+                    "estimateCLUDateTime": "3/15/2021 4:00:00 PM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "1",
+                    "zipCode": "No Zip Code",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Palm Springs",
+                    "districtNumber": "79",
+                    "sectorNumber": "DEVERS",
+                    "ERTCode": "06",
+                    "centroidX": "-116.540146",
+                    "centroidY": "33.89262300000570"
+                },
+                {
                     "incidentId": "123859626",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "D",
+                    "FACJobStatusCode": "A",
                     "OANNumber": "1158314",
                     "outageStartDateTime": "3/15/2021 4:26:39 AM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
-                    "lastChangeDateTime": "3/15/2021 5:59:16 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
+                    "lastChangeDateTime": "3/15/2021 6:26:40 AM",
                     "estimateCLUDateTime": "3/15/2021 12:30:00 PM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -432,7 +450,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1158321",
                     "outageStartDateTime": "3/15/2021 5:00:00 AM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
                     "lastChangeDateTime": "3/15/2021 5:45:46 AM",
                     "estimateCLUDateTime": "Most up by 3/15/2021 12:00:00 PM",
                     "memoCauseCode": "15",
@@ -457,13 +475,13 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1158313",
                     "outageStartDateTime": "3/15/2021 2:47:32 AM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
                     "lastChangeDateTime": "3/15/2021 5:09:14 AM",
                     "estimateCLUDateTime": "Most up by 3/15/2021 8:00:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "01",
-                    "crewStatusCodeDescription": "We are aware of the problem.",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
                     "numberOfCustomersAffected": "111",
@@ -477,37 +495,12 @@
                     "centroidY": "33.98775572186810"
                 },
                 {
-                    "incidentId": "123861012",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1158325",
-                    "outageStartDateTime": "3/15/2021 6:06:57 AM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
-                    "lastChangeDateTime": "3/15/2021 6:16:08 AM",
-                    "estimateCLUDateTime": "Most up by 3/15/2021 7:06:57 AM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "636",
-                    "zipCode": "93286",
-                    "countyName": "Tulare                                  ",
-                    "cityName": "Unincorporated Area - Tulare County",
-                    "districtNumber": "51",
-                    "sectorNumber": "SAN JOAQUIN",
-                    "ERTCode": "01",
-                    "centroidX": "-119.111221342465",
-                    "centroidY": "36.37936436271160"
-                },
-                {
                     "incidentId": "123805071",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154735",
                     "outageStartDateTime": "3/15/2021 5:00:00 AM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
                     "lastChangeDateTime": "3/15/2021 6:00:52 AM",
                     "estimateCLUDateTime": "3/15/2021 4:00:00 PM",
                     "memoCauseCode": "07",
@@ -529,12 +522,12 @@
                 {
                     "incidentId": "123859704",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "W",
+                    "FACJobStatusCode": "D",
                     "OANNumber": "1158319",
                     "outageStartDateTime": "3/15/2021 5:14:39 AM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
-                    "lastChangeDateTime": "3/15/2021 5:33:47 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "versionDate": "3/15/2021 6:33:19 AM",
+                    "lastChangeDateTime": "3/15/2021 6:28:07 AM",
+                    "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "02",
@@ -547,18 +540,18 @@
                     "cityName": "Unincorporated Area - Tulare County",
                     "districtNumber": "51",
                     "sectorNumber": "SAN JOAQUIN",
-                    "ERTCode": "01",
+                    "ERTCode": "2",
                     "centroidX": "-118.994266545364",
                     "centroidY": "35.80881182528870"
                 },
                 {
-                    "incidentId": "123790348",
+                    "incidentId": "123790328",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1153492",
-                    "outageStartDateTime": "3/14/2021 8:17:31 PM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
-                    "lastChangeDateTime": "3/14/2021 11:07:43 PM",
+                    "OANNumber": "1153490",
+                    "outageStartDateTime": "3/14/2021 8:17:18 PM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
+                    "lastChangeDateTime": "3/14/2021 10:21:33 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -566,40 +559,40 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "12",
+                    "numberOfCustomersAffected": "3",
                     "zipCode": "92595",
                     "countyName": "Riverside                               ",
                     "cityName": "Wildomar",
                     "districtNumber": "88",
                     "sectorNumber": "VALLEY",
                     "ERTCode": "06",
-                    "centroidX": "-117.29025550",
-                    "centroidY": "33.62927500000360"
+                    "centroidX": "-117.290667993615",
+                    "centroidY": "33.63190616990010"
                 },
                 {
-                    "incidentId": "123861203",
+                    "incidentId": "123861012",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "A",
-                    "OANNumber": "1158327",
-                    "outageStartDateTime": "3/15/2021 6:04:29 AM",
-                    "versionDate": "3/15/2021 6:23:24 AM",
-                    "lastChangeDateTime": "3/15/2021 6:19:27 AM",
-                    "estimateCLUDateTime": "Not Available",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1158325",
+                    "outageStartDateTime": "3/15/2021 6:06:57 AM",
+                    "versionDate": "3/15/2021 6:33:19 AM",
+                    "lastChangeDateTime": "3/15/2021 6:29:07 AM",
+                    "estimateCLUDateTime": "Most up by 3/15/2021 7:06:57 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "01",
-                    "crewStatusCodeDescription": "We are aware of the problem.",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "2212",
-                    "zipCode": "93257",
+                    "numberOfCustomersAffected": "636",
+                    "zipCode": "93286",
                     "countyName": "Tulare                                  ",
-                    "cityName": "East Porterville",
+                    "cityName": "Unincorporated Area - Tulare County",
                     "districtNumber": "51",
                     "sectorNumber": "SAN JOAQUIN",
-                    "ERTCode": "02",
-                    "centroidX": "-118.998467070690",
-                    "centroidY": "36.05951798925460"
+                    "ERTCode": "01",
+                    "centroidX": "-119.111221342465",
+                    "centroidY": "36.37936436271160"
                 }
             ]
         }
