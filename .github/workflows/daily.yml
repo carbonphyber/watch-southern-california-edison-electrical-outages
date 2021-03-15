@@ -1,0 +1,23 @@
+# /.github/workflows/daily.yml
+# based on https://github.com/carbonphyber/watch-pge-electrical-outages/blob/main/.github/workflows/daily.yml
+on:
+  schedule:
+    - cron:  '*/10 * * * *' # Every 10 minutes
+name: Pull Data and Build
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Log Python location
+      run: which python
+    - name: Scrape
+      run: |
+        curl -o data/sce-electrical-outages-raw.json --no-progress-meter "https://prodms.dms.sce.com/outage/v1/power/outage?_=$(date +%s)"
+    - name: Pretty Print the JSON
+      run: |
+        cat data/sce-electrical-outages-raw.json | python -m json.tool > data/sce-electrical-outages.json
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
