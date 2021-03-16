@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-16T13:31:07.000Z",
+    "uiExpiraionDate": "2021-03-16T14:02:13.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 16, 2021, 06:16 AM",
+        "publishDate": "March 16, 2021, 06:47 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -15,7 +15,7 @@
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "607",
+                        "numberoOfCustomersAffected": "39",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -43,7 +43,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "15",
-                    "totalCustomersAffected": "3958"
+                    "totalCustomersAffected": "3390"
                 }
             },
             "cityBlock": {
@@ -93,7 +93,7 @@
                     {
                         "cityName": "Pico Rivera",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "569",
+                        "numberoOfCustomersAffected": "1",
                         "centroidX": "-118.088738145115",
                         "centroidY": "33.99012340459510"
                     },
@@ -121,7 +121,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "15",
-                    "totalCustomersAffected": "3958"
+                    "totalCustomersAffected": "3390"
                 }
             },
             "zipCodeBlock": {
@@ -143,7 +143,7 @@
                     {
                         "zipCodeName": "90660",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "569",
+                        "numberoOfCustomersAffected": "1",
                         "centroidX": "-118.087224297198",
                         "centroidY": "33.99325192723870"
                     },
@@ -206,7 +206,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "40",
-                    "totalCustomersAffected": "8492"
+                    "totalCustomersAffected": "7356"
                 }
             },
             "districtBlock": {
@@ -214,7 +214,7 @@
                     {
                         "districtNumber": "22",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "596",
+                        "numberoOfCustomersAffected": "28",
                         "centroidX": "-118.095054626544",
                         "centroidY": "34.04492252099090"
                     },
@@ -277,7 +277,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "15",
-                    "totalCustomersAffected": "3958"
+                    "totalCustomersAffected": "3390"
                 }
             },
             "sectorBlock": {
@@ -313,7 +313,7 @@
                     {
                         "sectorNumber": "MESA",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "596",
+                        "numberoOfCustomersAffected": "28",
                         "centroidX": "-118.041625982422",
                         "centroidY": "34.18203233598380"
                     },
@@ -341,7 +341,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "15",
-                    "totalCustomersAffected": "3958"
+                    "totalCustomersAffected": "3390"
                 }
             }
         },
@@ -356,9 +356,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153479",
                     "outageStartDateTime": "3/16/2021 1:00:00 AM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 5:08:07 AM",
-                    "estimateCLUDateTime": "Most up by 3/16/2021 7:00:00 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
                     "crewStatusCode": "04",
@@ -381,8 +381,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1153960",
                     "outageStartDateTime": "3/15/2021 10:10:22 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
-                    "lastChangeDateTime": "3/16/2021 5:26:48 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
+                    "lastChangeDateTime": "3/16/2021 6:30:49 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
@@ -390,15 +390,15 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "569",
+                    "numberOfCustomersAffected": "1",
                     "zipCode": "90660",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Pico Rivera",
                     "districtNumber": "22",
                     "sectorNumber": "MESA",
-                    "ERTCode": "06",
-                    "centroidX": "-118.087057739763",
-                    "centroidY": "33.99710966323970"
+                    "ERTCode": "09",
+                    "centroidX": "-118.08722450",
+                    "centroidY": "33.99785300000350"
                 },
                 {
                     "incidentId": "123872544",
@@ -406,8 +406,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1158621",
                     "outageStartDateTime": "3/16/2021 2:38:09 AM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
-                    "lastChangeDateTime": "3/16/2021 6:01:15 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
+                    "lastChangeDateTime": "3/16/2021 6:08:54 AM",
                     "estimateCLUDateTime": "Most up by 3/16/2021 11:00:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -431,7 +431,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155232",
                     "outageStartDateTime": "3/15/2021 10:08:27 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 12:06:05 AM",
                     "estimateCLUDateTime": "3/16/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -451,13 +451,13 @@
                     "centroidY": "33.60677175011270"
                 },
                 {
-                    "incidentId": "123810686",
+                    "incidentId": "123810641",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1155266",
-                    "outageStartDateTime": "3/15/2021 10:08:18 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
-                    "lastChangeDateTime": "3/15/2021 11:02:27 PM",
+                    "OANNumber": "1155256",
+                    "outageStartDateTime": "3/15/2021 10:00:00 PM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
+                    "lastChangeDateTime": "3/15/2021 11:14:53 PM",
                     "estimateCLUDateTime": "3/16/2021 8:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -465,15 +465,15 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "181",
+                    "numberOfCustomersAffected": "317",
                     "zipCode": "92225",
                     "countyName": "Riverside                               ",
                     "cityName": "Blythe",
                     "districtNumber": "87",
                     "sectorNumber": "BLYTHE",
                     "ERTCode": "06",
-                    "centroidX": "-114.594765174971",
-                    "centroidY": "33.60883728465650"
+                    "centroidX": "-114.588863588428",
+                    "centroidY": "33.61598700291330"
                 },
                 {
                     "incidentId": "123870777",
@@ -481,9 +481,9 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1158567",
                     "outageStartDateTime": "3/15/2021 6:19:26 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 5:18:33 AM",
-                    "estimateCLUDateTime": "Most up by 3/16/2021 7:00:00 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "02",
@@ -506,7 +506,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1158580",
                     "outageStartDateTime": "3/15/2021 6:40:57 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 2:35:29 AM",
                     "estimateCLUDateTime": "Most up by 3/16/2021 3:00:00 PM",
                     "memoCauseCode": "16",
@@ -531,13 +531,13 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1158365",
                     "outageStartDateTime": "3/15/2021 9:28:42 AM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
-                    "lastChangeDateTime": "3/16/2021 5:57:38 AM",
-                    "estimateCLUDateTime": "Not Available",
+                    "versionDate": "3/16/2021 6:37:37 AM",
+                    "lastChangeDateTime": "3/16/2021 6:12:20 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "11",
-                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
                     "numberOfCustomersAffected": "27",
@@ -546,7 +546,7 @@
                     "cityName": "East Los Angeles",
                     "districtNumber": "22",
                     "sectorNumber": "MESA",
-                    "ERTCode": "2",
+                    "ERTCode": "07",
                     "centroidX": "-118.152859",
                     "centroidY": "34.02298400000370"
                 },
@@ -556,7 +556,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155247",
                     "outageStartDateTime": "3/15/2021 10:08:36 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 1:27:55 AM",
                     "estimateCLUDateTime": "3/16/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -576,13 +576,13 @@
                     "centroidY": "33.60748279421980"
                 },
                 {
-                    "incidentId": "123810641",
+                    "incidentId": "123810686",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1155256",
-                    "outageStartDateTime": "3/15/2021 10:00:00 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
-                    "lastChangeDateTime": "3/15/2021 11:14:53 PM",
+                    "OANNumber": "1155266",
+                    "outageStartDateTime": "3/15/2021 10:08:18 PM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
+                    "lastChangeDateTime": "3/15/2021 11:02:27 PM",
                     "estimateCLUDateTime": "3/16/2021 8:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -590,15 +590,15 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "317",
+                    "numberOfCustomersAffected": "181",
                     "zipCode": "92225",
                     "countyName": "Riverside                               ",
                     "cityName": "Blythe",
                     "districtNumber": "87",
                     "sectorNumber": "BLYTHE",
                     "ERTCode": "06",
-                    "centroidX": "-114.588863588428",
-                    "centroidY": "33.61598700291330"
+                    "centroidX": "-114.594765174971",
+                    "centroidY": "33.60883728465650"
                 },
                 {
                     "incidentId": "123871296",
@@ -606,13 +606,13 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1158574",
                     "outageStartDateTime": "3/15/2021 7:19:00 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 2:14:58 AM",
                     "estimateCLUDateTime": "Most up by 3/16/2021 1:00:00 PM",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
-                    "crewStatusCode": "11",
-                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "06",
                     "resultCodeDesription": "Equipment Damage",
                     "numberOfCustomersAffected": "538",
@@ -631,9 +631,9 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1158583",
                     "outageStartDateTime": "3/15/2021 8:45:56 PM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 5:22:33 AM",
-                    "estimateCLUDateTime": "Most up by 3/16/2021 7:00:00 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
                     "crewStatusCode": "11",
@@ -656,7 +656,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1158619",
                     "outageStartDateTime": "3/16/2021 1:49:47 AM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 3:31:22 AM",
                     "estimateCLUDateTime": "Most up by 3/16/2021 12:30:00 PM",
                     "memoCauseCode": "11",
@@ -681,8 +681,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1158643",
                     "outageStartDateTime": "3/16/2021 5:34:02 AM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
-                    "lastChangeDateTime": "3/16/2021 6:01:21 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
+                    "lastChangeDateTime": "3/16/2021 6:13:26 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -706,7 +706,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1158624",
                     "outageStartDateTime": "3/16/2021 3:37:02 AM",
-                    "versionDate": "3/16/2021 6:08:38 AM",
+                    "versionDate": "3/16/2021 6:37:37 AM",
                     "lastChangeDateTime": "3/16/2021 5:53:43 AM",
                     "estimateCLUDateTime": "Most up by 3/16/2021 10:30:00 AM",
                     "memoCauseCode": "15",
