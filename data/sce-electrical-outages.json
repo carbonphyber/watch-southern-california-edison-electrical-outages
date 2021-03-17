@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-17T14:51:01.000Z",
+    "uiExpiraionDate": "2021-03-17T15:01:09.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 17, 2021, 07:36 AM",
+        "publishDate": "March 17, 2021, 07:46 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -22,7 +22,7 @@
                     {
                         "countyName": "Riverside                               ",
                         "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "39",
+                        "numberoOfCustomersAffected": "40",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -36,7 +36,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "964"
+                    "totalCustomersAffected": "965"
                 }
             },
             "cityBlock": {
@@ -72,7 +72,7 @@
                     {
                         "cityName": "Palm Springs",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "10",
+                        "numberoOfCustomersAffected": "11",
                         "centroidX": "-116.538050571858",
                         "centroidY": "33.801705291180"
                     },
@@ -93,7 +93,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "964"
+                    "totalCustomersAffected": "965"
                 }
             },
             "zipCodeBlock": {
@@ -129,14 +129,14 @@
                     {
                         "zipCodeName": "No Zip Code",
                         "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "39",
+                        "numberoOfCustomersAffected": "40",
                         "centroidX": "\n        ",
                         "centroidY": "\n        "
                     }
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "19",
-                    "totalCustomersAffected": "1214"
+                    "totalCustomersAffected": "1215"
                 }
             },
             "districtBlock": {
@@ -179,14 +179,14 @@
                     {
                         "districtNumber": "79",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "10",
+                        "numberoOfCustomersAffected": "11",
                         "centroidX": "-116.592399612918",
                         "centroidY": "33.73075475445940"
                     }
                 ],
                 "districtTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "964"
+                    "totalCustomersAffected": "965"
                 }
             },
             "sectorBlock": {
@@ -201,7 +201,7 @@
                     {
                         "sectorNumber": "DEVERS",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "10",
+                        "numberoOfCustomersAffected": "11",
                         "centroidX": "-116.592399612918",
                         "centroidY": "33.73075475445940"
                     },
@@ -236,7 +236,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "964"
+                    "totalCustomersAffected": "965"
                 }
             }
         },
@@ -251,7 +251,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1158971",
                     "outageStartDateTime": "3/16/2021 11:15:28 PM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
                     "lastChangeDateTime": "3/17/2021 3:58:21 AM",
                     "estimateCLUDateTime": "Most up by 3/17/2021 12:00:00 PM",
                     "memoCauseCode": "13",
@@ -276,7 +276,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155328",
                     "outageStartDateTime": "3/17/2021 5:45:00 AM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
                     "lastChangeDateTime": "3/17/2021 6:28:10 AM",
                     "estimateCLUDateTime": "3/17/2021 5:00:00 PM",
                     "memoCauseCode": "07",
@@ -301,7 +301,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153581",
                     "outageStartDateTime": "3/17/2021 5:00:00 AM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
                     "lastChangeDateTime": "3/17/2021 5:24:10 AM",
                     "estimateCLUDateTime": "3/17/2021 1:00:00 PM",
                     "memoCauseCode": "07",
@@ -326,7 +326,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1158736",
                     "outageStartDateTime": "3/16/2021 8:55:41 AM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
                     "lastChangeDateTime": "3/17/2021 3:33:33 AM",
                     "estimateCLUDateTime": "3/17/2021 12:00:00 PM",
                     "memoCauseCode": "16",
@@ -351,7 +351,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156803",
                     "outageStartDateTime": "3/17/2021 7:14:07 AM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
                     "lastChangeDateTime": "3/17/2021 7:15:20 AM",
                     "estimateCLUDateTime": "3/17/2021 4:00:00 PM",
                     "memoCauseCode": "21",
@@ -376,8 +376,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156808",
                     "outageStartDateTime": "3/17/2021 7:15:32 AM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
-                    "lastChangeDateTime": "3/17/2021 7:15:56 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
+                    "lastChangeDateTime": "3/17/2021 7:29:25 AM",
                     "estimateCLUDateTime": "3/17/2021 4:00:00 PM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -385,7 +385,7 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "0",
+                    "numberOfCustomersAffected": "1",
                     "zipCode": "No Zip Code",
                     "countyName": "Riverside                               ",
                     "cityName": "Palm Springs",
@@ -401,7 +401,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1154305",
                     "outageStartDateTime": "3/16/2021 9:29:23 PM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
                     "lastChangeDateTime": "3/17/2021 6:04:20 AM",
                     "estimateCLUDateTime": "3/17/2021 9:00:00 AM",
                     "memoCauseCode": "07",
@@ -426,7 +426,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1154307",
                     "outageStartDateTime": "3/16/2021 9:29:53 PM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
                     "lastChangeDateTime": "3/17/2021 6:04:05 AM",
                     "estimateCLUDateTime": "3/17/2021 9:00:00 AM",
                     "memoCauseCode": "07",
@@ -451,9 +451,9 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1159037",
                     "outageStartDateTime": "3/17/2021 7:07:01 AM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
-                    "lastChangeDateTime": "3/17/2021 7:15:45 AM",
-                    "estimateCLUDateTime": "Most up by 3/17/2021 8:07:01 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
+                    "lastChangeDateTime": "3/17/2021 7:29:09 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "02",
@@ -476,8 +476,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1158996",
                     "outageStartDateTime": "3/17/2021 2:16:35 AM",
-                    "versionDate": "3/17/2021 7:25:05 AM",
-                    "lastChangeDateTime": "3/17/2021 7:15:28 AM",
+                    "versionDate": "3/17/2021 7:35:07 AM",
+                    "lastChangeDateTime": "3/17/2021 7:29:11 AM",
                     "estimateCLUDateTime": "3/17/2021 3:30:00 PM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
