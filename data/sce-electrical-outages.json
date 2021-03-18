@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-18T12:58:58.000Z",
+    "uiExpiraionDate": "2021-03-18T13:39:20.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 18, 2021, 05:43 AM",
+        "publishDate": "March 18, 2021, 06:24 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -11,43 +11,15 @@
                         "numberoOfCustomersAffected": "102",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
-                    },
-                    {
-                        "countyName": "Orange                                  ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "28",
-                        "centroidX": "-117.779276265953",
-                        "centroidY": "33.21832364981430"
-                    },
-                    {
-                        "countyName": "Riverside                               ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
-                        "centroidX": "-115.993691627676",
-                        "centroidY": "33.74647681696390"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "163"
+                    "totalIncidents": "2",
+                    "totalCustomersAffected": "102"
                 }
             },
             "cityBlock": {
                 "city": [
-                    {
-                        "cityName": "Calimesa",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
-                        "centroidX": "-117.054468146789",
-                        "centroidY": "33.98737617181940"
-                    },
-                    {
-                        "cityName": "Huntington Beach",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "28",
-                        "centroidX": "-118.002557757919",
-                        "centroidY": "33.695901718445"
-                    },
                     {
                         "cityName": "Santa Monica",
                         "numberOfIncidents": "1",
@@ -64,8 +36,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "163"
+                    "totalIncidents": "2",
+                    "totalCustomersAffected": "102"
                 }
             },
             "zipCodeBlock": {
@@ -83,43 +55,15 @@
                         "numberoOfCustomersAffected": "73",
                         "centroidX": "-118.502567239008",
                         "centroidY": "34.02083695303490"
-                    },
-                    {
-                        "zipCodeName": "92320",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
-                        "centroidX": "-117.051566965325",
-                        "centroidY": "33.98657765936930"
-                    },
-                    {
-                        "zipCodeName": "92648",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "28",
-                        "centroidX": "-118.014687282111",
-                        "centroidY": "33.681221721551"
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "8",
-                    "totalCustomersAffected": "326"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "204"
                 }
             },
             "districtBlock": {
                 "district": [
-                    {
-                        "districtNumber": "31",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
-                        "centroidX": "-117.064038478043",
-                        "centroidY": "34.05116348904590"
-                    },
-                    {
-                        "districtNumber": "33",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "28",
-                        "centroidX": "-117.949649811255",
-                        "centroidY": "33.67443891010450"
-                    },
                     {
                         "districtNumber": "42",
                         "numberOfIncidents": "1",
@@ -136,8 +80,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "163"
+                    "totalIncidents": "2",
+                    "totalCustomersAffected": "102"
                 }
             },
             "sectorBlock": {
@@ -148,25 +92,11 @@
                         "numberoOfCustomersAffected": "102",
                         "centroidX": "-118.403697968540",
                         "centroidY": "33.91681631657030"
-                    },
-                    {
-                        "sectorNumber": "ELLIS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "28",
-                        "centroidX": "-117.756778722938",
-                        "centroidY": "33.67074505842850"
-                    },
-                    {
-                        "sectorNumber": "VISTA",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
-                        "centroidX": "-117.166920310144",
-                        "centroidY": "34.11683585814790"
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "163"
+                    "totalIncidents": "2",
+                    "totalCustomersAffected": "102"
                 }
             }
         },
@@ -181,9 +111,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1159351",
                     "outageStartDateTime": "3/18/2021 12:00:07 AM",
-                    "versionDate": "3/18/2021 5:39:54 AM",
-                    "lastChangeDateTime": "3/18/2021 3:42:19 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "versionDate": "3/18/2021 6:20:10 AM",
+                    "lastChangeDateTime": "3/18/2021 5:56:50 AM",
+                    "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "01",
@@ -196,7 +126,7 @@
                     "cityName": "Santa Monica",
                     "districtNumber": "42",
                     "sectorNumber": "EL NIDO",
-                    "ERTCode": "05",
+                    "ERTCode": "2",
                     "centroidX": "-118.503820",
                     "centroidY": "34.02248600000370"
                 },
@@ -206,8 +136,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1159360",
                     "outageStartDateTime": "3/18/2021 1:54:32 AM",
-                    "versionDate": "3/18/2021 5:39:54 AM",
-                    "lastChangeDateTime": "3/18/2021 5:11:52 AM",
+                    "versionDate": "3/18/2021 6:20:10 AM",
+                    "lastChangeDateTime": "3/18/2021 5:54:39 AM",
                     "estimateCLUDateTime": "Most up by 3/18/2021 8:00:00 AM",
                     "memoCauseCode": "18",
                     "memoCauseCodeDescription": "Trees in Equipment",
@@ -224,56 +154,6 @@
                     "ERTCode": "05",
                     "centroidX": "-118.376050125847",
                     "centroidY": "33.81023737676590"
-                },
-                {
-                    "incidentId": "123801312",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1154341",
-                    "outageStartDateTime": "3/18/2021 3:11:28 AM",
-                    "versionDate": "3/18/2021 5:39:54 AM",
-                    "lastChangeDateTime": "3/18/2021 5:23:32 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "07",
-                    "memoCauseCodeDescription": "Upgrading Equipment",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "28",
-                    "zipCode": "92648",
-                    "countyName": "Orange                                  ",
-                    "cityName": "Huntington Beach",
-                    "districtNumber": "33",
-                    "sectorNumber": "ELLIS",
-                    "ERTCode": "06",
-                    "centroidX": "-118.00081450",
-                    "centroidY": "33.657122500018"
-                },
-                {
-                    "incidentId": "123880904",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "F",
-                    "OANNumber": "1159170",
-                    "outageStartDateTime": "3/17/2021 10:21:13 AM",
-                    "versionDate": "3/18/2021 5:39:54 AM",
-                    "lastChangeDateTime": "3/18/2021 1:22:17 AM",
-                    "estimateCLUDateTime": "3/18/2021 7:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "33",
-                    "zipCode": "92320",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Calimesa",
-                    "districtNumber": "31",
-                    "sectorNumber": "VISTA",
-                    "ERTCode": "06",
-                    "centroidX": "-117.075496325815",
-                    "centroidY": "34.00308181992210"
                 }
             ]
         }
