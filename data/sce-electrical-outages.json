@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-18T14:40:46.000Z",
+    "uiExpiraionDate": "2021-03-18T14:51:51.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 18, 2021, 07:25 AM",
+        "publishDate": "March 18, 2021, 07:36 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "29",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "41",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -21,12 +21,19 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "3",
-                    "totalCustomersAffected": "81"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "93"
                 }
             },
             "cityBlock": {
                 "city": [
+                    {
+                        "cityName": "Glendora",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "12",
+                        "centroidX": "-117.846511401384",
+                        "centroidY": "34.144942907509"
+                    },
                     {
                         "cityName": "Torrance",
                         "numberOfIncidents": "1",
@@ -50,8 +57,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "3",
-                    "totalCustomersAffected": "81"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "93"
                 }
             },
             "zipCodeBlock": {
@@ -62,6 +69,13 @@
                         "numberoOfCustomersAffected": "29",
                         "centroidX": "-118.395097134241",
                         "centroidY": "33.82911606174660"
+                    },
+                    {
+                        "zipCodeName": "91741",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "12",
+                        "centroidX": "-117.852995952011",
+                        "centroidY": "34.14851494044860"
                     },
                     {
                         "zipCodeName": "91786",
@@ -79,12 +93,19 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "6",
-                    "totalCustomersAffected": "162"
+                    "totalIncidents": "8",
+                    "totalCustomersAffected": "186"
                 }
             },
             "districtBlock": {
                 "district": [
+                    {
+                        "districtNumber": "26",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "12",
+                        "centroidX": "-117.843448641056",
+                        "centroidY": "34.13907182771690"
+                    },
                     {
                         "districtNumber": "30",
                         "numberOfIncidents": "1",
@@ -108,8 +129,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "3",
-                    "totalCustomersAffected": "81"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "93"
                 }
             },
             "sectorBlock": {
@@ -123,8 +144,8 @@
                     },
                     {
                         "sectorNumber": "MIRALOMA",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "11",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "23",
                         "centroidX": "-117.705783857999",
                         "centroidY": "34.047426553560"
                     },
@@ -137,8 +158,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "3",
-                    "totalCustomersAffected": "81"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "93"
                 }
             }
         },
@@ -148,14 +169,39 @@
         "AOCIncidents": {
             "incident": [
                 {
+                    "incidentId": "123883531",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "A",
+                    "OANNumber": "1159408",
+                    "outageStartDateTime": "3/18/2021 6:46:07 AM",
+                    "versionDate": "3/18/2021 7:30:43 AM",
+                    "lastChangeDateTime": "3/18/2021 7:26:15 AM",
+                    "estimateCLUDateTime": "Most up by 3/18/2021 11:30:34 AM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "01",
+                    "crewStatusCodeDescription": "We are aware of the problem.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "12",
+                    "zipCode": "91741",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Glendora",
+                    "districtNumber": "26",
+                    "sectorNumber": "MIRALOMA",
+                    "ERTCode": "05",
+                    "centroidX": "-117.855724000327",
+                    "centroidY": "34.15119100003840"
+                },
+                {
                     "incidentId": "123883209",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1159360",
                     "outageStartDateTime": "3/18/2021 1:54:32 AM",
-                    "versionDate": "3/18/2021 7:20:01 AM",
-                    "lastChangeDateTime": "3/18/2021 6:53:24 AM",
-                    "estimateCLUDateTime": "Most up by 3/18/2021 8:00:00 AM",
+                    "versionDate": "3/18/2021 7:30:43 AM",
+                    "lastChangeDateTime": "3/18/2021 7:20:37 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "18",
                     "memoCauseCodeDescription": "Trees in Equipment",
                     "crewStatusCode": "11",
@@ -178,7 +224,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154753",
                     "outageStartDateTime": "3/18/2021 7:00:50 AM",
-                    "versionDate": "3/18/2021 7:20:01 AM",
+                    "versionDate": "3/18/2021 7:30:43 AM",
                     "lastChangeDateTime": "3/18/2021 7:01:12 AM",
                     "estimateCLUDateTime": "3/18/2021 3:30:00 PM",
                     "memoCauseCode": "21",
@@ -200,11 +246,11 @@
                 {
                     "incidentId": "123804080",
                     "incidentType": "PO",
-                    "FACJobStatusCode": "A",
+                    "FACJobStatusCode": "D",
                     "OANNumber": "1154638",
                     "outageStartDateTime": "3/18/2021 7:00:00 AM",
-                    "versionDate": "3/18/2021 7:20:01 AM",
-                    "lastChangeDateTime": "3/18/2021 7:16:21 AM",
+                    "versionDate": "3/18/2021 7:30:43 AM",
+                    "lastChangeDateTime": "3/18/2021 7:24:21 AM",
                     "estimateCLUDateTime": "3/18/2021 4:00:00 PM",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
