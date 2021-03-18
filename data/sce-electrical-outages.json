@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-18T14:30:00.000Z",
+    "uiExpiraionDate": "2021-03-18T14:40:46.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 18, 2021, 07:15 AM",
+        "publishDate": "March 18, 2021, 07:25 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,15 +14,15 @@
                     },
                     {
                         "countyName": "San Bernardino                          ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "11",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "52",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "2",
-                    "totalCustomersAffected": "40"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "81"
                 }
             },
             "cityBlock": {
@@ -35,6 +35,13 @@
                         "centroidY": "33.83460781301750"
                     },
                     {
+                        "cityName": "Unincorporated Area - San Bernardino County",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "41",
+                        "centroidX": "-116.131102794254",
+                        "centroidY": "34.86889126946560"
+                    },
+                    {
                         "cityName": "Upland",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "11",
@@ -43,8 +50,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "2",
-                    "totalCustomersAffected": "40"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "81"
                 }
             },
             "zipCodeBlock": {
@@ -62,15 +69,29 @@
                         "numberoOfCustomersAffected": "11",
                         "centroidX": "-117.661996941353",
                         "centroidY": "34.10513490736870"
+                    },
+                    {
+                        "zipCodeName": "92407",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "41",
+                        "centroidX": "-117.370513280660",
+                        "centroidY": "34.20120264238670"
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "80"
+                    "totalIncidents": "6",
+                    "totalCustomersAffected": "162"
                 }
             },
             "districtBlock": {
                 "district": [
+                    {
+                        "districtNumber": "30",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "41",
+                        "centroidX": "-117.473674775964",
+                        "centroidY": "34.17261336761070"
+                    },
                     {
                         "districtNumber": "34",
                         "numberOfIncidents": "1",
@@ -87,8 +108,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "2",
-                    "totalCustomersAffected": "40"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "81"
                 }
             },
             "sectorBlock": {
@@ -106,11 +127,18 @@
                         "numberoOfCustomersAffected": "11",
                         "centroidX": "-117.705783857999",
                         "centroidY": "34.047426553560"
+                    },
+                    {
+                        "sectorNumber": "VISTA",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "41",
+                        "centroidX": "-117.166920310144",
+                        "centroidY": "34.11683585814790"
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "2",
-                    "totalCustomersAffected": "40"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "81"
                 }
             }
         },
@@ -125,7 +153,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1159360",
                     "outageStartDateTime": "3/18/2021 1:54:32 AM",
-                    "versionDate": "3/18/2021 7:09:53 AM",
+                    "versionDate": "3/18/2021 7:20:01 AM",
                     "lastChangeDateTime": "3/18/2021 6:53:24 AM",
                     "estimateCLUDateTime": "Most up by 3/18/2021 8:00:00 AM",
                     "memoCauseCode": "18",
@@ -150,7 +178,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154753",
                     "outageStartDateTime": "3/18/2021 7:00:50 AM",
-                    "versionDate": "3/18/2021 7:09:53 AM",
+                    "versionDate": "3/18/2021 7:20:01 AM",
                     "lastChangeDateTime": "3/18/2021 7:01:12 AM",
                     "estimateCLUDateTime": "3/18/2021 3:30:00 PM",
                     "memoCauseCode": "21",
@@ -168,6 +196,31 @@
                     "ERTCode": "06",
                     "centroidX": "-117.653021000098",
                     "centroidY": "34.11236850002260"
+                },
+                {
+                    "incidentId": "123804080",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "A",
+                    "OANNumber": "1154638",
+                    "outageStartDateTime": "3/18/2021 7:00:00 AM",
+                    "versionDate": "3/18/2021 7:20:01 AM",
+                    "lastChangeDateTime": "3/18/2021 7:16:21 AM",
+                    "estimateCLUDateTime": "3/18/2021 4:00:00 PM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "41",
+                    "zipCode": "92407",
+                    "countyName": "San Bernardino                          ",
+                    "cityName": "Unincorporated Area - San Bernardino County",
+                    "districtNumber": "30",
+                    "sectorNumber": "VISTA",
+                    "ERTCode": "06",
+                    "centroidX": "-117.346991399880",
+                    "centroidY": "34.15989390965720"
                 }
             ]
         }
