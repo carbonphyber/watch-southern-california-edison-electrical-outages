@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-18T13:39:20.000Z",
+    "uiExpiraionDate": "2021-03-18T13:54:43.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 18, 2021, 06:24 AM",
+        "publishDate": "March 18, 2021, 06:39 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -111,9 +111,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1159351",
                     "outageStartDateTime": "3/18/2021 12:00:07 AM",
-                    "versionDate": "3/18/2021 6:20:10 AM",
-                    "lastChangeDateTime": "3/18/2021 5:56:50 AM",
-                    "estimateCLUDateTime": "Not Available",
+                    "versionDate": "3/18/2021 6:30:18 AM",
+                    "lastChangeDateTime": "3/18/2021 6:26:06 AM",
+                    "estimateCLUDateTime": "Most up by 3/18/2021 8:00:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "01",
@@ -126,7 +126,7 @@
                     "cityName": "Santa Monica",
                     "districtNumber": "42",
                     "sectorNumber": "EL NIDO",
-                    "ERTCode": "2",
+                    "ERTCode": "05",
                     "centroidX": "-118.503820",
                     "centroidY": "34.02248600000370"
                 },
@@ -136,8 +136,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1159360",
                     "outageStartDateTime": "3/18/2021 1:54:32 AM",
-                    "versionDate": "3/18/2021 6:20:10 AM",
-                    "lastChangeDateTime": "3/18/2021 5:54:39 AM",
+                    "versionDate": "3/18/2021 6:30:18 AM",
+                    "lastChangeDateTime": "3/18/2021 6:23:30 AM",
                     "estimateCLUDateTime": "Most up by 3/18/2021 8:00:00 AM",
                     "memoCauseCode": "18",
                     "memoCauseCodeDescription": "Trees in Equipment",
