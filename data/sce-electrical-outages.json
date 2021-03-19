@@ -1,17 +1,10 @@
 {
-    "uiExpiraionDate": "2021-03-19T13:42:37.000Z",
+    "uiExpiraionDate": "2021-03-19T13:58:35.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 19, 2021, 06:27 AM",
+        "publishDate": "March 19, 2021, 06:43 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
-                    {
-                        "countyName": "Fresno                                  ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "170",
-                        "centroidX": "-119.654764848260",
-                        "centroidY": "36.75889519381470"
-                    },
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "2",
@@ -35,19 +28,12 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "314"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "144"
                 }
             },
             "cityBlock": {
                 "city": [
-                    {
-                        "cityName": "Shaver Lake",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "170",
-                        "centroidX": "-119.307460877183",
-                        "centroidY": "37.102102645023"
-                    },
                     {
                         "cityName": "South San Gabriel",
                         "numberOfIncidents": "1",
@@ -78,8 +64,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "314"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "144"
                 }
             },
             "zipCodeBlock": {
@@ -106,13 +92,6 @@
                         "centroidY": "34.34045488688440"
                     },
                     {
-                        "zipCodeName": "93664",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "170",
-                        "centroidX": "-119.243393041620",
-                        "centroidY": "37.20185515265550"
-                    },
-                    {
                         "zipCodeName": "No Zip Code",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "10",
@@ -121,8 +100,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "650"
+                    "totalIncidents": "11",
+                    "totalCustomersAffected": "310"
                 }
             },
             "districtBlock": {
@@ -154,29 +133,15 @@
                         "numberoOfCustomersAffected": "8",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
-                    },
-                    {
-                        "districtNumber": "50",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "170",
-                        "centroidX": "-119.034130113543",
-                        "centroidY": "37.31412054288890"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "314"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "144"
                 }
             },
             "sectorBlock": {
                 "sector": [
-                    {
-                        "sectorNumber": "BIG CREEK",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "170",
-                        "centroidX": "-119.034130113543",
-                        "centroidY": "37.31412054288890"
-                    },
                     {
                         "sectorNumber": "MESA",
                         "numberOfIncidents": "1",
@@ -207,8 +172,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "314"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "144"
                 }
             }
         },
@@ -223,9 +188,9 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1153237",
                     "outageStartDateTime": "3/19/2021 4:06:44 AM",
-                    "versionDate": "3/19/2021 6:15:56 AM",
-                    "lastChangeDateTime": "3/19/2021 4:15:02 AM",
-                    "estimateCLUDateTime": "3/19/2021 7:00:00 AM",
+                    "versionDate": "3/19/2021 6:35:55 AM",
+                    "lastChangeDateTime": "3/19/2021 6:26:36 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
@@ -243,39 +208,14 @@
                     "centroidY": "34.40034000000370"
                 },
                 {
-                    "incidentId": "123805549",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1154775",
-                    "outageStartDateTime": "3/18/2021 9:00:00 PM",
-                    "versionDate": "3/19/2021 6:15:56 AM",
-                    "lastChangeDateTime": "3/19/2021 6:00:58 AM",
-                    "estimateCLUDateTime": "3/19/2021 8:00:00 AM",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "170",
-                    "zipCode": "93664",
-                    "countyName": "Fresno                                  ",
-                    "cityName": "Shaver Lake",
-                    "districtNumber": "50",
-                    "sectorNumber": "BIG CREEK",
-                    "ERTCode": "07",
-                    "centroidX": "-119.316573810874",
-                    "centroidY": "37.10734097010170"
-                },
-                {
                     "incidentId": "123805360",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154751",
                     "outageStartDateTime": "3/19/2021 4:00:00 AM",
-                    "versionDate": "3/19/2021 6:15:56 AM",
+                    "versionDate": "3/19/2021 6:35:55 AM",
                     "lastChangeDateTime": "3/19/2021 5:49:12 AM",
-                    "estimateCLUDateTime": "3/19/2021 7:00:00 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
@@ -298,7 +238,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154987",
                     "outageStartDateTime": "3/19/2021 2:00:00 AM",
-                    "versionDate": "3/19/2021 6:15:56 AM",
+                    "versionDate": "3/19/2021 6:35:55 AM",
                     "lastChangeDateTime": "3/19/2021 6:03:39 AM",
                     "estimateCLUDateTime": "3/19/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -323,7 +263,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1159755",
                     "outageStartDateTime": "3/18/2021 10:22:53 PM",
-                    "versionDate": "3/19/2021 6:15:56 AM",
+                    "versionDate": "3/19/2021 6:35:55 AM",
                     "lastChangeDateTime": "3/19/2021 3:54:41 AM",
                     "estimateCLUDateTime": "Most up by 3/19/2021 10:00:00 AM",
                     "memoCauseCode": "11",
