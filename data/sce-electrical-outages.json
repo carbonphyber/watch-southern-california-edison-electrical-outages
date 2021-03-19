@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-19T13:58:35.000Z",
+    "uiExpiraionDate": "2021-03-19T14:30:41.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 19, 2021, 06:43 AM",
+        "publishDate": "March 19, 2021, 07:15 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "126",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "181",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -18,22 +18,22 @@
                         "numberoOfCustomersAffected": "10",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
-                    },
-                    {
-                        "countyName": "Ventura                                 ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "8",
-                        "centroidX": "-119.194616846888",
-                        "centroidY": "33.95953385222530"
                     }
                 ],
                 "countyTotals": {
                     "totalIncidents": "4",
-                    "totalCustomersAffected": "144"
+                    "totalCustomersAffected": "191"
                 }
             },
             "cityBlock": {
                 "city": [
+                    {
+                        "cityName": "Alhambra",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "55",
+                        "centroidX": "-118.135415990706",
+                        "centroidY": "34.08398054930950"
+                    },
                     {
                         "cityName": "South San Gabriel",
                         "numberOfIncidents": "1",
@@ -54,18 +54,11 @@
                         "numberoOfCustomersAffected": "10",
                         "centroidX": "-116.131102794254",
                         "centroidY": "34.86889126946560"
-                    },
-                    {
-                        "cityName": "Unincorporated Area - Ventura County",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "8",
-                        "centroidX": "-119.097689347676",
-                        "centroidY": "34.48180914978320"
                     }
                 ],
                 "cityTotals": {
                     "totalIncidents": "4",
-                    "totalCustomersAffected": "144"
+                    "totalCustomersAffected": "191"
                 }
             },
             "zipCodeBlock": {
@@ -85,11 +78,11 @@
                         "centroidY": "34.02100857812580"
                     },
                     {
-                        "zipCodeName": "93001",
+                        "zipCodeName": "91801",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "8",
-                        "centroidX": "-119.334781138983",
-                        "centroidY": "34.34045488688440"
+                        "numberoOfCustomersAffected": "55",
+                        "centroidX": "-118.127955429106",
+                        "centroidY": "34.09056318810640"
                     },
                     {
                         "zipCodeName": "No Zip Code",
@@ -100,16 +93,16 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "310"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "372"
                 }
             },
             "districtBlock": {
                 "district": [
                     {
                         "districtNumber": "22",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "90",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "145",
                         "centroidX": "-118.095054626544",
                         "centroidY": "34.04492252099090"
                     },
@@ -126,26 +119,19 @@
                         "numberoOfCustomersAffected": "10",
                         "centroidX": "-117.064038478043",
                         "centroidY": "34.05116348904590"
-                    },
-                    {
-                        "districtNumber": "39",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "8",
-                        "centroidX": "-119.156215681038",
-                        "centroidY": "34.35706535352120"
                     }
                 ],
                 "districtTotals": {
                     "totalIncidents": "4",
-                    "totalCustomersAffected": "144"
+                    "totalCustomersAffected": "191"
                 }
             },
             "sectorBlock": {
                 "sector": [
                     {
                         "sectorNumber": "MESA",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "90",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "145",
                         "centroidX": "-118.041625982422",
                         "centroidY": "34.18203233598380"
                     },
@@ -157,13 +143,6 @@
                         "centroidY": "34.047426553560"
                     },
                     {
-                        "sectorNumber": "SANTA CLARA",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "8",
-                        "centroidX": "-119.156215681038",
-                        "centroidY": "34.35706535352120"
-                    },
-                    {
                         "sectorNumber": "VISTA",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "10",
@@ -173,7 +152,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "4",
-                    "totalCustomersAffected": "144"
+                    "totalCustomersAffected": "191"
                 }
             }
         },
@@ -183,39 +162,14 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123786125",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1153237",
-                    "outageStartDateTime": "3/19/2021 4:06:44 AM",
-                    "versionDate": "3/19/2021 6:35:55 AM",
-                    "lastChangeDateTime": "3/19/2021 6:26:36 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "8",
-                    "zipCode": "93001",
-                    "countyName": "Ventura                                 ",
-                    "cityName": "Unincorporated Area - Ventura County",
-                    "districtNumber": "39",
-                    "sectorNumber": "SANTA CLARA",
-                    "ERTCode": "06",
-                    "centroidX": "-119.315338",
-                    "centroidY": "34.40034000000370"
-                },
-                {
                     "incidentId": "123805360",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154751",
                     "outageStartDateTime": "3/19/2021 4:00:00 AM",
-                    "versionDate": "3/19/2021 6:35:55 AM",
-                    "lastChangeDateTime": "3/19/2021 5:49:12 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "versionDate": "3/19/2021 7:06:03 AM",
+                    "lastChangeDateTime": "3/19/2021 6:51:01 AM",
+                    "estimateCLUDateTime": "3/19/2021 8:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
@@ -238,7 +192,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154987",
                     "outageStartDateTime": "3/19/2021 2:00:00 AM",
-                    "versionDate": "3/19/2021 6:35:55 AM",
+                    "versionDate": "3/19/2021 7:06:03 AM",
                     "lastChangeDateTime": "3/19/2021 6:03:39 AM",
                     "estimateCLUDateTime": "3/19/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -263,7 +217,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1159755",
                     "outageStartDateTime": "3/18/2021 10:22:53 PM",
-                    "versionDate": "3/19/2021 6:35:55 AM",
+                    "versionDate": "3/19/2021 7:06:03 AM",
                     "lastChangeDateTime": "3/19/2021 3:54:41 AM",
                     "estimateCLUDateTime": "Most up by 3/19/2021 10:00:00 AM",
                     "memoCauseCode": "11",
@@ -281,6 +235,31 @@
                     "ERTCode": "05",
                     "centroidX": "-118.099966804569",
                     "centroidY": "34.05157515363930"
+                },
+                {
+                    "incidentId": "123887324",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "F",
+                    "OANNumber": "1159786",
+                    "outageStartDateTime": "3/19/2021 4:57:17 AM",
+                    "versionDate": "3/19/2021 7:06:03 AM",
+                    "lastChangeDateTime": "3/19/2021 7:01:30 AM",
+                    "estimateCLUDateTime": "Not Available",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "11",
+                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "55",
+                    "zipCode": "91801",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Alhambra",
+                    "districtNumber": "22",
+                    "sectorNumber": "MESA",
+                    "ERTCode": "2",
+                    "centroidX": "-118.108916984083",
+                    "centroidY": "34.08253633465490"
                 }
             ]
         }
