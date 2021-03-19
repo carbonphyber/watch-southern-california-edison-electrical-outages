@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-19T14:30:41.000Z",
+    "uiExpiraionDate": "2021-03-19T14:52:13.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 19, 2021, 07:15 AM",
+        "publishDate": "March 19, 2021, 07:37 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -167,7 +167,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154751",
                     "outageStartDateTime": "3/19/2021 4:00:00 AM",
-                    "versionDate": "3/19/2021 7:06:03 AM",
+                    "versionDate": "3/19/2021 7:26:21 AM",
                     "lastChangeDateTime": "3/19/2021 6:51:01 AM",
                     "estimateCLUDateTime": "3/19/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -192,7 +192,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154987",
                     "outageStartDateTime": "3/19/2021 2:00:00 AM",
-                    "versionDate": "3/19/2021 7:06:03 AM",
+                    "versionDate": "3/19/2021 7:26:21 AM",
                     "lastChangeDateTime": "3/19/2021 6:03:39 AM",
                     "estimateCLUDateTime": "3/19/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -217,8 +217,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1159755",
                     "outageStartDateTime": "3/18/2021 10:22:53 PM",
-                    "versionDate": "3/19/2021 7:06:03 AM",
-                    "lastChangeDateTime": "3/19/2021 3:54:41 AM",
+                    "versionDate": "3/19/2021 7:26:21 AM",
+                    "lastChangeDateTime": "3/19/2021 7:13:21 AM",
                     "estimateCLUDateTime": "Most up by 3/19/2021 10:00:00 AM",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
@@ -242,8 +242,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1159786",
                     "outageStartDateTime": "3/19/2021 4:57:17 AM",
-                    "versionDate": "3/19/2021 7:06:03 AM",
-                    "lastChangeDateTime": "3/19/2021 7:01:30 AM",
+                    "versionDate": "3/19/2021 7:26:21 AM",
+                    "lastChangeDateTime": "3/19/2021 7:21:48 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
