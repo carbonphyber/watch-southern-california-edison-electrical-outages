@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-20T08:00:05.000Z",
+    "uiExpiraionDate": "2021-03-20T08:22:42.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 20, 2021, 12:45 AM",
+        "publishDate": "March 20, 2021, 01:07 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Kern                                    ",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "7",
+                        "numberoOfCustomersAffected": "14",
                         "centroidX": "-118.729077873263",
                         "centroidY": "35.34357933177560"
                     },
@@ -50,7 +50,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "22",
-                    "totalCustomersAffected": "829"
+                    "totalCustomersAffected": "836"
                 }
             },
             "cityBlock": {
@@ -156,7 +156,7 @@
                     {
                         "cityName": "Unincorporated Area - Kern County",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "7",
+                        "numberoOfCustomersAffected": "14",
                         "centroidX": "-118.763706961810",
                         "centroidY": "35.35288414651270"
                     },
@@ -191,7 +191,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "22",
-                    "totalCustomersAffected": "829"
+                    "totalCustomersAffected": "836"
                 }
             },
             "zipCodeBlock": {
@@ -325,14 +325,14 @@
                     {
                         "zipCodeName": "93285",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "7",
+                        "numberoOfCustomersAffected": "14",
                         "centroidX": "-118.590979277297",
                         "centroidY": "35.78945222071980"
                     }
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "82",
-                    "totalCustomersAffected": "2430"
+                    "totalCustomersAffected": "2486"
                 }
             },
             "districtBlock": {
@@ -410,7 +410,7 @@
                     {
                         "districtNumber": "53",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "7",
+                        "numberoOfCustomersAffected": "14",
                         "centroidX": "-118.390869169903",
                         "centroidY": "35.668435887737"
                     },
@@ -431,7 +431,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "22",
-                    "totalCustomersAffected": "829"
+                    "totalCustomersAffected": "836"
                 }
             },
             "sectorBlock": {
@@ -453,7 +453,7 @@
                     {
                         "sectorNumber": "KERNVILLE",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "7",
+                        "numberoOfCustomersAffected": "14",
                         "centroidX": "-118.390869169903",
                         "centroidY": "35.668435887737"
                     },
@@ -509,7 +509,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "22",
-                    "totalCustomersAffected": "829"
+                    "totalCustomersAffected": "836"
                 }
             }
         },
@@ -524,7 +524,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155923",
                     "outageStartDateTime": "3/19/2021 10:12:21 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 10:38:55 PM",
                     "estimateCLUDateTime": "3/20/2021 4:00:00 AM",
                     "memoCauseCode": "07",
@@ -546,11 +546,11 @@
                 {
                     "incidentId": "123889633",
                     "incidentType": "QI",
-                    "FACJobStatusCode": "D",
+                    "FACJobStatusCode": "W",
                     "OANNumber": "1160055",
                     "outageStartDateTime": "3/19/2021 4:28:29 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
-                    "lastChangeDateTime": "3/19/2021 10:58:03 PM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
+                    "lastChangeDateTime": "3/19/2021 11:48:41 PM",
                     "estimateCLUDateTime": "Most up by 3/20/2021 6:00:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -571,11 +571,11 @@
                 {
                     "incidentId": "123812963",
                     "incidentType": "PO",
-                    "FACJobStatusCode": "D",
+                    "FACJobStatusCode": "W",
                     "OANNumber": "1155428",
                     "outageStartDateTime": "3/19/2021 11:30:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
-                    "lastChangeDateTime": "3/19/2021 11:45:25 PM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
+                    "lastChangeDateTime": "3/19/2021 11:45:41 PM",
                     "estimateCLUDateTime": "3/20/2021 5:00:00 AM",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
@@ -599,7 +599,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160084",
                     "outageStartDateTime": "3/19/2021 7:21:06 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 11:27:37 PM",
                     "estimateCLUDateTime": "3/20/2021 5:00:00 AM",
                     "memoCauseCode": "16",
@@ -624,7 +624,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153830",
                     "outageStartDateTime": "3/19/2021 9:05:38 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 11:03:01 PM",
                     "estimateCLUDateTime": "3/20/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -649,7 +649,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152856",
                     "outageStartDateTime": "3/19/2021 9:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 9:21:02 PM",
                     "estimateCLUDateTime": "3/20/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -674,7 +674,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154466",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 8:20:56 PM",
                     "estimateCLUDateTime": "3/20/2021 2:00:00 AM",
                     "memoCauseCode": "21",
@@ -699,7 +699,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154045",
                     "outageStartDateTime": "3/19/2021 8:00:57 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 10:14:38 PM",
                     "estimateCLUDateTime": "3/20/2021 4:00:00 AM",
                     "memoCauseCode": "21",
@@ -724,7 +724,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154929",
                     "outageStartDateTime": "3/19/2021 6:41:17 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 6:42:53 PM",
                     "estimateCLUDateTime": "3/20/2021 2:00:00 AM",
                     "memoCauseCode": "07",
@@ -749,7 +749,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1159838",
                     "outageStartDateTime": "3/19/2021 7:49:29 AM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 10:27:05 PM",
                     "estimateCLUDateTime": "3/20/2021 8:00:00 AM",
                     "memoCauseCode": "16",
@@ -774,7 +774,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154752",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 8:41:53 PM",
                     "estimateCLUDateTime": "3/20/2021 4:00:00 AM",
                     "memoCauseCode": "21",
@@ -799,7 +799,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160063",
                     "outageStartDateTime": "3/19/2021 4:57:37 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 11:44:54 PM",
                     "estimateCLUDateTime": "Most up by 3/20/2021 6:00:00 AM",
                     "memoCauseCode": "15",
@@ -824,7 +824,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1147225",
                     "outageStartDateTime": "3/19/2021 11:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 11:12:55 PM",
                     "estimateCLUDateTime": "3/20/2021 3:00:00 AM",
                     "memoCauseCode": "07",
@@ -849,8 +849,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1154036",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
-                    "lastChangeDateTime": "3/19/2021 11:34:31 PM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
+                    "lastChangeDateTime": "3/19/2021 11:53:35 PM",
                     "estimateCLUDateTime": "3/20/2021 6:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -874,7 +874,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154047",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 9:08:40 PM",
                     "estimateCLUDateTime": "3/20/2021 2:00:00 AM",
                     "memoCauseCode": "21",
@@ -899,7 +899,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154943",
                     "outageStartDateTime": "3/19/2021 10:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 10:15:26 PM",
                     "estimateCLUDateTime": "3/20/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -924,8 +924,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155452",
                     "outageStartDateTime": "3/19/2021 9:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
-                    "lastChangeDateTime": "3/19/2021 11:14:54 PM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
+                    "lastChangeDateTime": "3/19/2021 11:48:19 PM",
                     "estimateCLUDateTime": "3/20/2021 5:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -949,8 +949,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1158478",
                     "outageStartDateTime": "3/19/2021 10:00:00 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
-                    "lastChangeDateTime": "3/19/2021 10:35:46 PM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
+                    "lastChangeDateTime": "3/19/2021 11:49:37 PM",
                     "estimateCLUDateTime": "3/20/2021 6:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -974,7 +974,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160069",
                     "outageStartDateTime": "3/19/2021 4:52:23 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 11:43:54 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "16",
@@ -994,38 +994,38 @@
                     "centroidY": "34.13152450143970"
                 },
                 {
-                    "incidentId": "123890576",
-                    "incidentType": "Not Available",
+                    "incidentId": "123890593",
+                    "incidentType": "QI",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1160102",
-                    "outageStartDateTime": "3/19/2021 11:08:50 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
-                    "lastChangeDateTime": "3/19/2021 11:33:17 PM",
-                    "estimateCLUDateTime": "Most up by 3/20/2021 3:15:11 AM",
+                    "OANNumber": "1160104",
+                    "outageStartDateTime": "3/19/2021 10:52:00 PM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
+                    "lastChangeDateTime": "3/19/2021 11:53:00 PM",
+                    "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "01",
-                    "crewStatusCodeDescription": "We are aware of the problem.",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "7",
+                    "numberOfCustomersAffected": "14",
                     "zipCode": "93285",
                     "countyName": "Kern                                    ",
                     "cityName": "Unincorporated Area - Kern County",
                     "districtNumber": "53",
                     "sectorNumber": "KERNVILLE",
-                    "ERTCode": "05",
-                    "centroidX": "-118.785606614719",
-                    "centroidY": "35.50278721114040"
+                    "ERTCode": "2",
+                    "centroidX": "-118.785939023486",
+                    "centroidY": "35.49531841396750"
                 },
                 {
                     "incidentId": "123819238",
                     "incidentType": "PO",
-                    "FACJobStatusCode": "D",
+                    "FACJobStatusCode": "W",
                     "OANNumber": "1155927",
                     "outageStartDateTime": "3/19/2021 10:02:53 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
-                    "lastChangeDateTime": "3/19/2021 10:57:38 PM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
+                    "lastChangeDateTime": "3/19/2021 11:46:18 PM",
                     "estimateCLUDateTime": "3/20/2021 5:00:00 AM",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
@@ -1040,8 +1040,8 @@
                     "districtNumber": "46",
                     "sectorNumber": "LIGHTHIPE",
                     "ERTCode": "06",
-                    "centroidX": "-118.189741887798",
-                    "centroidY": "33.82610577864320"
+                    "centroidX": "-118.189744498791",
+                    "centroidY": "33.82617300096960"
                 },
                 {
                     "incidentId": "123890518",
@@ -1049,7 +1049,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160096",
                     "outageStartDateTime": "3/19/2021 10:02:01 PM",
-                    "versionDate": "3/20/2021 12:33:27 AM",
+                    "versionDate": "3/20/2021 12:57:25 AM",
                     "lastChangeDateTime": "3/19/2021 10:18:04 PM",
                     "estimateCLUDateTime": "3/20/2021 2:00:00 AM",
                     "memoCauseCode": "16",
