@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-20T14:26:57.000Z",
+    "uiExpiraionDate": "2021-03-20T14:39:12.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 20, 2021, 07:11 AM",
+        "publishDate": "March 20, 2021, 07:24 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,8 +14,8 @@
                     },
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "87",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "59",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -28,8 +28,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "6",
-                    "totalCustomersAffected": "226"
+                    "totalIncidents": "5",
+                    "totalCustomersAffected": "198"
                 }
             },
             "cityBlock": {
@@ -40,13 +40,6 @@
                         "numberoOfCustomersAffected": "7",
                         "centroidX": "-117.459874576932",
                         "centroidY": "34.09880692452910"
-                    },
-                    {
-                        "cityName": "La Puente",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "28",
-                        "centroidX": "-117.953295498221",
-                        "centroidY": "34.03223691683180"
                     },
                     {
                         "cityName": "Lynwood",
@@ -78,8 +71,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "6",
-                    "totalCustomersAffected": "226"
+                    "totalIncidents": "5",
+                    "totalCustomersAffected": "198"
                 }
             },
             "zipCodeBlock": {
@@ -90,13 +83,6 @@
                         "numberoOfCustomersAffected": "59",
                         "centroidX": "-118.200905611529",
                         "centroidY": "33.92359703828050"
-                    },
-                    {
-                        "zipCodeName": "91744",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "28",
-                        "centroidX": "-117.937559117591",
-                        "centroidY": "34.02949052560810"
                     },
                     {
                         "zipCodeName": "91761",
@@ -121,19 +107,12 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "22",
-                    "totalCustomersAffected": "932"
+                    "totalIncidents": "20",
+                    "totalCustomersAffected": "876"
                 }
             },
             "districtBlock": {
                 "district": [
-                    {
-                        "districtNumber": "26",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "28",
-                        "centroidX": "-117.843448641056",
-                        "centroidY": "34.13907182771690"
-                    },
                     {
                         "districtNumber": "30",
                         "numberOfIncidents": "2",
@@ -164,8 +143,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "6",
-                    "totalCustomersAffected": "226"
+                    "totalIncidents": "5",
+                    "totalCustomersAffected": "198"
                 }
             },
             "sectorBlock": {
@@ -186,8 +165,8 @@
                     },
                     {
                         "sectorNumber": "MIRALOMA",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "127",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "99",
                         "centroidX": "-117.705783857999",
                         "centroidY": "34.047426553560"
                     },
@@ -200,8 +179,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "6",
-                    "totalCustomersAffected": "226"
+                    "totalIncidents": "5",
+                    "totalCustomersAffected": "198"
                 }
             }
         },
@@ -215,10 +194,10 @@
                     "incidentType": "QI",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160104",
-                    "outageStartDateTime": "3/19/2021 10:52:00 PM",
-                    "versionDate": "3/20/2021 7:00:18 AM",
-                    "lastChangeDateTime": "3/20/2021 5:41:55 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "outageStartDateTime": "3/19/2021 11:14:01 PM",
+                    "versionDate": "3/20/2021 7:20:07 AM",
+                    "lastChangeDateTime": "3/20/2021 7:01:46 AM",
+                    "estimateCLUDateTime": "3/31/2021 7:00:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "02",
@@ -231,34 +210,9 @@
                     "cityName": "Unincorporated Area - Kern County",
                     "districtNumber": "53",
                     "sectorNumber": "KERNVILLE",
-                    "ERTCode": "05",
+                    "ERTCode": "07",
                     "centroidX": "-118.785939023486",
                     "centroidY": "35.49531841396750"
-                },
-                {
-                    "incidentId": "123794914",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1153830",
-                    "outageStartDateTime": "3/19/2021 9:05:38 PM",
-                    "versionDate": "3/20/2021 7:00:18 AM",
-                    "lastChangeDateTime": "3/20/2021 6:42:20 AM",
-                    "estimateCLUDateTime": "3/20/2021 8:30:00 AM",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "28",
-                    "zipCode": "91744",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "La Puente",
-                    "districtNumber": "26",
-                    "sectorNumber": "MIRALOMA",
-                    "ERTCode": "06",
-                    "centroidX": "-117.944895805246",
-                    "centroidY": "34.02606071553820"
                 },
                 {
                     "incidentId": "123796415",
@@ -266,7 +220,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154047",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 7:00:18 AM",
+                    "versionDate": "3/20/2021 7:20:07 AM",
                     "lastChangeDateTime": "3/20/2021 6:49:26 AM",
                     "estimateCLUDateTime": "3/20/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -291,7 +245,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154752",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 7:00:18 AM",
+                    "versionDate": "3/20/2021 7:20:07 AM",
                     "lastChangeDateTime": "3/20/2021 5:37:11 AM",
                     "estimateCLUDateTime": "3/20/2021 9:00:00 AM",
                     "memoCauseCode": "21",
@@ -316,7 +270,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154593",
                     "outageStartDateTime": "3/20/2021 3:08:05 AM",
-                    "versionDate": "3/20/2021 7:00:18 AM",
+                    "versionDate": "3/20/2021 7:20:07 AM",
                     "lastChangeDateTime": "3/20/2021 6:36:12 AM",
                     "estimateCLUDateTime": "3/20/2021 1:00:00 PM",
                     "memoCauseCode": "07",
@@ -341,7 +295,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1159838",
                     "outageStartDateTime": "3/19/2021 7:49:29 AM",
-                    "versionDate": "3/20/2021 7:00:18 AM",
+                    "versionDate": "3/20/2021 7:20:07 AM",
                     "lastChangeDateTime": "3/19/2021 10:27:05 PM",
                     "estimateCLUDateTime": "3/20/2021 8:00:00 AM",
                     "memoCauseCode": "16",
