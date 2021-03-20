@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-20T12:55:56.000Z",
+    "uiExpiraionDate": "2021-03-20T13:40:29.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 20, 2021, 05:40 AM",
+        "publishDate": "March 20, 2021, 06:25 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -25,18 +25,11 @@
                         "numberoOfCustomersAffected": "125",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
-                    },
-                    {
-                        "countyName": "Ventura                                 ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "25",
-                        "centroidX": "-119.194616846888",
-                        "centroidY": "33.95953385222530"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "8",
-                    "totalCustomersAffected": "254"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "229"
                 }
             },
             "cityBlock": {
@@ -89,18 +82,11 @@
                         "numberoOfCustomersAffected": "19",
                         "centroidX": "-116.131102794254",
                         "centroidY": "34.86889126946560"
-                    },
-                    {
-                        "cityName": "Unincorporated Area - Ventura County",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "25",
-                        "centroidX": "-119.097689347676",
-                        "centroidY": "34.48180914978320"
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "8",
-                    "totalCustomersAffected": "254"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "229"
                 }
             },
             "zipCodeBlock": {
@@ -141,13 +127,6 @@
                         "centroidY": "34.08704053083050"
                     },
                     {
-                        "zipCodeName": "93012",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "25",
-                        "centroidX": "-118.995894228072",
-                        "centroidY": "34.20621528042480"
-                    },
-                    {
                         "zipCodeName": "93285",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "14",
@@ -156,8 +135,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "26",
-                    "totalCustomersAffected": "988"
+                    "totalIncidents": "24",
+                    "totalCustomersAffected": "938"
                 }
             },
             "districtBlock": {
@@ -191,13 +170,6 @@
                         "centroidY": "34.032925546428"
                     },
                     {
-                        "districtNumber": "35",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "25",
-                        "centroidX": "-118.790699007993",
-                        "centroidY": "34.18828440743510"
-                    },
-                    {
                         "districtNumber": "53",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "14",
@@ -206,8 +178,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "8",
-                    "totalCustomersAffected": "254"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "229"
                 }
             },
             "sectorBlock": {
@@ -234,13 +206,6 @@
                         "centroidY": "34.047426553560"
                     },
                     {
-                        "sectorNumber": "MOORPARK",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "25",
-                        "centroidX": "-118.790699007993",
-                        "centroidY": "34.18828440743510"
-                    },
-                    {
                         "sectorNumber": "VISTA",
                         "numberOfIncidents": "2",
                         "numberoOfCustomersAffected": "26",
@@ -249,8 +214,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "8",
-                    "totalCustomersAffected": "254"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "229"
                 }
             }
         },
@@ -260,64 +225,14 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123887520",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1159838",
-                    "outageStartDateTime": "3/19/2021 7:49:29 AM",
-                    "versionDate": "3/20/2021 5:20:09 AM",
-                    "lastChangeDateTime": "3/19/2021 10:27:05 PM",
-                    "estimateCLUDateTime": "3/20/2021 8:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "99",
-                    "zipCode": "91761",
-                    "countyName": "San Bernardino                          ",
-                    "cityName": "Ontario",
-                    "districtNumber": "34",
-                    "sectorNumber": "MIRALOMA",
-                    "ERTCode": "06",
-                    "centroidX": "-117.629659000522",
-                    "centroidY": "34.06397150009090"
-                },
-                {
-                    "incidentId": "123819230",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1155923",
-                    "outageStartDateTime": "3/19/2021 10:12:21 PM",
-                    "versionDate": "3/20/2021 5:20:09 AM",
-                    "lastChangeDateTime": "3/19/2021 10:38:55 PM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "07",
-                    "memoCauseCodeDescription": "Upgrading Equipment",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "25",
-                    "zipCode": "93012",
-                    "countyName": "Ventura                                 ",
-                    "cityName": "Unincorporated Area - Ventura County",
-                    "districtNumber": "35",
-                    "sectorNumber": "MOORPARK",
-                    "ERTCode": "06",
-                    "centroidX": "-118.936661215542",
-                    "centroidY": "34.23417714524260"
-                },
-                {
                     "incidentId": "123889633",
                     "incidentType": "QI",
                     "FACJobStatusCode": "W",
                     "OANNumber": "1160055",
                     "outageStartDateTime": "3/19/2021 4:28:29 PM",
-                    "versionDate": "3/20/2021 5:20:09 AM",
-                    "lastChangeDateTime": "3/20/2021 12:59:00 AM",
-                    "estimateCLUDateTime": "Most up by 3/20/2021 6:00:00 AM",
+                    "versionDate": "3/20/2021 6:20:13 AM",
+                    "lastChangeDateTime": "3/20/2021 5:48:43 AM",
+                    "estimateCLUDateTime": "Most up by 3/20/2021 7:00:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "02",
@@ -331,8 +246,8 @@
                     "districtNumber": "32",
                     "sectorNumber": "LIGHTHIPE",
                     "ERTCode": "05",
-                    "centroidX": "-118.16690450",
-                    "centroidY": "33.884263500045"
+                    "centroidX": "-118.16685350",
+                    "centroidY": "33.88426349999460"
                 },
                 {
                     "incidentId": "123890593",
@@ -340,9 +255,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160104",
                     "outageStartDateTime": "3/19/2021 10:52:00 PM",
-                    "versionDate": "3/20/2021 5:20:09 AM",
-                    "lastChangeDateTime": "3/19/2021 11:53:00 PM",
-                    "estimateCLUDateTime": "Not Available",
+                    "versionDate": "3/20/2021 6:20:13 AM",
+                    "lastChangeDateTime": "3/20/2021 5:41:55 AM",
+                    "estimateCLUDateTime": "Most up by 3/20/2021 7:00:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "02",
@@ -355,7 +270,7 @@
                     "cityName": "Unincorporated Area - Kern County",
                     "districtNumber": "53",
                     "sectorNumber": "KERNVILLE",
-                    "ERTCode": "2",
+                    "ERTCode": "05",
                     "centroidX": "-118.785939023486",
                     "centroidY": "35.49531841396750"
                 },
@@ -365,7 +280,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153830",
                     "outageStartDateTime": "3/19/2021 9:05:38 PM",
-                    "versionDate": "3/20/2021 5:20:09 AM",
+                    "versionDate": "3/20/2021 6:20:13 AM",
                     "lastChangeDateTime": "3/20/2021 1:06:39 AM",
                     "estimateCLUDateTime": "3/20/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -381,8 +296,8 @@
                     "districtNumber": "26",
                     "sectorNumber": "MIRALOMA",
                     "ERTCode": "06",
-                    "centroidX": "-117.944895807636",
-                    "centroidY": "34.02606051885610"
+                    "centroidX": "-117.944895805246",
+                    "centroidY": "34.02606071553820"
                 },
                 {
                     "incidentId": "123796415",
@@ -390,9 +305,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154047",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 5:20:09 AM",
-                    "lastChangeDateTime": "3/20/2021 4:53:01 AM",
-                    "estimateCLUDateTime": "3/20/2021 7:00:00 AM",
+                    "versionDate": "3/20/2021 6:20:13 AM",
+                    "lastChangeDateTime": "3/20/2021 5:36:41 AM",
+                    "estimateCLUDateTime": "3/20/2021 9:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
@@ -415,9 +330,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154752",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 5:20:09 AM",
-                    "lastChangeDateTime": "3/20/2021 3:05:55 AM",
-                    "estimateCLUDateTime": "3/20/2021 6:00:00 AM",
+                    "versionDate": "3/20/2021 6:20:13 AM",
+                    "lastChangeDateTime": "3/20/2021 5:37:11 AM",
+                    "estimateCLUDateTime": "3/20/2021 9:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
@@ -440,7 +355,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154593",
                     "outageStartDateTime": "3/20/2021 3:08:05 AM",
-                    "versionDate": "3/20/2021 5:20:09 AM",
+                    "versionDate": "3/20/2021 6:20:13 AM",
                     "lastChangeDateTime": "3/20/2021 3:32:12 AM",
                     "estimateCLUDateTime": "3/20/2021 1:00:00 PM",
                     "memoCauseCode": "07",
@@ -458,6 +373,31 @@
                     "ERTCode": "06",
                     "centroidX": "-118.189595488764",
                     "centroidY": "33.92122671084010"
+                },
+                {
+                    "incidentId": "123887520",
+                    "incidentType": "QI",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1159838",
+                    "outageStartDateTime": "3/19/2021 7:49:29 AM",
+                    "versionDate": "3/20/2021 6:20:13 AM",
+                    "lastChangeDateTime": "3/19/2021 10:27:05 PM",
+                    "estimateCLUDateTime": "3/20/2021 8:00:00 AM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "99",
+                    "zipCode": "91761",
+                    "countyName": "San Bernardino                          ",
+                    "cityName": "Ontario",
+                    "districtNumber": "34",
+                    "sectorNumber": "MIRALOMA",
+                    "ERTCode": "06",
+                    "centroidX": "-117.629659000522",
+                    "centroidY": "34.06397150009090"
                 }
             ]
         }
