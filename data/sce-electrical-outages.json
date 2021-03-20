@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-20T10:28:02.000Z",
+    "uiExpiraionDate": "2021-03-20T10:56:20.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 20, 2021, 03:13 AM",
+        "publishDate": "March 20, 2021, 03:41 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -15,16 +15,9 @@
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "34",
+                        "numberoOfCustomersAffected": "90",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
-                    },
-                    {
-                        "countyName": "Orange                                  ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "18",
-                        "centroidX": "-117.779276265953",
-                        "centroidY": "33.21832364981430"
                     },
                     {
                         "countyName": "Riverside                               ",
@@ -56,8 +49,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "310"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "348"
                 }
             },
             "cityBlock": {
@@ -68,13 +61,6 @@
                         "numberoOfCustomersAffected": "3",
                         "centroidX": "-114.586964985934",
                         "centroidY": "33.62858661429670"
-                    },
-                    {
-                        "cityName": "Costa Mesa",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "18",
-                        "centroidX": "-117.913429955336",
-                        "centroidY": "33.66669659216160"
                     },
                     {
                         "cityName": "Earlimart",
@@ -105,6 +91,13 @@
                         "centroidY": "34.04473453070110"
                     },
                     {
+                        "cityName": "Lynwood",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "59",
+                        "centroidX": "-118.201704174295",
+                        "centroidY": "33.92398012981360"
+                    },
+                    {
                         "cityName": "Ontario",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "99",
@@ -117,13 +110,6 @@
                         "numberoOfCustomersAffected": "3",
                         "centroidX": "-118.165183925901",
                         "centroidY": "33.897696375872"
-                    },
-                    {
-                        "cityName": "Torrance",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-118.341702208521",
-                        "centroidY": "33.83460781301750"
                     },
                     {
                         "cityName": "Unincorporated Area - Kern County",
@@ -148,18 +134,18 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "310"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "348"
                 }
             },
             "zipCodeBlock": {
                 "zipCode": [
                     {
-                        "zipCodeName": "90505",
+                        "zipCodeName": "90262",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-118.348362105251",
-                        "centroidY": "33.808812262106"
+                        "numberoOfCustomersAffected": "59",
+                        "centroidX": "-118.200905611529",
+                        "centroidY": "33.92359703828050"
                     },
                     {
                         "zipCodeName": "90723",
@@ -211,13 +197,6 @@
                         "centroidY": "34.20120264238670"
                     },
                     {
-                        "zipCodeName": "92627",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "18",
-                        "centroidX": "-117.919537332505",
-                        "centroidY": "33.64609155122020"
-                    },
-                    {
                         "zipCodeName": "93012",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "25",
@@ -240,8 +219,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "40",
-                    "totalCustomersAffected": "1332"
+                    "totalIncidents": "38",
+                    "totalCustomersAffected": "1408"
                 }
             },
             "districtBlock": {
@@ -269,17 +248,10 @@
                     },
                     {
                         "districtNumber": "32",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "62",
                         "centroidX": "-118.193962097429",
                         "centroidY": "33.90927213139650"
-                    },
-                    {
-                        "districtNumber": "33",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "18",
-                        "centroidX": "-117.949649811255",
-                        "centroidY": "33.67443891010450"
                     },
                     {
                         "districtNumber": "34",
@@ -294,13 +266,6 @@
                         "numberoOfCustomersAffected": "25",
                         "centroidX": "-118.790699007993",
                         "centroidY": "34.18828440743510"
-                    },
-                    {
-                        "districtNumber": "44",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-118.360092163335",
-                        "centroidY": "33.86848458673040"
                     },
                     {
                         "districtNumber": "51",
@@ -325,8 +290,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "310"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "348"
                 }
             },
             "sectorBlock": {
@@ -339,20 +304,6 @@
                         "centroidY": "33.96527939834320"
                     },
                     {
-                        "sectorNumber": "EL NIDO",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-118.403697968540",
-                        "centroidY": "33.91681631657030"
-                    },
-                    {
-                        "sectorNumber": "ELLIS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "18",
-                        "centroidX": "-117.756778722938",
-                        "centroidY": "33.67074505842850"
-                    },
-                    {
                         "sectorNumber": "KERNVILLE",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "14",
@@ -361,8 +312,8 @@
                     },
                     {
                         "sectorNumber": "LIGHTHIPE",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "62",
                         "centroidX": "-118.138362885446",
                         "centroidY": "33.87951550511030"
                     },
@@ -396,8 +347,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "310"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "348"
                 }
             }
         },
@@ -412,7 +363,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1158478",
                     "outageStartDateTime": "3/19/2021 10:00:00 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
                     "lastChangeDateTime": "3/20/2021 2:35:35 AM",
                     "estimateCLUDateTime": "3/20/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -428,8 +379,8 @@
                     "districtNumber": "87",
                     "sectorNumber": "BLYTHE",
                     "ERTCode": "06",
-                    "centroidX": "-114.603042500057",
-                    "centroidY": "33.603561750001"
+                    "centroidX": "-114.603042750042",
+                    "centroidY": "33.60352000001140"
                 },
                 {
                     "incidentId": "123819230",
@@ -437,9 +388,9 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155923",
                     "outageStartDateTime": "3/19/2021 10:12:21 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
                     "lastChangeDateTime": "3/19/2021 10:38:55 PM",
-                    "estimateCLUDateTime": "3/20/2021 4:00:00 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
                     "crewStatusCode": "04",
@@ -457,29 +408,29 @@
                     "centroidY": "34.23417714524260"
                 },
                 {
-                    "incidentId": "123719362",
-                    "incidentType": "PO",
+                    "incidentId": "123889633",
+                    "incidentType": "QI",
                     "FACJobStatusCode": "W",
-                    "OANNumber": "1147225",
-                    "outageStartDateTime": "3/19/2021 11:00:00 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
-                    "lastChangeDateTime": "3/19/2021 11:12:55 PM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "07",
-                    "memoCauseCodeDescription": "Upgrading Equipment",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
+                    "OANNumber": "1160055",
+                    "outageStartDateTime": "3/19/2021 4:28:29 PM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
+                    "lastChangeDateTime": "3/20/2021 12:59:00 AM",
+                    "estimateCLUDateTime": "Most up by 3/20/2021 6:00:00 AM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
                     "numberOfCustomersAffected": "3",
-                    "zipCode": "90505",
+                    "zipCode": "90723",
                     "countyName": "Los Angeles                             ",
-                    "cityName": "Torrance",
-                    "districtNumber": "44",
-                    "sectorNumber": "EL NIDO",
-                    "ERTCode": "06",
-                    "centroidX": "-118.327621498780",
-                    "centroidY": "33.78919025091110"
+                    "cityName": "Paramount",
+                    "districtNumber": "32",
+                    "sectorNumber": "LIGHTHIPE",
+                    "ERTCode": "05",
+                    "centroidX": "-118.16690450",
+                    "centroidY": "33.884263500045"
                 },
                 {
                     "incidentId": "123890593",
@@ -487,7 +438,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160104",
                     "outageStartDateTime": "3/19/2021 10:52:00 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
                     "lastChangeDateTime": "3/19/2021 11:53:00 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
@@ -507,38 +458,13 @@
                     "centroidY": "35.49531841396750"
                 },
                 {
-                    "incidentId": "123890585",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1160105",
-                    "outageStartDateTime": "3/19/2021 11:27:22 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
-                    "lastChangeDateTime": "3/20/2021 2:54:43 AM",
-                    "estimateCLUDateTime": "Most up by 3/20/2021 6:00:00 AM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "01",
-                    "crewStatusCodeDescription": "We are aware of the problem.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "18",
-                    "zipCode": "92627",
-                    "countyName": "Orange                                  ",
-                    "cityName": "Costa Mesa",
-                    "districtNumber": "33",
-                    "sectorNumber": "ELLIS",
-                    "ERTCode": "05",
-                    "centroidX": "-117.90279750",
-                    "centroidY": "33.63969000000360"
-                },
-                {
                     "incidentId": "123889963",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160084",
                     "outageStartDateTime": "3/19/2021 7:21:06 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
-                    "lastChangeDateTime": "3/19/2021 11:27:37 PM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
+                    "lastChangeDateTime": "3/20/2021 3:25:40 AM",
                     "estimateCLUDateTime": "3/20/2021 5:00:00 AM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -562,7 +488,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153830",
                     "outageStartDateTime": "3/19/2021 9:05:38 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
                     "lastChangeDateTime": "3/20/2021 1:06:39 AM",
                     "estimateCLUDateTime": "3/20/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -578,8 +504,8 @@
                     "districtNumber": "26",
                     "sectorNumber": "MIRALOMA",
                     "ERTCode": "06",
-                    "centroidX": "-117.944895805246",
-                    "centroidY": "34.02606071553820"
+                    "centroidX": "-117.944895900038",
+                    "centroidY": "34.02606072027910"
                 },
                 {
                     "incidentId": "123796415",
@@ -587,7 +513,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154047",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
                     "lastChangeDateTime": "3/20/2021 1:29:25 AM",
                     "estimateCLUDateTime": "3/20/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -612,7 +538,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152856",
                     "outageStartDateTime": "3/19/2021 9:00:00 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
                     "lastChangeDateTime": "3/20/2021 12:29:59 AM",
                     "estimateCLUDateTime": "3/20/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -637,9 +563,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154752",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
-                    "lastChangeDateTime": "3/19/2021 8:41:53 PM",
-                    "estimateCLUDateTime": "3/20/2021 4:00:00 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
+                    "lastChangeDateTime": "3/20/2021 3:05:55 AM",
+                    "estimateCLUDateTime": "3/20/2021 6:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
@@ -652,7 +578,7 @@
                     "cityName": "Fontana",
                     "districtNumber": "30",
                     "sectorNumber": "VISTA",
-                    "ERTCode": "06",
+                    "ERTCode": "07",
                     "centroidX": "-117.465025",
                     "centroidY": "34.07037450000360"
                 },
@@ -662,8 +588,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1154036",
                     "outageStartDateTime": "3/19/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
-                    "lastChangeDateTime": "3/20/2021 12:43:15 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
+                    "lastChangeDateTime": "3/20/2021 3:04:56 AM",
                     "estimateCLUDateTime": "3/20/2021 6:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -682,12 +608,37 @@
                     "centroidY": "34.02753806168280"
                 },
                 {
+                    "incidentId": "123803645",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "W",
+                    "OANNumber": "1154593",
+                    "outageStartDateTime": "3/20/2021 3:08:05 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
+                    "lastChangeDateTime": "3/20/2021 3:23:41 AM",
+                    "estimateCLUDateTime": "3/20/2021 1:00:00 PM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "59",
+                    "zipCode": "90262",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Lynwood",
+                    "districtNumber": "32",
+                    "sectorNumber": "LIGHTHIPE",
+                    "ERTCode": "06",
+                    "centroidX": "-118.189433573720",
+                    "centroidY": "33.92120025956650"
+                },
+                {
                     "incidentId": "123887520",
                     "incidentType": "QI",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1159838",
                     "outageStartDateTime": "3/19/2021 7:49:29 AM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
+                    "versionDate": "3/20/2021 3:30:18 AM",
                     "lastChangeDateTime": "3/19/2021 10:27:05 PM",
                     "estimateCLUDateTime": "3/20/2021 8:00:00 AM",
                     "memoCauseCode": "16",
@@ -705,31 +656,6 @@
                     "ERTCode": "06",
                     "centroidX": "-117.629659000522",
                     "centroidY": "34.06397150009090"
-                },
-                {
-                    "incidentId": "123889633",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1160055",
-                    "outageStartDateTime": "3/19/2021 4:28:29 PM",
-                    "versionDate": "3/20/2021 3:04:01 AM",
-                    "lastChangeDateTime": "3/20/2021 12:59:00 AM",
-                    "estimateCLUDateTime": "Most up by 3/20/2021 6:00:00 AM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "3",
-                    "zipCode": "90723",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "Paramount",
-                    "districtNumber": "32",
-                    "sectorNumber": "LIGHTHIPE",
-                    "ERTCode": "05",
-                    "centroidX": "-118.16685350",
-                    "centroidY": "33.88426349999460"
                 }
             ]
         }
