@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-21T13:08:25.000Z",
+    "uiExpiraionDate": "2021-03-21T13:38:28.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 21, 2021, 05:53 AM",
+        "publishDate": "March 21, 2021, 06:23 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -25,18 +25,11 @@
                         "numberoOfCustomersAffected": "285",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
-                    },
-                    {
-                        "countyName": "Tulare                                  ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1",
-                        "centroidX": "-118.799964511698",
-                        "centroidY": "36.2202593720"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "1841"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "1840"
                 }
             },
             "cityBlock": {
@@ -68,18 +61,11 @@
                         "numberoOfCustomersAffected": "80",
                         "centroidX": "-116.131102794254",
                         "centroidY": "34.86889126946560"
-                    },
-                    {
-                        "cityName": "Unincorporated Area - Tulare County",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1",
-                        "centroidX": "-118.788443923240",
-                        "centroidY": "36.21746718789750"
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "1841"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "1840"
                 }
             },
             "zipCodeBlock": {
@@ -99,13 +85,6 @@
                         "centroidY": "34.02680657873450"
                     },
                     {
-                        "zipCodeName": "93274",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1",
-                        "centroidX": "-119.529197970704",
-                        "centroidY": "36.21365762435940"
-                    },
-                    {
                         "zipCodeName": "93285",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "14",
@@ -121,8 +100,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "27",
-                    "totalCustomersAffected": "5330"
+                    "totalIncidents": "21",
+                    "totalCustomersAffected": "5324"
                 }
             },
             "districtBlock": {
@@ -133,13 +112,6 @@
                         "numberoOfCustomersAffected": "205",
                         "centroidX": "-117.064038478043",
                         "centroidY": "34.05116348904590"
-                    },
-                    {
-                        "districtNumber": "51",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1",
-                        "centroidX": "-118.876559186538",
-                        "centroidY": "36.18092984147310"
                     },
                     {
                         "districtNumber": "53",
@@ -164,8 +136,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "1841"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "1840"
                 }
             },
             "sectorBlock": {
@@ -185,13 +157,6 @@
                         "centroidY": "35.668435887737"
                     },
                     {
-                        "sectorNumber": "SAN JOAQUIN",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1",
-                        "centroidX": "-118.876559186538",
-                        "centroidY": "36.18092984147310"
-                    },
-                    {
                         "sectorNumber": "SAUGUS",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "1541",
@@ -207,8 +172,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "1841"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "1840"
                 }
             }
         },
@@ -218,37 +183,12 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123894250",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "F",
-                    "OANNumber": "1160314",
-                    "outageStartDateTime": "3/20/2021 9:03:21 PM",
-                    "versionDate": "3/21/2021 5:45:02 AM",
-                    "lastChangeDateTime": "3/21/2021 5:20:16 AM",
-                    "estimateCLUDateTime": "Most up by 3/21/2021 7:30:00 AM",
-                    "memoCauseCode": "11",
-                    "memoCauseCodeDescription": "Traffic Accident",
-                    "crewStatusCode": "11",
-                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
-                    "resultCode": "06",
-                    "resultCodeDesription": "Equipment Damage",
-                    "numberOfCustomersAffected": "1",
-                    "zipCode": "93274",
-                    "countyName": "Tulare                                  ",
-                    "cityName": "Unincorporated Area - Tulare County",
-                    "districtNumber": "51",
-                    "sectorNumber": "SAN JOAQUIN",
-                    "ERTCode": "05",
-                    "centroidX": "-119.20101250",
-                    "centroidY": "36.22497000003420"
-                },
-                {
                     "incidentId": "123890593",
                     "incidentType": "QI",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160104",
                     "outageStartDateTime": "3/19/2021 11:14:01 PM",
-                    "versionDate": "3/21/2021 5:45:02 AM",
+                    "versionDate": "3/21/2021 6:15:09 AM",
                     "lastChangeDateTime": "3/20/2021 7:01:46 AM",
                     "estimateCLUDateTime": "3/31/2021 7:00:00 AM",
                     "memoCauseCode": "15",
@@ -273,8 +213,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160318",
                     "outageStartDateTime": "3/20/2021 9:52:09 PM",
-                    "versionDate": "3/21/2021 5:45:02 AM",
-                    "lastChangeDateTime": "3/21/2021 2:09:34 AM",
+                    "versionDate": "3/21/2021 6:15:09 AM",
+                    "lastChangeDateTime": "3/21/2021 5:47:41 AM",
                     "estimateCLUDateTime": "3/21/2021 7:00:00 AM",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
@@ -289,8 +229,8 @@
                     "districtNumber": "31",
                     "sectorNumber": "VISTA",
                     "ERTCode": "06",
-                    "centroidX": "-117.107971261687",
-                    "centroidY": "34.01779914277470"
+                    "centroidX": "-117.107970922991",
+                    "centroidY": "34.01779929602740"
                 },
                 {
                     "incidentId": "123894624",
@@ -298,8 +238,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160341",
                     "outageStartDateTime": "3/21/2021 5:13:21 AM",
-                    "versionDate": "3/21/2021 5:45:02 AM",
-                    "lastChangeDateTime": "3/21/2021 5:40:10 AM",
+                    "versionDate": "3/21/2021 6:15:09 AM",
+                    "lastChangeDateTime": "3/21/2021 5:54:07 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -323,7 +263,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160328",
                     "outageStartDateTime": "3/20/2021 11:50:01 PM",
-                    "versionDate": "3/21/2021 5:45:02 AM",
+                    "versionDate": "3/21/2021 6:15:09 AM",
                     "lastChangeDateTime": "3/21/2021 5:14:37 AM",
                     "estimateCLUDateTime": "Most up by 3/21/2021 7:00:00 AM",
                     "memoCauseCode": "11",
