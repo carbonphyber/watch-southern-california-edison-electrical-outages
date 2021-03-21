@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-21T14:00:39.000Z",
+    "uiExpiraionDate": "2021-03-21T14:25:13.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 21, 2021, 06:45 AM",
+        "publishDate": "March 21, 2021, 07:10 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -15,7 +15,7 @@
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "388",
+                        "numberoOfCustomersAffected": "1542",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -29,7 +29,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "4",
-                    "totalCustomersAffected": "687"
+                    "totalCustomersAffected": "1841"
                 }
             },
             "cityBlock": {
@@ -44,7 +44,7 @@
                     {
                         "cityName": "Santa Clarita",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "388",
+                        "numberoOfCustomersAffected": "1542",
                         "centroidX": "-118.498066095936",
                         "centroidY": "34.41292025573950"
                     },
@@ -65,7 +65,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "4",
-                    "totalCustomersAffected": "687"
+                    "totalCustomersAffected": "1841"
                 }
             },
             "zipCodeBlock": {
@@ -73,7 +73,7 @@
                     {
                         "zipCodeName": "91355",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "388",
+                        "numberoOfCustomersAffected": "1542",
                         "centroidX": "-118.583002750790",
                         "centroidY": "34.42180420566710"
                     },
@@ -101,7 +101,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "21",
-                    "totalCustomersAffected": "3018"
+                    "totalCustomersAffected": "5326"
                 }
             },
             "districtBlock": {
@@ -123,7 +123,7 @@
                     {
                         "districtNumber": "59",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "388",
+                        "numberoOfCustomersAffected": "1542",
                         "centroidX": "-118.555233017072",
                         "centroidY": "34.39573824835440"
                     },
@@ -137,7 +137,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "4",
-                    "totalCustomersAffected": "687"
+                    "totalCustomersAffected": "1841"
                 }
             },
             "sectorBlock": {
@@ -159,7 +159,7 @@
                     {
                         "sectorNumber": "SAUGUS",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "388",
+                        "numberoOfCustomersAffected": "1542",
                         "centroidX": "-118.555233017072",
                         "centroidY": "34.39573824835440"
                     },
@@ -173,7 +173,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "4",
-                    "totalCustomersAffected": "687"
+                    "totalCustomersAffected": "1841"
                 }
             }
         },
@@ -188,7 +188,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160104",
                     "outageStartDateTime": "3/19/2021 11:14:01 PM",
-                    "versionDate": "3/21/2021 6:35:04 AM",
+                    "versionDate": "3/21/2021 7:05:06 AM",
                     "lastChangeDateTime": "3/20/2021 7:01:46 AM",
                     "estimateCLUDateTime": "3/31/2021 7:00:00 AM",
                     "memoCauseCode": "15",
@@ -213,7 +213,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160318",
                     "outageStartDateTime": "3/20/2021 9:52:09 PM",
-                    "versionDate": "3/21/2021 6:35:04 AM",
+                    "versionDate": "3/21/2021 7:05:06 AM",
                     "lastChangeDateTime": "3/21/2021 5:47:41 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "11",
@@ -238,8 +238,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160341",
                     "outageStartDateTime": "3/21/2021 5:13:21 AM",
-                    "versionDate": "3/21/2021 6:35:04 AM",
-                    "lastChangeDateTime": "3/21/2021 6:31:24 AM",
+                    "versionDate": "3/21/2021 7:05:06 AM",
+                    "lastChangeDateTime": "3/21/2021 7:00:08 AM",
                     "estimateCLUDateTime": "3/21/2021 12:00:00 PM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -247,15 +247,15 @@
                     "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "388",
+                    "numberOfCustomersAffected": "1542",
                     "zipCode": "91355",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Santa Clarita",
                     "districtNumber": "59",
                     "sectorNumber": "SAUGUS",
                     "ERTCode": "07",
-                    "centroidX": "-118.564004707929",
-                    "centroidY": "34.41771460461650"
+                    "centroidX": "-118.566187513877",
+                    "centroidY": "34.42011200893440"
                 },
                 {
                     "incidentId": "123894422",
@@ -263,8 +263,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160328",
                     "outageStartDateTime": "3/20/2021 11:50:01 PM",
-                    "versionDate": "3/21/2021 6:35:04 AM",
-                    "lastChangeDateTime": "3/21/2021 5:14:37 AM",
+                    "versionDate": "3/21/2021 7:05:06 AM",
+                    "lastChangeDateTime": "3/21/2021 6:36:38 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
