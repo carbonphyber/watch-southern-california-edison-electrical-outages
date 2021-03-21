@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-21T06:34:26.000Z",
+    "uiExpiraionDate": "2021-03-21T06:44:53.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 20, 2021, 11:19 PM",
+        "publishDate": "March 20, 2021, 11:29 PM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -29,7 +29,7 @@
                     {
                         "countyName": "San Bernardino                          ",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "1261",
+                        "numberoOfCustomersAffected": "1229",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
                     },
@@ -43,7 +43,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "13",
-                    "totalCustomersAffected": "4180"
+                    "totalCustomersAffected": "4148"
                 }
             },
             "cityBlock": {
@@ -79,7 +79,7 @@
                     {
                         "cityName": "Redlands",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "237",
+                        "numberoOfCustomersAffected": "205",
                         "centroidX": "-117.171291889761",
                         "centroidY": "34.05122812803310"
                     },
@@ -135,7 +135,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "13",
-                    "totalCustomersAffected": "4180"
+                    "totalCustomersAffected": "4148"
                 }
             },
             "zipCodeBlock": {
@@ -192,7 +192,7 @@
                     {
                         "zipCodeName": "92373",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "237",
+                        "numberoOfCustomersAffected": "205",
                         "centroidX": "-117.176761639870",
                         "centroidY": "34.02680657873450"
                     },
@@ -227,7 +227,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "136",
-                    "totalCustomersAffected": "177900"
+                    "totalCustomersAffected": "177580"
                 }
             },
             "districtBlock": {
@@ -242,7 +242,7 @@
                     {
                         "districtNumber": "31",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "1250",
+                        "numberoOfCustomersAffected": "1218",
                         "centroidX": "-117.064038478043",
                         "centroidY": "34.05116348904590"
                     },
@@ -291,7 +291,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "13",
-                    "totalCustomersAffected": "4180"
+                    "totalCustomersAffected": "4148"
                 }
             },
             "sectorBlock": {
@@ -348,14 +348,14 @@
                     {
                         "sectorNumber": "VISTA",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "1250",
+                        "numberoOfCustomersAffected": "1218",
                         "centroidX": "-117.166920310144",
                         "centroidY": "34.11683585814790"
                     }
                 ],
                 "sectorTotals": {
                     "totalIncidents": "13",
-                    "totalCustomersAffected": "4180"
+                    "totalCustomersAffected": "4148"
                 }
             }
         },
@@ -370,8 +370,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160275",
                     "outageStartDateTime": "3/20/2021 1:40:08 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
-                    "lastChangeDateTime": "3/20/2021 10:55:56 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
+                    "lastChangeDateTime": "3/20/2021 11:06:30 PM",
                     "estimateCLUDateTime": "Most up by 3/21/2021 12:00:00 AM",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
@@ -395,7 +395,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1160104",
                     "outageStartDateTime": "3/19/2021 11:14:01 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 7:01:46 AM",
                     "estimateCLUDateTime": "3/31/2021 7:00:00 AM",
                     "memoCauseCode": "15",
@@ -420,7 +420,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152998",
                     "outageStartDateTime": "3/20/2021 10:06:45 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 10:07:32 PM",
                     "estimateCLUDateTime": "3/21/2021 4:00:00 AM",
                     "memoCauseCode": "22",
@@ -445,7 +445,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154914",
                     "outageStartDateTime": "3/20/2021 9:12:13 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 10:17:11 PM",
                     "estimateCLUDateTime": "3/21/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -470,8 +470,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154906",
                     "outageStartDateTime": "3/20/2021 9:12:19 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
-                    "lastChangeDateTime": "3/20/2021 9:43:49 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
+                    "lastChangeDateTime": "3/20/2021 11:04:03 PM",
                     "estimateCLUDateTime": "3/21/2021 5:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -495,7 +495,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155986",
                     "outageStartDateTime": "3/20/2021 9:04:50 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 9:24:17 PM",
                     "estimateCLUDateTime": "3/21/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -520,7 +520,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1160308",
                     "outageStartDateTime": "3/20/2021 6:18:47 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 9:31:05 PM",
                     "estimateCLUDateTime": "3/21/2021 6:00:00 AM",
                     "memoCauseCode": "16",
@@ -545,7 +545,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160305",
                     "outageStartDateTime": "3/20/2021 4:45:20 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 10:35:52 PM",
                     "estimateCLUDateTime": "3/21/2021 6:00:00 AM",
                     "memoCauseCode": "16",
@@ -570,7 +570,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160314",
                     "outageStartDateTime": "3/20/2021 9:03:21 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 10:59:29 PM",
                     "estimateCLUDateTime": "Most up by 3/21/2021 5:30:00 AM",
                     "memoCauseCode": "11",
@@ -595,7 +595,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154977",
                     "outageStartDateTime": "3/20/2021 10:00:00 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 10:19:02 PM",
                     "estimateCLUDateTime": "3/21/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -611,8 +611,8 @@
                     "districtNumber": "51",
                     "sectorNumber": "SAN JOAQUIN",
                     "ERTCode": "06",
-                    "centroidX": "-119.290700505222",
-                    "centroidY": "36.32409569695750"
+                    "centroidX": "-119.290700510628",
+                    "centroidY": "36.32409552398440"
                 },
                 {
                     "incidentId": "123810261",
@@ -620,7 +620,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155188",
                     "outageStartDateTime": "3/20/2021 8:00:00 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 10:56:18 PM",
                     "estimateCLUDateTime": "3/21/2021 3:00:00 AM",
                     "memoCauseCode": "21",
@@ -636,8 +636,8 @@
                     "districtNumber": "31",
                     "sectorNumber": "VISTA",
                     "ERTCode": "06",
-                    "centroidX": "-117.251945282596",
-                    "centroidY": "34.06970042735830"
+                    "centroidX": "-117.251945305578",
+                    "centroidY": "34.06970017928930"
                 },
                 {
                     "incidentId": "123894292",
@@ -645,8 +645,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160318",
                     "outageStartDateTime": "3/20/2021 9:52:09 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
-                    "lastChangeDateTime": "3/20/2021 10:43:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
+                    "lastChangeDateTime": "3/20/2021 11:09:38 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -654,15 +654,15 @@
                     "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "237",
+                    "numberOfCustomersAffected": "205",
                     "zipCode": "92373",
                     "countyName": "San Bernardino                          ",
                     "cityName": "Redlands",
                     "districtNumber": "31",
                     "sectorNumber": "VISTA",
                     "ERTCode": "05",
-                    "centroidX": "-117.108460793598",
-                    "centroidY": "34.01774691008620"
+                    "centroidX": "-117.108044665190",
+                    "centroidY": "34.01775377490910"
                 },
                 {
                     "incidentId": "123894203",
@@ -670,7 +670,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1160313",
                     "outageStartDateTime": "3/20/2021 8:09:19 PM",
-                    "versionDate": "3/20/2021 11:04:33 PM",
+                    "versionDate": "3/20/2021 11:19:32 PM",
                     "lastChangeDateTime": "3/20/2021 10:05:18 PM",
                     "estimateCLUDateTime": "Most up by 3/21/2021 4:00:00 AM",
                     "memoCauseCode": "16",
