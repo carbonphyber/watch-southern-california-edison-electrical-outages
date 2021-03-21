@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-21T22:47:13.000Z",
+    "uiExpiraionDate": "2021-03-21T22:59:18.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 21, 2021, 03:32 PM",
+        "publishDate": "March 21, 2021, 03:44 PM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "6",
-                        "numberoOfCustomersAffected": "1323",
+                        "numberOfIncidents": "5",
+                        "numberoOfCustomersAffected": "1321",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -35,8 +35,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "1452"
+                    "totalIncidents": "9",
+                    "totalCustomersAffected": "1450"
                 }
             },
             "cityBlock": {
@@ -77,13 +77,6 @@
                         "centroidY": "34.41292025573950"
                     },
                     {
-                        "cityName": "Unincorporated Area - Los Angeles County",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "2",
-                        "centroidX": "-118.214453761165",
-                        "centroidY": "34.41817081802910"
-                    },
-                    {
                         "cityName": "Unincorporated Area - Riverside County",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "29",
@@ -106,8 +99,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "1452"
+                    "totalIncidents": "9",
+                    "totalCustomersAffected": "1450"
                 }
             },
             "zipCodeBlock": {
@@ -125,13 +118,6 @@
                         "numberoOfCustomersAffected": "263",
                         "centroidX": "-118.583002750790",
                         "centroidY": "34.42180420566710"
-                    },
-                    {
-                        "zipCodeName": "91390",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "2",
-                        "centroidX": "-118.422530542644",
-                        "centroidY": "34.53795834933810"
                     },
                     {
                         "zipCodeName": "91730",
@@ -177,8 +163,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "23",
-                    "totalCustomersAffected": "2828"
+                    "totalIncidents": "21",
+                    "totalCustomersAffected": "2824"
                 }
             },
             "districtBlock": {
@@ -213,8 +199,8 @@
                     },
                     {
                         "districtNumber": "59",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "265",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "263",
                         "centroidX": "-118.555233017072",
                         "centroidY": "34.39573824835440"
                     },
@@ -234,8 +220,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "1452"
+                    "totalIncidents": "9",
+                    "totalCustomersAffected": "1450"
                 }
             },
             "sectorBlock": {
@@ -263,8 +249,8 @@
                     },
                     {
                         "sectorNumber": "SAUGUS",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "265",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "263",
                         "centroidX": "-118.555233017072",
                         "centroidY": "34.39573824835440"
                     },
@@ -284,8 +270,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "1452"
+                    "totalIncidents": "9",
+                    "totalCustomersAffected": "1450"
                 }
             }
         },
@@ -295,12 +281,37 @@
         "AOCIncidents": {
             "incident": [
                 {
+                    "incidentId": "123816789",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1155726",
+                    "outageStartDateTime": "3/21/2021 8:25:02 AM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
+                    "lastChangeDateTime": "3/21/2021 8:26:51 AM",
+                    "estimateCLUDateTime": "3/21/2021 6:00:00 PM",
+                    "memoCauseCode": "23",
+                    "memoCauseCodeDescription": "Cable Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "4",
+                    "zipCode": "91750",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "La Verne",
+                    "districtNumber": "26",
+                    "sectorNumber": "MIRALOMA",
+                    "ERTCode": "06",
+                    "centroidX": "-117.781846749589",
+                    "centroidY": "34.09943800017640"
+                },
+                {
                     "incidentId": "123895796",
                     "incidentType": "QI",
                     "FACJobStatusCode": "U",
                     "OANNumber": "1160551",
                     "outageStartDateTime": "3/21/2021 2:21:11 PM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
                     "lastChangeDateTime": "3/21/2021 3:11:22 PM",
                     "estimateCLUDateTime": "3/21/2021 7:00:00 PM",
                     "memoCauseCode": "16",
@@ -325,7 +336,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1156583",
                     "outageStartDateTime": "3/21/2021 9:37:38 AM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
                     "lastChangeDateTime": "3/21/2021 2:27:25 PM",
                     "estimateCLUDateTime": "3/21/2021 4:30:00 PM",
                     "memoCauseCode": "07",
@@ -350,7 +361,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154899",
                     "outageStartDateTime": "3/21/2021 2:28:00 PM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
                     "lastChangeDateTime": "3/21/2021 3:03:32 PM",
                     "estimateCLUDateTime": "3/21/2021 8:00:00 PM",
                     "memoCauseCode": "21",
@@ -375,7 +386,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160341",
                     "outageStartDateTime": "3/21/2021 5:13:21 AM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
                     "lastChangeDateTime": "3/21/2021 11:41:35 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "16",
@@ -400,7 +411,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160328",
                     "outageStartDateTime": "3/20/2021 11:50:01 PM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
                     "lastChangeDateTime": "3/21/2021 2:56:16 PM",
                     "estimateCLUDateTime": "3/21/2021 10:00:00 PM",
                     "memoCauseCode": "11",
@@ -420,37 +431,12 @@
                     "centroidY": "34.52082210529850"
                 },
                 {
-                    "incidentId": "123782463",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1152966",
-                    "outageStartDateTime": "3/21/2021 8:00:00 AM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
-                    "lastChangeDateTime": "3/21/2021 2:51:30 PM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "2",
-                    "zipCode": "91390",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "Unincorporated Area - Los Angeles County",
-                    "districtNumber": "59",
-                    "sectorNumber": "SAUGUS",
-                    "ERTCode": "06",
-                    "centroidX": "-118.560691899826",
-                    "centroidY": "34.58803302641280"
-                },
-                {
                     "incidentId": "123810352",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155202",
                     "outageStartDateTime": "3/21/2021 8:36:47 AM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
                     "lastChangeDateTime": "3/21/2021 2:49:24 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
@@ -475,7 +461,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155284",
                     "outageStartDateTime": "3/21/2021 8:50:47 AM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
                     "lastChangeDateTime": "3/21/2021 3:18:22 PM",
                     "estimateCLUDateTime": "3/21/2021 5:00:00 PM",
                     "memoCauseCode": "21",
@@ -495,38 +481,13 @@
                     "centroidY": "34.09382533925380"
                 },
                 {
-                    "incidentId": "123816789",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1155726",
-                    "outageStartDateTime": "3/21/2021 8:25:02 AM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
-                    "lastChangeDateTime": "3/21/2021 8:26:51 AM",
-                    "estimateCLUDateTime": "3/21/2021 6:00:00 PM",
-                    "memoCauseCode": "23",
-                    "memoCauseCodeDescription": "Cable Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "4",
-                    "zipCode": "91750",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "La Verne",
-                    "districtNumber": "26",
-                    "sectorNumber": "MIRALOMA",
-                    "ERTCode": "06",
-                    "centroidX": "-117.781846749589",
-                    "centroidY": "34.09943800017640"
-                },
-                {
                     "incidentId": "123895850",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160564",
                     "outageStartDateTime": "3/21/2021 2:50:12 PM",
-                    "versionDate": "3/21/2021 3:27:23 PM",
-                    "lastChangeDateTime": "3/21/2021 3:13:43 PM",
+                    "versionDate": "3/21/2021 3:37:14 PM",
+                    "lastChangeDateTime": "3/21/2021 3:30:46 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
