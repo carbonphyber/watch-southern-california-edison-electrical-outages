@@ -1,21 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-21T14:48:55.000Z",
+    "uiExpiraionDate": "2021-03-21T15:05:52.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 21, 2021, 07:33 AM",
+        "publishDate": "March 21, 2021, 07:50 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
-                        "countyName": "Kern                                    ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "14",
-                        "centroidX": "-118.729077873263",
-                        "centroidY": "35.34357933177560"
-                    },
-                    {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "248",
+                        "numberoOfCustomersAffected": "282",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -28,8 +21,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "547"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "567"
                 }
             },
             "cityBlock": {
@@ -44,16 +37,9 @@
                     {
                         "cityName": "Santa Clarita",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "248",
+                        "numberoOfCustomersAffected": "282",
                         "centroidX": "-118.498066095936",
                         "centroidY": "34.41292025573950"
-                    },
-                    {
-                        "cityName": "Unincorporated Area - Kern County",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "14",
-                        "centroidX": "-118.763706961810",
-                        "centroidY": "35.35288414651270"
                     },
                     {
                         "cityName": "Unincorporated Area - San Bernardino County",
@@ -64,8 +50,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "547"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "567"
                 }
             },
             "zipCodeBlock": {
@@ -73,7 +59,7 @@
                     {
                         "zipCodeName": "91355",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "248",
+                        "numberoOfCustomersAffected": "282",
                         "centroidX": "-118.583002750790",
                         "centroidY": "34.42180420566710"
                     },
@@ -85,13 +71,6 @@
                         "centroidY": "34.02680657873450"
                     },
                     {
-                        "zipCodeName": "93285",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "14",
-                        "centroidX": "-118.590979277297",
-                        "centroidY": "35.78945222071980"
-                    },
-                    {
                         "zipCodeName": "No Zip Code",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "80",
@@ -100,8 +79,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "21",
-                    "totalCustomersAffected": "2738"
+                    "totalIncidents": "13",
+                    "totalCustomersAffected": "2694"
                 }
             },
             "districtBlock": {
@@ -114,16 +93,9 @@
                         "centroidY": "34.05116348904590"
                     },
                     {
-                        "districtNumber": "53",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "14",
-                        "centroidX": "-118.390869169903",
-                        "centroidY": "35.668435887737"
-                    },
-                    {
                         "districtNumber": "59",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "248",
+                        "numberoOfCustomersAffected": "282",
                         "centroidX": "-118.555233017072",
                         "centroidY": "34.39573824835440"
                     },
@@ -136,8 +108,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "547"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "567"
                 }
             },
             "sectorBlock": {
@@ -150,16 +122,9 @@
                         "centroidY": "34.48895654259350"
                     },
                     {
-                        "sectorNumber": "KERNVILLE",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "14",
-                        "centroidX": "-118.390869169903",
-                        "centroidY": "35.668435887737"
-                    },
-                    {
                         "sectorNumber": "SAUGUS",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "248",
+                        "numberoOfCustomersAffected": "282",
                         "centroidX": "-118.555233017072",
                         "centroidY": "34.39573824835440"
                     },
@@ -172,8 +137,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "547"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "567"
                 }
             }
         },
@@ -183,37 +148,12 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123890593",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1160104",
-                    "outageStartDateTime": "3/19/2021 11:14:01 PM",
-                    "versionDate": "3/21/2021 7:25:02 AM",
-                    "lastChangeDateTime": "3/20/2021 7:01:46 AM",
-                    "estimateCLUDateTime": "3/31/2021 7:00:00 AM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "14",
-                    "zipCode": "93285",
-                    "countyName": "Kern                                    ",
-                    "cityName": "Unincorporated Area - Kern County",
-                    "districtNumber": "53",
-                    "sectorNumber": "KERNVILLE",
-                    "ERTCode": "07",
-                    "centroidX": "-118.785939023486",
-                    "centroidY": "35.49531841396750"
-                },
-                {
                     "incidentId": "123894292",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160318",
                     "outageStartDateTime": "3/20/2021 9:52:09 PM",
-                    "versionDate": "3/21/2021 7:25:02 AM",
+                    "versionDate": "3/21/2021 7:45:58 AM",
                     "lastChangeDateTime": "3/21/2021 5:47:41 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "11",
@@ -238,8 +178,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160341",
                     "outageStartDateTime": "3/21/2021 5:13:21 AM",
-                    "versionDate": "3/21/2021 7:25:02 AM",
-                    "lastChangeDateTime": "3/21/2021 7:21:22 AM",
+                    "versionDate": "3/21/2021 7:45:58 AM",
+                    "lastChangeDateTime": "3/21/2021 7:41:23 AM",
                     "estimateCLUDateTime": "3/21/2021 12:00:00 PM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -247,15 +187,15 @@
                     "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "248",
+                    "numberOfCustomersAffected": "282",
                     "zipCode": "91355",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Santa Clarita",
                     "districtNumber": "59",
                     "sectorNumber": "SAUGUS",
                     "ERTCode": "07",
-                    "centroidX": "-118.564452523969",
-                    "centroidY": "34.41838166271580"
+                    "centroidX": "-118.564493748378",
+                    "centroidY": "34.41828468071620"
                 },
                 {
                     "incidentId": "123894422",
@@ -263,7 +203,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160328",
                     "outageStartDateTime": "3/20/2021 11:50:01 PM",
-                    "versionDate": "3/21/2021 7:25:02 AM",
+                    "versionDate": "3/21/2021 7:45:58 AM",
                     "lastChangeDateTime": "3/21/2021 7:08:25 AM",
                     "estimateCLUDateTime": "Most up by 3/21/2021 1:00:00 PM",
                     "memoCauseCode": "11",
