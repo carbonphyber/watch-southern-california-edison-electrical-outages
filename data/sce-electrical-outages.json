@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-21T08:22:46.000Z",
+    "uiExpiraionDate": "2021-03-21T08:56:20.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 21, 2021, 01:07 AM",
+        "publishDate": "March 21, 2021, 01:41 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,22 +14,22 @@
                     },
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "655",
+                        "numberOfIncidents": "8",
+                        "numberoOfCustomersAffected": "709",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
                     {
                         "countyName": "Riverside                               ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "307",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "309",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
                     {
                         "countyName": "San Bernardino                          ",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "1258",
+                        "numberoOfCustomersAffected": "1050",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
                     },
@@ -42,12 +42,19 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "4093"
+                    "totalIncidents": "16",
+                    "totalCustomersAffected": "3941"
                 }
             },
             "cityBlock": {
                 "city": [
+                    {
+                        "cityName": "Bell",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "40",
+                        "centroidX": "-118.179935807741",
+                        "centroidY": "33.98012053721050"
+                    },
                     {
                         "cityName": "Desert Hot Springs",
                         "numberOfIncidents": "1",
@@ -79,7 +86,7 @@
                     {
                         "cityName": "San Bernardino",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1013",
+                        "numberoOfCustomersAffected": "725",
                         "centroidX": "-117.294080431519",
                         "centroidY": "34.14163662772690"
                     },
@@ -91,6 +98,13 @@
                         "centroidY": "33.94470700127730"
                     },
                     {
+                        "cityName": "Torrance",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "13",
+                        "centroidX": "-118.341702208521",
+                        "centroidY": "33.83460781301750"
+                    },
+                    {
                         "cityName": "Unincorporated Area - Kern County",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "14",
@@ -99,15 +113,22 @@
                     },
                     {
                         "cityName": "Unincorporated Area - Los Angeles County",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "38",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "39",
                         "centroidX": "-118.214453761165",
                         "centroidY": "34.41817081802910"
                     },
                     {
+                        "cityName": "Unincorporated Area - Riverside County",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "2",
+                        "centroidX": "-115.858325991176",
+                        "centroidY": "33.73943608785210"
+                    },
+                    {
                         "cityName": "Unincorporated Area - San Bernardino County",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "40",
+                        "numberoOfCustomersAffected": "120",
                         "centroidX": "-116.131102794254",
                         "centroidY": "34.86889126946560"
                     },
@@ -127,8 +148,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "4093"
+                    "totalIncidents": "16",
+                    "totalCustomersAffected": "3941"
                 }
             },
             "zipCodeBlock": {
@@ -141,6 +162,13 @@
                         "centroidY": "34.02442270480620"
                     },
                     {
+                        "zipCodeName": "90201",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "40",
+                        "centroidX": "-118.170819458512",
+                        "centroidY": "33.97072498543780"
+                    },
+                    {
                         "zipCodeName": "90280",
                         "numberOfIncidents": "2",
                         "numberoOfCustomersAffected": "379",
@@ -148,11 +176,25 @@
                         "centroidY": "33.94450848389850"
                     },
                     {
+                        "zipCodeName": "90501",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "13",
+                        "centroidX": "-118.314220439483",
+                        "centroidY": "33.83362629699830"
+                    },
+                    {
                         "zipCodeName": "91731",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "1",
                         "centroidX": "-118.040560646325",
                         "centroidY": "34.079331807641"
+                    },
+                    {
+                        "zipCodeName": "91745",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-117.978477655386",
+                        "centroidY": "33.99891531143970"
                     },
                     {
                         "zipCodeName": "92240",
@@ -164,7 +206,7 @@
                     {
                         "zipCodeName": "92354",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1013",
+                        "numberoOfCustomersAffected": "725",
                         "centroidX": "-117.261785036584",
                         "centroidY": "34.01864189828710"
                     },
@@ -174,6 +216,13 @@
                         "numberoOfCustomersAffected": "205",
                         "centroidX": "-117.176761639870",
                         "centroidY": "34.02680657873450"
+                    },
+                    {
+                        "zipCodeName": "92590",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "2",
+                        "centroidX": "-117.214819705239",
+                        "centroidY": "33.47760574646430"
                     },
                     {
                         "zipCodeName": "93274",
@@ -206,14 +255,14 @@
                     {
                         "zipCodeName": "No Zip Code",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "40",
+                        "numberoOfCustomersAffected": "120",
                         "centroidX": "\n        ",
                         "centroidY": "\n        "
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "133",
-                    "totalCustomersAffected": "177430"
+                    "totalIncidents": "143",
+                    "totalCustomersAffected": "175898"
                 }
             },
             "districtBlock": {
@@ -226,16 +275,23 @@
                         "centroidY": "34.04492252099090"
                     },
                     {
+                        "districtNumber": "26",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-117.843448641056",
+                        "centroidY": "34.13907182771690"
+                    },
+                    {
                         "districtNumber": "31",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "1218",
+                        "numberoOfCustomersAffected": "930",
                         "centroidX": "-117.064038478043",
                         "centroidY": "34.05116348904590"
                     },
                     {
                         "districtNumber": "32",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "379",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "419",
                         "centroidX": "-118.193962097429",
                         "centroidY": "33.90927213139650"
                     },
@@ -245,6 +301,13 @@
                         "numberoOfCustomersAffected": "38",
                         "centroidX": "-118.554848248012",
                         "centroidY": "34.64618645984320"
+                    },
+                    {
+                        "districtNumber": "44",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "13",
+                        "centroidX": "-118.360092163335",
+                        "centroidY": "33.86848458673040"
                     },
                     {
                         "districtNumber": "51",
@@ -270,14 +333,21 @@
                     {
                         "districtNumber": "84",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "40",
+                        "numberoOfCustomersAffected": "120",
                         "centroidX": "-115.726154914059",
                         "centroidY": "34.48895654259350"
+                    },
+                    {
+                        "districtNumber": "88",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "2",
+                        "centroidX": "-117.204684530048",
+                        "centroidY": "33.627765649174"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "4093"
+                    "totalIncidents": "16",
+                    "totalCustomersAffected": "3941"
                 }
             },
             "sectorBlock": {
@@ -285,7 +355,7 @@
                     {
                         "sectorNumber": "29 PALMS",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "40",
+                        "numberoOfCustomersAffected": "120",
                         "centroidX": "-115.726154914059",
                         "centroidY": "34.48895654259350"
                     },
@@ -297,6 +367,13 @@
                         "centroidY": "33.73075475445940"
                     },
                     {
+                        "sectorNumber": "EL NIDO",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "13",
+                        "centroidX": "-118.403697968540",
+                        "centroidY": "33.91681631657030"
+                    },
+                    {
                         "sectorNumber": "KERNVILLE",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "14",
@@ -305,8 +382,8 @@
                     },
                     {
                         "sectorNumber": "LIGHTHIPE",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "379",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "419",
                         "centroidX": "-118.138362885446",
                         "centroidY": "33.87951550511030"
                     },
@@ -318,11 +395,25 @@
                         "centroidY": "34.18203233598380"
                     },
                     {
+                        "sectorNumber": "MIRALOMA",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-117.705783857999",
+                        "centroidY": "34.047426553560"
+                    },
+                    {
                         "sectorNumber": "SAN JOAQUIN",
                         "numberOfIncidents": "2",
                         "numberoOfCustomersAffected": "1859",
                         "centroidX": "-118.876559186538",
                         "centroidY": "36.18092984147310"
+                    },
+                    {
+                        "sectorNumber": "VALLEY",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "2",
+                        "centroidX": "-117.091579068654",
+                        "centroidY": "33.72064143866310"
                     },
                     {
                         "sectorNumber": "VINCENT",
@@ -334,14 +425,14 @@
                     {
                         "sectorNumber": "VISTA",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "1218",
+                        "numberoOfCustomersAffected": "930",
                         "centroidX": "-117.166920310144",
                         "centroidY": "34.11683585814790"
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "4093"
+                    "totalIncidents": "16",
+                    "totalCustomersAffected": "3941"
                 }
             }
         },
@@ -351,29 +442,29 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123890593",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1160104",
-                    "outageStartDateTime": "3/19/2021 11:14:01 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
-                    "lastChangeDateTime": "3/20/2021 7:01:46 AM",
-                    "estimateCLUDateTime": "3/31/2021 7:00:00 AM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "14",
-                    "zipCode": "93285",
-                    "countyName": "Kern                                    ",
-                    "cityName": "Unincorporated Area - Kern County",
-                    "districtNumber": "53",
-                    "sectorNumber": "KERNVILLE",
-                    "ERTCode": "07",
-                    "centroidX": "-118.785939023486",
-                    "centroidY": "35.49531841396750"
+                    "incidentId": "123813363",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "W",
+                    "OANNumber": "1155480",
+                    "outageStartDateTime": "3/20/2021 10:00:00 PM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 1:20:21 AM",
+                    "estimateCLUDateTime": "3/21/2021 4:00:00 AM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "13",
+                    "zipCode": "90501",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Torrance",
+                    "districtNumber": "44",
+                    "sectorNumber": "EL NIDO",
+                    "ERTCode": "06",
+                    "centroidX": "-118.327599599491",
+                    "centroidY": "33.82998720041340"
                 },
                 {
                     "incidentId": "123782671",
@@ -381,7 +472,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152998",
                     "outageStartDateTime": "3/20/2021 10:06:45 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
                     "lastChangeDateTime": "3/20/2021 10:07:32 PM",
                     "estimateCLUDateTime": "3/21/2021 4:00:00 AM",
                     "memoCauseCode": "22",
@@ -406,7 +497,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154914",
                     "outageStartDateTime": "3/20/2021 9:12:13 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
                     "lastChangeDateTime": "3/20/2021 10:17:11 PM",
                     "estimateCLUDateTime": "3/21/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -428,11 +519,11 @@
                 {
                     "incidentId": "123806936",
                     "incidentType": "PO",
-                    "FACJobStatusCode": "D",
+                    "FACJobStatusCode": "W",
                     "OANNumber": "1154906",
                     "outageStartDateTime": "3/20/2021 9:12:19 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
-                    "lastChangeDateTime": "3/20/2021 11:04:03 PM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 1:11:47 AM",
                     "estimateCLUDateTime": "3/21/2021 5:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -451,54 +542,129 @@
                     "centroidY": "33.94555667088520"
                 },
                 {
-                    "incidentId": "123810261",
+                    "incidentId": "123819688",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1155188",
-                    "outageStartDateTime": "3/20/2021 8:00:00 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
-                    "lastChangeDateTime": "3/20/2021 10:56:18 PM",
-                    "estimateCLUDateTime": "3/21/2021 3:00:00 AM",
+                    "OANNumber": "1155986",
+                    "outageStartDateTime": "3/20/2021 9:04:50 PM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/20/2021 9:24:17 PM",
+                    "estimateCLUDateTime": "3/21/2021 6:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "1013",
-                    "zipCode": "92354",
-                    "countyName": "San Bernardino                          ",
-                    "cityName": "San Bernardino",
-                    "districtNumber": "31",
-                    "sectorNumber": "VISTA",
+                    "numberOfCustomersAffected": "307",
+                    "zipCode": "92240",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Desert Hot Springs",
+                    "districtNumber": "79",
+                    "sectorNumber": "DEVERS",
                     "ERTCode": "06",
-                    "centroidX": "-117.251945282596",
-                    "centroidY": "34.06970042735830"
+                    "centroidX": "-116.527294413733",
+                    "centroidY": "33.98465048994030"
                 },
                 {
-                    "incidentId": "123894203",
-                    "incidentType": "Not Available",
+                    "incidentId": "123810057",
+                    "incidentType": "PO",
                     "FACJobStatusCode": "W",
-                    "OANNumber": "1160313",
-                    "outageStartDateTime": "3/20/2021 8:09:19 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
-                    "lastChangeDateTime": "3/21/2021 12:36:20 AM",
-                    "estimateCLUDateTime": "Most up by 3/21/2021 4:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
+                    "OANNumber": "1155165",
+                    "outageStartDateTime": "3/21/2021 1:00:00 AM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 1:11:36 AM",
+                    "estimateCLUDateTime": "3/21/2021 10:00:00 AM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
                     "crewStatusCode": "04",
                     "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "38",
-                    "zipCode": "93551",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "40",
+                    "zipCode": "90201",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Bell",
+                    "districtNumber": "32",
+                    "sectorNumber": "LIGHTHIPE",
+                    "ERTCode": "06",
+                    "centroidX": "-118.182681246664",
+                    "centroidY": "33.97758800164520"
+                },
+                {
+                    "incidentId": "123782129",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1152906",
+                    "outageStartDateTime": "3/21/2021 1:26:37 AM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 1:27:21 AM",
+                    "estimateCLUDateTime": "3/21/2021 5:15:00 AM",
+                    "memoCauseCode": "22",
+                    "memoCauseCodeDescription": "Transformer Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "2",
+                    "zipCode": "92590",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Unincorporated Area - Riverside County",
+                    "districtNumber": "88",
+                    "sectorNumber": "VALLEY",
+                    "ERTCode": "06",
+                    "centroidX": "-117.209559499960",
+                    "centroidY": "33.47677400001720"
+                },
+                {
+                    "incidentId": "123796744",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1154113",
+                    "outageStartDateTime": "3/20/2021 11:00:00 PM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 1:21:57 AM",
+                    "estimateCLUDateTime": "3/21/2021 6:00:00 AM",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "1",
+                    "zipCode": "91745",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Unincorporated Area - Los Angeles County",
-                    "districtNumber": "36",
-                    "sectorNumber": "VINCENT",
-                    "ERTCode": "05",
-                    "centroidX": "-118.156319748886",
-                    "centroidY": "34.59178400102220"
+                    "districtNumber": "26",
+                    "sectorNumber": "MIRALOMA",
+                    "ERTCode": "06",
+                    "centroidX": "-117.93502250",
+                    "centroidY": "33.99647550003640"
+                },
+                {
+                    "incidentId": "123893848",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "F",
+                    "OANNumber": "1160305",
+                    "outageStartDateTime": "3/20/2021 4:45:20 PM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 1:00:17 AM",
+                    "estimateCLUDateTime": "3/21/2021 6:00:00 AM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "11",
+                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "237",
+                    "zipCode": "90022",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "East Los Angeles",
+                    "districtNumber": "22",
+                    "sectorNumber": "MESA",
+                    "ERTCode": "06",
+                    "centroidX": "-118.159588690540",
+                    "centroidY": "34.03131495772070"
                 },
                 {
                     "incidentId": "123894250",
@@ -506,7 +672,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160314",
                     "outageStartDateTime": "3/20/2021 9:03:21 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
                     "lastChangeDateTime": "3/20/2021 11:43:36 PM",
                     "estimateCLUDateTime": "Most up by 3/21/2021 5:30:00 AM",
                     "memoCauseCode": "11",
@@ -531,7 +697,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154977",
                     "outageStartDateTime": "3/20/2021 10:00:00 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
                     "lastChangeDateTime": "3/21/2021 12:29:51 AM",
                     "estimateCLUDateTime": "3/21/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -547,58 +713,83 @@
                     "districtNumber": "51",
                     "sectorNumber": "SAN JOAQUIN",
                     "ERTCode": "06",
-                    "centroidX": "-119.290700502534",
-                    "centroidY": "36.324095794255"
+                    "centroidX": "-119.290700505222",
+                    "centroidY": "36.32409569695750"
                 },
                 {
-                    "incidentId": "123819688",
+                    "incidentId": "123810261",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1155986",
-                    "outageStartDateTime": "3/20/2021 9:04:50 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
-                    "lastChangeDateTime": "3/20/2021 9:24:17 PM",
-                    "estimateCLUDateTime": "3/21/2021 6:00:00 AM",
+                    "OANNumber": "1155188",
+                    "outageStartDateTime": "3/20/2021 8:00:00 PM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 1:24:45 AM",
+                    "estimateCLUDateTime": "3/21/2021 3:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "307",
-                    "zipCode": "92240",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Desert Hot Springs",
-                    "districtNumber": "79",
-                    "sectorNumber": "DEVERS",
+                    "numberOfCustomersAffected": "725",
+                    "zipCode": "92354",
+                    "countyName": "San Bernardino                          ",
+                    "cityName": "San Bernardino",
+                    "districtNumber": "31",
+                    "sectorNumber": "VISTA",
                     "ERTCode": "06",
-                    "centroidX": "-116.527294413733",
-                    "centroidY": "33.98465048994030"
+                    "centroidX": "-117.251945282596",
+                    "centroidY": "34.06970042735830"
                 },
                 {
-                    "incidentId": "123893848",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "F",
-                    "OANNumber": "1160305",
-                    "outageStartDateTime": "3/20/2021 4:45:20 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
-                    "lastChangeDateTime": "3/21/2021 12:05:58 AM",
-                    "estimateCLUDateTime": "3/21/2021 6:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "11",
-                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
+                    "incidentId": "123890593",
+                    "incidentType": "QI",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1160104",
+                    "outageStartDateTime": "3/19/2021 11:14:01 PM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/20/2021 7:01:46 AM",
+                    "estimateCLUDateTime": "3/31/2021 7:00:00 AM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "237",
-                    "zipCode": "90022",
+                    "numberOfCustomersAffected": "14",
+                    "zipCode": "93285",
+                    "countyName": "Kern                                    ",
+                    "cityName": "Unincorporated Area - Kern County",
+                    "districtNumber": "53",
+                    "sectorNumber": "KERNVILLE",
+                    "ERTCode": "07",
+                    "centroidX": "-118.785939023486",
+                    "centroidY": "35.49531841396750"
+                },
+                {
+                    "incidentId": "123894203",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "W",
+                    "OANNumber": "1160313",
+                    "outageStartDateTime": "3/20/2021 8:09:19 PM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 12:36:20 AM",
+                    "estimateCLUDateTime": "Most up by 3/21/2021 4:00:00 AM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "38",
+                    "zipCode": "93551",
                     "countyName": "Los Angeles                             ",
-                    "cityName": "East Los Angeles",
-                    "districtNumber": "22",
-                    "sectorNumber": "MESA",
-                    "ERTCode": "06",
-                    "centroidX": "-118.159588690540",
-                    "centroidY": "34.03131495772070"
+                    "cityName": "Unincorporated Area - Los Angeles County",
+                    "districtNumber": "36",
+                    "sectorNumber": "VINCENT",
+                    "ERTCode": "05",
+                    "centroidX": "-118.156319748886",
+                    "centroidY": "34.59178400102220"
                 },
                 {
                     "incidentId": "123894292",
@@ -606,7 +797,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160318",
                     "outageStartDateTime": "3/20/2021 9:52:09 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
                     "lastChangeDateTime": "3/21/2021 12:47:36 AM",
                     "estimateCLUDateTime": "Most up by 3/21/2021 7:00:00 AM",
                     "memoCauseCode": "11",
@@ -631,8 +822,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160328",
                     "outageStartDateTime": "3/20/2021 11:50:01 PM",
-                    "versionDate": "3/21/2021 12:55:07 AM",
-                    "lastChangeDateTime": "3/21/2021 12:49:59 AM",
+                    "versionDate": "3/21/2021 1:35:06 AM",
+                    "lastChangeDateTime": "3/21/2021 1:02:58 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -640,15 +831,15 @@
                     "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "40",
+                    "numberOfCustomersAffected": "120",
                     "zipCode": "No Zip Code",
                     "countyName": "San Bernardino                          ",
                     "cityName": "Unincorporated Area - San Bernardino County",
                     "districtNumber": "84",
                     "sectorNumber": "29 PALMS",
                     "ERTCode": "2",
-                    "centroidX": "-115.731723545193",
-                    "centroidY": "34.528538490414"
+                    "centroidX": "-115.726350677374",
+                    "centroidY": "34.52222696929760"
                 }
             ]
         }
