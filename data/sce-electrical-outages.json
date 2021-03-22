@@ -1,28 +1,28 @@
 {
-    "uiExpiraionDate": "2021-03-22T12:58:44.000Z",
+    "uiExpiraionDate": "2021-03-22T13:30:26.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 22, 2021, 05:43 AM",
+        "publishDate": "March 22, 2021, 06:15 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "San Bernardino                          ",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "35",
+                        "numberoOfCustomersAffected": "235",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
                     },
                     {
                         "countyName": "Ventura                                 ",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "714",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "713",
                         "centroidX": "-119.194616846888",
                         "centroidY": "33.95953385222530"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "749"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "948"
                 }
             },
             "cityBlock": {
@@ -30,7 +30,7 @@
                     {
                         "cityName": "Chino",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
+                        "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.664990328580",
                         "centroidY": "33.98327721570890"
                     },
@@ -47,18 +47,11 @@
                         "numberoOfCustomersAffected": "2",
                         "centroidX": "-117.388318121068",
                         "centroidY": "34.11424909935230"
-                    },
-                    {
-                        "cityName": "Unincorporated Area - Ventura County",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1",
-                        "centroidX": "-119.097689347676",
-                        "centroidY": "34.48180914978320"
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "749"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "948"
                 }
             },
             "zipCodeBlock": {
@@ -66,7 +59,7 @@
                     {
                         "zipCodeName": "91710",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
+                        "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.742259503973",
                         "centroidY": "34.01969124516850"
                     },
@@ -83,18 +76,11 @@
                         "numberoOfCustomersAffected": "713",
                         "centroidX": "-119.174894545953",
                         "centroidY": "34.20687705173320"
-                    },
-                    {
-                        "zipCodeName": "93060",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1",
-                        "centroidX": "-119.113106713302",
-                        "centroidY": "34.37279399657470"
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "1568"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "2366"
                 }
             },
             "districtBlock": {
@@ -109,21 +95,21 @@
                     {
                         "districtNumber": "34",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
+                        "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.594234472477",
                         "centroidY": "34.032925546428"
                     },
                     {
                         "districtNumber": "39",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "714",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "713",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "749"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "948"
                 }
             },
             "sectorBlock": {
@@ -131,14 +117,14 @@
                     {
                         "sectorNumber": "MIRALOMA",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "33",
+                        "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.705783857999",
                         "centroidY": "34.047426553560"
                     },
                     {
                         "sectorNumber": "SANTA CLARA",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "714",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "713",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
                     },
@@ -151,8 +137,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "749"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "948"
                 }
             }
         },
@@ -162,37 +148,12 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123811202",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1155347",
-                    "outageStartDateTime": "3/22/2021 3:36:56 AM",
-                    "versionDate": "3/22/2021 5:40:00 AM",
-                    "lastChangeDateTime": "3/22/2021 4:19:16 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "1",
-                    "zipCode": "93060",
-                    "countyName": "Ventura                                 ",
-                    "cityName": "Unincorporated Area - Ventura County",
-                    "districtNumber": "39",
-                    "sectorNumber": "SANTA CLARA",
-                    "ERTCode": "07",
-                    "centroidX": "-119.105230",
-                    "centroidY": "34.32933399998440"
-                },
-                {
                     "incidentId": "123796326",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154021",
                     "outageStartDateTime": "3/22/2021 2:19:07 AM",
-                    "versionDate": "3/22/2021 5:40:00 AM",
+                    "versionDate": "3/22/2021 6:10:02 AM",
                     "lastChangeDateTime": "3/22/2021 4:13:01 AM",
                     "estimateCLUDateTime": "3/22/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -217,8 +178,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154233",
                     "outageStartDateTime": "3/21/2021 10:18:17 PM",
-                    "versionDate": "3/22/2021 5:40:00 AM",
-                    "lastChangeDateTime": "3/22/2021 5:29:34 AM",
+                    "versionDate": "3/22/2021 6:10:02 AM",
+                    "lastChangeDateTime": "3/22/2021 6:06:21 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "22",
                     "memoCauseCodeDescription": "Transformer Upgrade",
@@ -226,7 +187,7 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "33",
+                    "numberOfCustomersAffected": "233",
                     "zipCode": "91710",
                     "countyName": "San Bernardino                          ",
                     "cityName": "Chino",
@@ -242,7 +203,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155097",
                     "outageStartDateTime": "3/21/2021 11:51:03 PM",
-                    "versionDate": "3/22/2021 5:40:00 AM",
+                    "versionDate": "3/22/2021 6:10:02 AM",
                     "lastChangeDateTime": "3/22/2021 5:01:41 AM",
                     "estimateCLUDateTime": "3/22/2021 9:00:00 AM",
                     "memoCauseCode": "21",
