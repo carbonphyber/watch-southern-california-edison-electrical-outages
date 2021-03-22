@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-22T14:55:10.000Z",
+    "uiExpiraionDate": "2021-03-22T15:00:36.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 22, 2021, 07:40 AM",
+        "publishDate": "March 22, 2021, 07:45 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -18,21 +18,42 @@
                         "numberoOfCustomersAffected": "63",
                         "centroidX": "-118.799964511698",
                         "centroidY": "36.2202593720"
+                    },
+                    {
+                        "countyName": "Ventura                                 ",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "14",
+                        "centroidX": "-119.194616846888",
+                        "centroidY": "33.95953385222530"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "2",
-                    "totalCustomersAffected": "65"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "79"
                 }
             },
             "cityBlock": {
                 "city": [
+                    {
+                        "cityName": "Oxnard",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-119.181712120101",
+                        "centroidY": "34.19619332581070"
+                    },
                     {
                         "cityName": "Rialto",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "2",
                         "centroidX": "-117.388318121068",
                         "centroidY": "34.11424909935230"
+                    },
+                    {
+                        "cityName": "San Buenaventura (Ventura)",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "13",
+                        "centroidX": "-119.230631557691",
+                        "centroidY": "34.27361909232640"
                     },
                     {
                         "cityName": "Unincorporated Area - Tulare County",
@@ -43,8 +64,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "2",
-                    "totalCustomersAffected": "65"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "79"
                 }
             },
             "zipCodeBlock": {
@@ -57,6 +78,20 @@
                         "centroidY": "34.05959696570670"
                     },
                     {
+                        "zipCodeName": "93004",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "13",
+                        "centroidX": "-119.163835366245",
+                        "centroidY": "34.281288602330"
+                    },
+                    {
+                        "zipCodeName": "93030",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-119.174894545953",
+                        "centroidY": "34.20687705173320"
+                    },
+                    {
                         "zipCodeName": "93247",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "63",
@@ -65,8 +100,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "6",
-                    "totalCustomersAffected": "134"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "162"
                 }
             },
             "districtBlock": {
@@ -79,6 +114,13 @@
                         "centroidY": "34.17261336761070"
                     },
                     {
+                        "districtNumber": "39",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "14",
+                        "centroidX": "-119.156215681038",
+                        "centroidY": "34.35706535352120"
+                    },
+                    {
                         "districtNumber": "51",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "63",
@@ -87,8 +129,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "2",
-                    "totalCustomersAffected": "65"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "79"
                 }
             },
             "sectorBlock": {
@@ -101,6 +143,13 @@
                         "centroidY": "36.18092984147310"
                     },
                     {
+                        "sectorNumber": "SANTA CLARA",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "14",
+                        "centroidX": "-119.156215681038",
+                        "centroidY": "34.35706535352120"
+                    },
+                    {
                         "sectorNumber": "VISTA",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "2",
@@ -109,8 +158,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "2",
-                    "totalCustomersAffected": "65"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "79"
                 }
             }
         },
@@ -120,12 +169,62 @@
         "AOCIncidents": {
             "incident": [
                 {
+                    "incidentId": "123811120",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "A",
+                    "OANNumber": "1155333",
+                    "outageStartDateTime": "3/22/2021 7:31:39 AM",
+                    "versionDate": "3/22/2021 7:42:09 AM",
+                    "lastChangeDateTime": "3/22/2021 7:32:01 AM",
+                    "estimateCLUDateTime": "3/22/2021 11:00:00 AM",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "13",
+                    "zipCode": "93004",
+                    "countyName": "Ventura                                 ",
+                    "cityName": "San Buenaventura (Ventura)",
+                    "districtNumber": "39",
+                    "sectorNumber": "SANTA CLARA",
+                    "ERTCode": "06",
+                    "centroidX": "-119.176763",
+                    "centroidY": "34.26350450000540"
+                },
+                {
+                    "incidentId": "123796326",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "F",
+                    "OANNumber": "1154021",
+                    "outageStartDateTime": "3/22/2021 2:19:07 AM",
+                    "versionDate": "3/22/2021 7:42:09 AM",
+                    "lastChangeDateTime": "3/22/2021 7:38:03 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "1",
+                    "zipCode": "93030",
+                    "countyName": "Ventura                                 ",
+                    "cityName": "Oxnard",
+                    "districtNumber": "39",
+                    "sectorNumber": "SANTA CLARA",
+                    "ERTCode": "09",
+                    "centroidX": "-119.151649",
+                    "centroidY": "34.20768850001450"
+                },
+                {
                     "incidentId": "123809011",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155097",
                     "outageStartDateTime": "3/21/2021 11:51:03 PM",
-                    "versionDate": "3/22/2021 7:32:05 AM",
+                    "versionDate": "3/22/2021 7:42:09 AM",
                     "lastChangeDateTime": "3/22/2021 6:18:51 AM",
                     "estimateCLUDateTime": "3/22/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -150,8 +249,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160631",
                     "outageStartDateTime": "3/22/2021 6:30:06 AM",
-                    "versionDate": "3/22/2021 7:32:05 AM",
-                    "lastChangeDateTime": "3/22/2021 7:25:27 AM",
+                    "versionDate": "3/22/2021 7:42:09 AM",
+                    "lastChangeDateTime": "3/22/2021 7:30:58 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
