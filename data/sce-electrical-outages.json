@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-22T01:06:50.000Z",
+    "uiExpiraionDate": "2021-03-22T02:17:05.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 21, 2021, 05:51 PM",
+        "publishDate": "March 21, 2021, 07:02 PM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "209",
+                        "numberoOfCustomersAffected": "210",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -29,7 +29,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "6",
-                    "totalCustomersAffected": "293"
+                    "totalCustomersAffected": "294"
                 }
             },
             "cityBlock": {
@@ -37,7 +37,7 @@
                     {
                         "cityName": "Artesia",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "204",
+                        "numberoOfCustomersAffected": "205",
                         "centroidX": "-118.080628893903",
                         "centroidY": "33.86753026343090"
                     },
@@ -79,7 +79,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "6",
-                    "totalCustomersAffected": "293"
+                    "totalCustomersAffected": "294"
                 }
             },
             "zipCodeBlock": {
@@ -94,7 +94,7 @@
                     {
                         "zipCodeName": "90701",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "204",
+                        "numberoOfCustomersAffected": "205",
                         "centroidX": "-118.080611257549",
                         "centroidY": "33.86760534890010"
                     },
@@ -129,7 +129,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "15",
-                    "totalCustomersAffected": "510"
+                    "totalCustomersAffected": "512"
                 }
             },
             "districtBlock": {
@@ -158,7 +158,7 @@
                     {
                         "districtNumber": "46",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "204",
+                        "numberoOfCustomersAffected": "205",
                         "centroidX": "-118.139034271362",
                         "centroidY": "33.81028532489710"
                     },
@@ -179,7 +179,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "6",
-                    "totalCustomersAffected": "293"
+                    "totalCustomersAffected": "294"
                 }
             },
             "sectorBlock": {
@@ -194,7 +194,7 @@
                     {
                         "sectorNumber": "LIGHTHIPE",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "205",
+                        "numberoOfCustomersAffected": "206",
                         "centroidX": "-118.138362885446",
                         "centroidY": "33.87951550511030"
                     },
@@ -215,7 +215,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "6",
-                    "totalCustomersAffected": "293"
+                    "totalCustomersAffected": "294"
                 }
             }
         },
@@ -230,7 +230,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155726",
                     "outageStartDateTime": "3/21/2021 8:25:02 AM",
-                    "versionDate": "3/21/2021 5:48:16 PM",
+                    "versionDate": "3/21/2021 6:38:40 PM",
                     "lastChangeDateTime": "3/21/2021 5:34:42 PM",
                     "estimateCLUDateTime": "3/21/2021 8:00:00 PM",
                     "memoCauseCode": "23",
@@ -252,11 +252,11 @@
                 {
                     "incidentId": "123896168",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "U",
+                    "FACJobStatusCode": "D",
                     "OANNumber": "1160579",
                     "outageStartDateTime": "3/21/2021 5:31:51 PM",
-                    "versionDate": "3/21/2021 5:48:16 PM",
-                    "lastChangeDateTime": "3/21/2021 5:38:47 PM",
+                    "versionDate": "3/21/2021 6:38:40 PM",
+                    "lastChangeDateTime": "3/21/2021 5:55:24 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -264,7 +264,7 @@
                     "crewStatusCodeDescription": "We are aware of the problem.",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "204",
+                    "numberOfCustomersAffected": "205",
                     "zipCode": "90701",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Artesia",
@@ -280,9 +280,9 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1160551",
                     "outageStartDateTime": "3/21/2021 2:21:11 PM",
-                    "versionDate": "3/21/2021 5:48:16 PM",
+                    "versionDate": "3/21/2021 6:38:40 PM",
                     "lastChangeDateTime": "3/21/2021 3:52:02 PM",
-                    "estimateCLUDateTime": "3/21/2021 7:00:00 PM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
                     "crewStatusCode": "04",
@@ -305,7 +305,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154899",
                     "outageStartDateTime": "3/21/2021 2:28:00 PM",
-                    "versionDate": "3/21/2021 5:48:16 PM",
+                    "versionDate": "3/21/2021 6:38:40 PM",
                     "lastChangeDateTime": "3/21/2021 3:03:32 PM",
                     "estimateCLUDateTime": "3/21/2021 8:00:00 PM",
                     "memoCauseCode": "21",
@@ -330,8 +330,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160328",
                     "outageStartDateTime": "3/20/2021 11:50:01 PM",
-                    "versionDate": "3/21/2021 5:48:16 PM",
-                    "lastChangeDateTime": "3/21/2021 2:56:16 PM",
+                    "versionDate": "3/21/2021 6:38:40 PM",
+                    "lastChangeDateTime": "3/21/2021 6:01:20 PM",
                     "estimateCLUDateTime": "3/21/2021 10:00:00 PM",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
@@ -355,7 +355,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153985",
                     "outageStartDateTime": "3/21/2021 7:32:48 AM",
-                    "versionDate": "3/21/2021 5:48:16 PM",
+                    "versionDate": "3/21/2021 6:38:40 PM",
                     "lastChangeDateTime": "3/21/2021 4:58:18 PM",
                     "estimateCLUDateTime": "3/21/2021 9:00:00 PM",
                     "memoCauseCode": "21",
