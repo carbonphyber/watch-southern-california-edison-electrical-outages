@@ -1,17 +1,10 @@
 {
-    "uiExpiraionDate": "2021-03-22T14:33:45.000Z",
+    "uiExpiraionDate": "2021-03-22T14:55:10.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 22, 2021, 07:18 AM",
+        "publishDate": "March 22, 2021, 07:40 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
-                    {
-                        "countyName": "Riverside                               ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "-115.993691627676",
-                        "centroidY": "33.74647681696390"
-                    },
                     {
                         "countyName": "San Bernardino                          ",
                         "numberOfIncidents": "1",
@@ -25,36 +18,15 @@
                         "numberoOfCustomersAffected": "63",
                         "centroidX": "-118.799964511698",
                         "centroidY": "36.2202593720"
-                    },
-                    {
-                        "countyName": "Ventura                                 ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "713",
-                        "centroidX": "-119.194616846888",
-                        "centroidY": "33.95953385222530"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "778"
+                    "totalIncidents": "2",
+                    "totalCustomersAffected": "65"
                 }
             },
             "cityBlock": {
                 "city": [
-                    {
-                        "cityName": "Oxnard",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "713",
-                        "centroidX": "-119.181712120101",
-                        "centroidY": "34.19619332581070"
-                    },
-                    {
-                        "cityName": "Palm Springs",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "-116.538050571858",
-                        "centroidY": "33.801705291180"
-                    },
                     {
                         "cityName": "Rialto",
                         "numberOfIncidents": "1",
@@ -71,8 +43,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "778"
+                    "totalIncidents": "2",
+                    "totalCustomersAffected": "65"
                 }
             },
             "zipCodeBlock": {
@@ -85,30 +57,16 @@
                         "centroidY": "34.05959696570670"
                     },
                     {
-                        "zipCodeName": "93030",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "713",
-                        "centroidX": "-119.174894545953",
-                        "centroidY": "34.20687705173320"
-                    },
-                    {
                         "zipCodeName": "93247",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "63",
                         "centroidX": "-118.987878641244",
                         "centroidY": "36.19723009551290"
-                    },
-                    {
-                        "zipCodeName": "No Zip Code",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "\n        ",
-                        "centroidY": "\n        "
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "1560"
+                    "totalIncidents": "6",
+                    "totalCustomersAffected": "134"
                 }
             },
             "districtBlock": {
@@ -121,54 +79,26 @@
                         "centroidY": "34.17261336761070"
                     },
                     {
-                        "districtNumber": "39",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "713",
-                        "centroidX": "-119.156215681038",
-                        "centroidY": "34.35706535352120"
-                    },
-                    {
                         "districtNumber": "51",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "63",
                         "centroidX": "-118.876559186538",
                         "centroidY": "36.18092984147310"
-                    },
-                    {
-                        "districtNumber": "79",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "-116.592399612918",
-                        "centroidY": "33.73075475445940"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "778"
+                    "totalIncidents": "2",
+                    "totalCustomersAffected": "65"
                 }
             },
             "sectorBlock": {
                 "sector": [
-                    {
-                        "sectorNumber": "DEVERS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "-116.592399612918",
-                        "centroidY": "33.73075475445940"
-                    },
                     {
                         "sectorNumber": "SAN JOAQUIN",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "63",
                         "centroidX": "-118.876559186538",
                         "centroidY": "36.18092984147310"
-                    },
-                    {
-                        "sectorNumber": "SANTA CLARA",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "713",
-                        "centroidX": "-119.156215681038",
-                        "centroidY": "34.35706535352120"
                     },
                     {
                         "sectorNumber": "VISTA",
@@ -179,8 +109,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "778"
+                    "totalIncidents": "2",
+                    "totalCustomersAffected": "65"
                 }
             }
         },
@@ -190,37 +120,12 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123796326",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1154021",
-                    "outageStartDateTime": "3/22/2021 2:19:07 AM",
-                    "versionDate": "3/22/2021 7:10:08 AM",
-                    "lastChangeDateTime": "3/22/2021 4:13:01 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "713",
-                    "zipCode": "93030",
-                    "countyName": "Ventura                                 ",
-                    "cityName": "Oxnard",
-                    "districtNumber": "39",
-                    "sectorNumber": "SANTA CLARA",
-                    "ERTCode": "07",
-                    "centroidX": "-119.152615127112",
-                    "centroidY": "34.21022286922260"
-                },
-                {
                     "incidentId": "123809011",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155097",
                     "outageStartDateTime": "3/21/2021 11:51:03 PM",
-                    "versionDate": "3/22/2021 7:10:08 AM",
+                    "versionDate": "3/22/2021 7:32:05 AM",
                     "lastChangeDateTime": "3/22/2021 6:18:51 AM",
                     "estimateCLUDateTime": "3/22/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -245,9 +150,9 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160631",
                     "outageStartDateTime": "3/22/2021 6:30:06 AM",
-                    "versionDate": "3/22/2021 7:10:08 AM",
-                    "lastChangeDateTime": "3/22/2021 7:06:35 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "versionDate": "3/22/2021 7:32:05 AM",
+                    "lastChangeDateTime": "3/22/2021 7:25:27 AM",
+                    "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
                     "crewStatusCode": "11",
@@ -260,34 +165,9 @@
                     "cityName": "Unincorporated Area - Tulare County",
                     "districtNumber": "51",
                     "sectorNumber": "SAN JOAQUIN",
-                    "ERTCode": "07",
+                    "ERTCode": "2",
                     "centroidX": "-119.044039414282",
                     "centroidY": "36.18906080575190"
-                },
-                {
-                    "incidentId": "123897081",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "U",
-                    "OANNumber": "1160634",
-                    "outageStartDateTime": "3/22/2021 7:00:32 AM",
-                    "versionDate": "3/22/2021 7:10:08 AM",
-                    "lastChangeDateTime": "3/22/2021 7:01:19 AM",
-                    "estimateCLUDateTime": "Most up by 3/22/2021 8:00:32 AM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "0",
-                    "zipCode": "No Zip Code",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Palm Springs",
-                    "districtNumber": "79",
-                    "sectorNumber": "DEVERS",
-                    "ERTCode": "01",
-                    "centroidX": "-116.554488000010",
-                    "centroidY": "33.89934350001450"
                 }
             ]
         }
