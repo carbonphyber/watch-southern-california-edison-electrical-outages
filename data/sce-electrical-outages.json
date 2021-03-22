@@ -1,17 +1,10 @@
 {
-    "uiExpiraionDate": "2021-03-22T11:08:09.000Z",
+    "uiExpiraionDate": "2021-03-22T11:28:44.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 22, 2021, 03:53 AM",
+        "publishDate": "March 22, 2021, 04:13 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
-                    {
-                        "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "11",
-                        "centroidX": "-118.351107325584",
-                        "centroidY": "33.819720564505"
-                    },
                     {
                         "countyName": "Orange                                  ",
                         "numberOfIncidents": "1",
@@ -28,15 +21,15 @@
                     },
                     {
                         "countyName": "Ventura                                 ",
-                        "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "820",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "768",
                         "centroidX": "-119.194616846888",
                         "centroidY": "33.95953385222530"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "866"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "803"
                 }
             },
             "cityBlock": {
@@ -77,41 +70,20 @@
                         "centroidY": "34.27361909232640"
                     },
                     {
-                        "cityName": "Santa Clarita",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "11",
-                        "centroidX": "-118.498066095936",
-                        "centroidY": "34.41292025573950"
-                    },
-                    {
-                        "cityName": "Santa Paula",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "34",
-                        "centroidX": "-119.069416021883",
-                        "centroidY": "34.35197258183340"
-                    },
-                    {
                         "cityName": "Unincorporated Area - Ventura County",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "32",
+                        "numberoOfCustomersAffected": "14",
                         "centroidX": "-119.097689347676",
                         "centroidY": "34.48180914978320"
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "866"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "803"
                 }
             },
             "zipCodeBlock": {
                 "zipCode": [
-                    {
-                        "zipCodeName": "91387",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "11",
-                        "centroidX": "-118.419791273549",
-                        "centroidY": "34.41560751548060"
-                    },
                     {
                         "zipCodeName": "91710",
                         "numberOfIncidents": "1",
@@ -141,13 +113,6 @@
                         "centroidY": "34.28616083468230"
                     },
                     {
-                        "zipCodeName": "93012",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "19",
-                        "centroidX": "-118.995894228072",
-                        "centroidY": "34.20621528042480"
-                    },
-                    {
                         "zipCodeName": "93030",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "713",
@@ -157,14 +122,14 @@
                     {
                         "zipCodeName": "93060",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "47",
+                        "numberoOfCustomersAffected": "14",
                         "centroidX": "-119.113106713302",
                         "centroidY": "34.37279399657470"
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "24",
-                    "totalCustomersAffected": "1802"
+                    "totalIncidents": "20",
+                    "totalCustomersAffected": "1676"
                 }
             },
             "districtBlock": {
@@ -184,16 +149,9 @@
                         "centroidY": "34.032925546428"
                     },
                     {
-                        "districtNumber": "35",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "19",
-                        "centroidX": "-118.790699007993",
-                        "centroidY": "34.18828440743510"
-                    },
-                    {
                         "districtNumber": "39",
                         "numberOfIncidents": "4",
-                        "numberoOfCustomersAffected": "801",
+                        "numberoOfCustomersAffected": "768",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
                     },
@@ -203,18 +161,11 @@
                         "numberoOfCustomersAffected": "0",
                         "centroidX": "-117.870605469491",
                         "centroidY": "33.87527538642990"
-                    },
-                    {
-                        "districtNumber": "59",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "11",
-                        "centroidX": "-118.555233017072",
-                        "centroidY": "34.39573824835440"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "866"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "803"
                 }
             },
             "sectorBlock": {
@@ -227,25 +178,11 @@
                         "centroidY": "34.047426553560"
                     },
                     {
-                        "sectorNumber": "MOORPARK",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "19",
-                        "centroidX": "-118.790699007993",
-                        "centroidY": "34.18828440743510"
-                    },
-                    {
                         "sectorNumber": "SANTA CLARA",
                         "numberOfIncidents": "4",
-                        "numberoOfCustomersAffected": "801",
+                        "numberoOfCustomersAffected": "768",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
-                    },
-                    {
-                        "sectorNumber": "SAUGUS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "11",
-                        "centroidX": "-118.555233017072",
-                        "centroidY": "34.39573824835440"
                     },
                     {
                         "sectorNumber": "VILLA PARK",
@@ -263,8 +200,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "866"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "803"
                 }
             }
         },
@@ -274,13 +211,13 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123811196",
+                    "incidentId": "123811202",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
-                    "OANNumber": "1155344",
-                    "outageStartDateTime": "3/22/2021 12:03:49 AM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
-                    "lastChangeDateTime": "3/22/2021 3:26:25 AM",
+                    "OANNumber": "1155347",
+                    "outageStartDateTime": "3/22/2021 3:36:56 AM",
+                    "versionDate": "3/22/2021 4:10:06 AM",
+                    "lastChangeDateTime": "3/22/2021 3:37:14 AM",
                     "estimateCLUDateTime": "3/22/2021 6:00:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -288,15 +225,15 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "34",
+                    "numberOfCustomersAffected": "1",
                     "zipCode": "93060",
                     "countyName": "Ventura                                 ",
-                    "cityName": "Santa Paula",
+                    "cityName": "Unincorporated Area - Ventura County",
                     "districtNumber": "39",
                     "sectorNumber": "SANTA CLARA",
                     "ERTCode": "07",
-                    "centroidX": "-119.088697161160",
-                    "centroidY": "34.34033825236380"
+                    "centroidX": "-119.105230",
+                    "centroidY": "34.32933399998440"
                 },
                 {
                     "incidentId": "123896516",
@@ -304,7 +241,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160592",
                     "outageStartDateTime": "3/21/2021 9:33:24 PM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
+                    "versionDate": "3/22/2021 4:10:06 AM",
                     "lastChangeDateTime": "3/22/2021 3:27:54 AM",
                     "estimateCLUDateTime": "3/22/2021 5:00:00 AM",
                     "memoCauseCode": "16",
@@ -329,7 +266,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154021",
                     "outageStartDateTime": "3/22/2021 2:19:07 AM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
+                    "versionDate": "3/22/2021 4:10:06 AM",
                     "lastChangeDateTime": "3/22/2021 2:40:46 AM",
                     "estimateCLUDateTime": "3/22/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -354,7 +291,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155255",
                     "outageStartDateTime": "3/21/2021 10:00:00 PM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
+                    "versionDate": "3/22/2021 4:10:06 AM",
                     "lastChangeDateTime": "3/21/2021 10:32:59 PM",
                     "estimateCLUDateTime": "3/22/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -379,7 +316,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154393",
                     "outageStartDateTime": "3/21/2021 10:00:00 PM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
+                    "versionDate": "3/22/2021 4:10:06 AM",
                     "lastChangeDateTime": "3/22/2021 2:15:12 AM",
                     "estimateCLUDateTime": "3/22/2021 6:00:00 AM",
                     "memoCauseCode": "07",
@@ -404,7 +341,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154233",
                     "outageStartDateTime": "3/21/2021 10:18:17 PM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
+                    "versionDate": "3/22/2021 4:10:06 AM",
                     "lastChangeDateTime": "3/22/2021 12:36:02 AM",
                     "estimateCLUDateTime": "3/22/2021 6:00:00 AM",
                     "memoCauseCode": "22",
@@ -424,62 +361,12 @@
                     "centroidY": "34.02033200078770"
                 },
                 {
-                    "incidentId": "123782296",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1152932",
-                    "outageStartDateTime": "3/21/2021 10:00:00 PM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
-                    "lastChangeDateTime": "3/22/2021 1:47:11 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "22",
-                    "memoCauseCodeDescription": "Transformer Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "11",
-                    "zipCode": "91387",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "Santa Clarita",
-                    "districtNumber": "59",
-                    "sectorNumber": "SAUGUS",
-                    "ERTCode": "06",
-                    "centroidX": "-118.399135",
-                    "centroidY": "34.44629700000660"
-                },
-                {
-                    "incidentId": "123819374",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1155948",
-                    "outageStartDateTime": "3/21/2021 8:00:00 PM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
-                    "lastChangeDateTime": "3/21/2021 10:35:49 PM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
-                    "memoCauseCode": "07",
-                    "memoCauseCodeDescription": "Upgrading Equipment",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "19",
-                    "zipCode": "93012",
-                    "countyName": "Ventura                                 ",
-                    "cityName": "Unincorporated Area - Ventura County",
-                    "districtNumber": "35",
-                    "sectorNumber": "MOORPARK",
-                    "ERTCode": "06",
-                    "centroidX": "-118.936006751881",
-                    "centroidY": "34.23430866749350"
-                },
-                {
                     "incidentId": "123809011",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155097",
                     "outageStartDateTime": "3/21/2021 11:51:03 PM",
-                    "versionDate": "3/22/2021 3:40:03 AM",
+                    "versionDate": "3/22/2021 4:10:06 AM",
                     "lastChangeDateTime": "3/22/2021 12:44:47 AM",
                     "estimateCLUDateTime": "3/22/2021 6:00:00 AM",
                     "memoCauseCode": "21",
