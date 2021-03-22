@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-22T12:28:52.000Z",
+    "uiExpiraionDate": "2021-03-22T12:58:44.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 22, 2021, 05:13 AM",
+        "publishDate": "March 22, 2021, 05:43 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,15 +14,15 @@
                     },
                     {
                         "countyName": "Ventura                                 ",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "727",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "714",
                         "centroidX": "-119.194616846888",
                         "centroidY": "33.95953385222530"
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "762"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "749"
                 }
             },
             "cityBlock": {
@@ -50,15 +50,15 @@
                     },
                     {
                         "cityName": "Unincorporated Area - Ventura County",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "14",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
                         "centroidX": "-119.097689347676",
                         "centroidY": "34.48180914978320"
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "762"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "749"
                 }
             },
             "zipCodeBlock": {
@@ -86,15 +86,15 @@
                     },
                     {
                         "zipCodeName": "93060",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "14",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
                         "centroidX": "-119.113106713302",
                         "centroidY": "34.37279399657470"
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "14",
-                    "totalCustomersAffected": "1594"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "1568"
                 }
             },
             "districtBlock": {
@@ -115,15 +115,15 @@
                     },
                     {
                         "districtNumber": "39",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "727",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "714",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "762"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "749"
                 }
             },
             "sectorBlock": {
@@ -137,8 +137,8 @@
                     },
                     {
                         "sectorNumber": "SANTA CLARA",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "727",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "714",
                         "centroidX": "-119.156215681038",
                         "centroidY": "34.35706535352120"
                     },
@@ -151,8 +151,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "762"
+                    "totalIncidents": "4",
+                    "totalCustomersAffected": "749"
                 }
             }
         },
@@ -167,9 +167,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155347",
                     "outageStartDateTime": "3/22/2021 3:36:56 AM",
-                    "versionDate": "3/22/2021 5:10:07 AM",
+                    "versionDate": "3/22/2021 5:40:00 AM",
                     "lastChangeDateTime": "3/22/2021 4:19:16 AM",
-                    "estimateCLUDateTime": "3/22/2021 6:00:00 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
                     "crewStatusCode": "04",
@@ -192,7 +192,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154021",
                     "outageStartDateTime": "3/22/2021 2:19:07 AM",
-                    "versionDate": "3/22/2021 5:10:07 AM",
+                    "versionDate": "3/22/2021 5:40:00 AM",
                     "lastChangeDateTime": "3/22/2021 4:13:01 AM",
                     "estimateCLUDateTime": "3/22/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -212,39 +212,14 @@
                     "centroidY": "34.21022286922260"
                 },
                 {
-                    "incidentId": "123810653",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1155255",
-                    "outageStartDateTime": "3/21/2021 10:00:00 PM",
-                    "versionDate": "3/22/2021 5:10:07 AM",
-                    "lastChangeDateTime": "3/22/2021 5:02:32 AM",
-                    "estimateCLUDateTime": "3/22/2021 7:00:00 AM",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "13",
-                    "zipCode": "93060",
-                    "countyName": "Ventura                                 ",
-                    "cityName": "Unincorporated Area - Ventura County",
-                    "districtNumber": "39",
-                    "sectorNumber": "SANTA CLARA",
-                    "ERTCode": "06",
-                    "centroidX": "-119.171313764072",
-                    "centroidY": "34.30695154585340"
-                },
-                {
                     "incidentId": "123800224",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154233",
                     "outageStartDateTime": "3/21/2021 10:18:17 PM",
-                    "versionDate": "3/22/2021 5:10:07 AM",
-                    "lastChangeDateTime": "3/22/2021 5:05:53 AM",
-                    "estimateCLUDateTime": "Most up by 3/22/2021 6:00:00 AM",
+                    "versionDate": "3/22/2021 5:40:00 AM",
+                    "lastChangeDateTime": "3/22/2021 5:29:34 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "22",
                     "memoCauseCodeDescription": "Transformer Upgrade",
                     "crewStatusCode": "04",
@@ -267,7 +242,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155097",
                     "outageStartDateTime": "3/21/2021 11:51:03 PM",
-                    "versionDate": "3/22/2021 5:10:07 AM",
+                    "versionDate": "3/22/2021 5:40:00 AM",
                     "lastChangeDateTime": "3/22/2021 5:01:41 AM",
                     "estimateCLUDateTime": "3/22/2021 9:00:00 AM",
                     "memoCauseCode": "21",
