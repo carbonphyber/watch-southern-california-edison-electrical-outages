@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-23T14:00:43.000Z",
+    "uiExpiraionDate": "2021-03-23T14:32:16.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 23, 2021, 06:45 AM",
+        "publishDate": "March 23, 2021, 07:17 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -22,7 +22,7 @@
                     {
                         "countyName": "Riverside                               ",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "1567",
+                        "numberoOfCustomersAffected": "1540",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -36,7 +36,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "2297"
+                    "totalCustomersAffected": "2270"
                 }
             },
             "cityBlock": {
@@ -44,7 +44,7 @@
                     {
                         "cityName": "Eastvale",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1558",
+                        "numberoOfCustomersAffected": "1531",
                         "centroidX": "-117.580312138988",
                         "centroidY": "33.96169484278510"
                     },
@@ -100,7 +100,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "2297"
+                    "totalCustomersAffected": "2270"
                 }
             },
             "zipCodeBlock": {
@@ -157,7 +157,7 @@
                     {
                         "zipCodeName": "92880",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1558",
+                        "numberoOfCustomersAffected": "1531",
                         "centroidX": "-117.605830223766",
                         "centroidY": "33.92389864738180"
                     },
@@ -171,7 +171,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "30",
-                    "totalCustomersAffected": "20127"
+                    "totalCustomersAffected": "19803"
                 }
             },
             "districtBlock": {
@@ -200,7 +200,7 @@
                     {
                         "districtNumber": "34",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "1601",
+                        "numberoOfCustomersAffected": "1574",
                         "centroidX": "-117.594234472477",
                         "centroidY": "34.032925546428"
                     },
@@ -235,7 +235,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "2297"
+                    "totalCustomersAffected": "2270"
                 }
             },
             "sectorBlock": {
@@ -271,7 +271,7 @@
                     {
                         "sectorNumber": "MIRALOMA",
                         "numberOfIncidents": "4",
-                        "numberoOfCustomersAffected": "2143",
+                        "numberoOfCustomersAffected": "2116",
                         "centroidX": "-117.705783857999",
                         "centroidY": "34.047426553560"
                     },
@@ -292,7 +292,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "2297"
+                    "totalCustomersAffected": "2270"
                 }
             }
         },
@@ -307,7 +307,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160841",
                     "outageStartDateTime": "3/22/2021 12:53:49 PM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
                     "lastChangeDateTime": "3/23/2021 3:45:25 AM",
                     "estimateCLUDateTime": "3/23/2021 10:00:00 AM",
                     "memoCauseCode": "16",
@@ -332,7 +332,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154467",
                     "outageStartDateTime": "3/22/2021 11:06:14 PM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
                     "lastChangeDateTime": "3/23/2021 6:23:56 AM",
                     "estimateCLUDateTime": "3/23/2021 11:00:00 AM",
                     "memoCauseCode": "21",
@@ -354,11 +354,11 @@
                 {
                     "incidentId": "123825526",
                     "incidentType": "PO",
-                    "FACJobStatusCode": "D",
+                    "FACJobStatusCode": "W",
                     "OANNumber": "1156590",
                     "outageStartDateTime": "3/23/2021 2:00:00 AM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
-                    "lastChangeDateTime": "3/23/2021 3:06:29 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
+                    "lastChangeDateTime": "3/23/2021 6:44:27 AM",
                     "estimateCLUDateTime": "3/23/2021 8:00:00 AM",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
@@ -382,7 +382,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154471",
                     "outageStartDateTime": "3/22/2021 10:23:31 PM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
                     "lastChangeDateTime": "3/23/2021 5:15:06 AM",
                     "estimateCLUDateTime": "3/23/2021 11:00:00 AM",
                     "memoCauseCode": "21",
@@ -407,8 +407,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160895",
                     "outageStartDateTime": "3/22/2021 4:06:33 PM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
-                    "lastChangeDateTime": "3/23/2021 6:23:14 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
+                    "lastChangeDateTime": "3/23/2021 6:52:15 AM",
                     "estimateCLUDateTime": "Most up by 3/23/2021 8:00:00 AM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -432,7 +432,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1160967",
                     "outageStartDateTime": "3/22/2021 11:59:18 PM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
                     "lastChangeDateTime": "3/23/2021 6:24:24 AM",
                     "estimateCLUDateTime": "Most up by 3/23/2021 10:00:00 AM",
                     "memoCauseCode": "16",
@@ -457,7 +457,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160985",
                     "outageStartDateTime": "3/23/2021 1:56:53 AM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
                     "lastChangeDateTime": "3/23/2021 6:21:47 AM",
                     "estimateCLUDateTime": "Most up by 3/23/2021 10:00:00 AM",
                     "memoCauseCode": "11",
@@ -482,8 +482,8 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1160984",
                     "outageStartDateTime": "3/23/2021 2:38:41 AM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
-                    "lastChangeDateTime": "3/23/2021 6:03:47 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
+                    "lastChangeDateTime": "3/23/2021 6:46:23 AM",
                     "estimateCLUDateTime": "Most up by 3/23/2021 10:30:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -507,8 +507,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155769",
                     "outageStartDateTime": "3/23/2021 5:41:59 AM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
-                    "lastChangeDateTime": "3/23/2021 6:22:03 AM",
+                    "versionDate": "3/23/2021 7:08:11 AM",
+                    "lastChangeDateTime": "3/23/2021 6:50:49 AM",
                     "estimateCLUDateTime": "3/23/2021 5:00:00 PM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -529,27 +529,27 @@
                 {
                     "incidentId": "123900356",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "A",
+                    "FACJobStatusCode": "F",
                     "OANNumber": "1160991",
                     "outageStartDateTime": "3/23/2021 5:36:29 AM",
-                    "versionDate": "3/23/2021 6:38:19 AM",
-                    "lastChangeDateTime": "3/23/2021 6:15:33 AM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "versionDate": "3/23/2021 7:08:11 AM",
+                    "lastChangeDateTime": "3/23/2021 7:02:04 AM",
+                    "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "02",
                     "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "1558",
+                    "numberOfCustomersAffected": "1531",
                     "zipCode": "92880",
                     "countyName": "Riverside                               ",
                     "cityName": "Eastvale",
                     "districtNumber": "34",
                     "sectorNumber": "MIRALOMA",
-                    "ERTCode": "01",
-                    "centroidX": "-117.565206257588",
-                    "centroidY": "33.97425947454410"
+                    "ERTCode": "2",
+                    "centroidX": "-117.565260176060",
+                    "centroidY": "33.97238093877160"
                 }
             ]
         }
