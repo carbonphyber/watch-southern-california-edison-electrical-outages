@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-24T12:05:49.000Z",
+    "uiExpiraionDate": "2021-03-24T12:51:02.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 24, 2021, 04:50 AM",
+        "publishDate": "March 24, 2021, 05:36 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "7",
-                        "numberoOfCustomersAffected": "107",
+                        "numberOfIncidents": "6",
+                        "numberoOfCustomersAffected": "91",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -28,8 +28,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "583"
+                    "totalIncidents": "11",
+                    "totalCustomersAffected": "567"
                 }
             },
             "cityBlock": {
@@ -78,8 +78,8 @@
                     },
                     {
                         "cityName": "Unincorporated Area - Los Angeles County",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "54",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "38",
                         "centroidX": "-118.214453761165",
                         "centroidY": "34.41817081802910"
                     },
@@ -99,16 +99,16 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "583"
+                    "totalIncidents": "11",
+                    "totalCustomersAffected": "567"
                 }
             },
             "zipCodeBlock": {
                 "zipCode": [
                     {
                         "zipCodeName": "91001",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "54",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "38",
                         "centroidX": "-118.134141767462",
                         "centroidY": "34.19663465543550"
                     },
@@ -170,16 +170,16 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "26",
-                    "totalCustomersAffected": "1176"
+                    "totalIncidents": "24",
+                    "totalCustomersAffected": "1144"
                 }
             },
             "districtBlock": {
                 "district": [
                     {
                         "districtNumber": "27",
-                        "numberOfIncidents": "7",
-                        "numberoOfCustomersAffected": "107",
+                        "numberOfIncidents": "6",
+                        "numberoOfCustomersAffected": "91",
                         "centroidX": "-118.041625980567",
                         "centroidY": "34.22240613373430"
                     },
@@ -213,8 +213,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "583"
+                    "totalIncidents": "11",
+                    "totalCustomersAffected": "567"
                 }
             },
             "sectorBlock": {
@@ -228,8 +228,8 @@
                     },
                     {
                         "sectorNumber": "MESA",
-                        "numberOfIncidents": "7",
-                        "numberoOfCustomersAffected": "107",
+                        "numberOfIncidents": "6",
+                        "numberoOfCustomersAffected": "91",
                         "centroidX": "-118.041625982422",
                         "centroidY": "34.18203233598380"
                     },
@@ -249,8 +249,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "12",
-                    "totalCustomersAffected": "583"
+                    "totalIncidents": "11",
+                    "totalCustomersAffected": "567"
                 }
             }
         },
@@ -265,7 +265,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1161302",
                     "outageStartDateTime": "3/23/2021 5:59:39 PM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
                     "lastChangeDateTime": "3/24/2021 1:13:51 AM",
                     "estimateCLUDateTime": "Most up by 3/24/2021 6:15:19 PM",
                     "memoCauseCode": "15",
@@ -290,8 +290,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1161303",
                     "outageStartDateTime": "3/23/2021 10:05:14 PM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
-                    "lastChangeDateTime": "3/24/2021 3:36:05 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
+                    "lastChangeDateTime": "3/24/2021 4:39:36 AM",
                     "estimateCLUDateTime": "Most up by 3/24/2021 11:00:00 AM",
                     "memoCauseCode": "18",
                     "memoCauseCodeDescription": "Trees in Equipment",
@@ -315,7 +315,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1161307",
                     "outageStartDateTime": "3/23/2021 11:00:44 PM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
                     "lastChangeDateTime": "3/24/2021 4:26:25 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
@@ -340,7 +340,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1161313",
                     "outageStartDateTime": "3/23/2021 11:41:01 PM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
                     "lastChangeDateTime": "3/24/2021 4:03:29 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "02",
@@ -365,7 +365,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -385,37 +385,12 @@
                     "centroidY": "33.86588600000640"
                 },
                 {
-                    "incidentId": "123903432",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1161296",
-                    "outageStartDateTime": "3/23/2021 7:31:50 PM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
-                    "lastChangeDateTime": "3/24/2021 4:32:43 AM",
-                    "estimateCLUDateTime": "Not Available",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "16",
-                    "zipCode": "91001",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "Unincorporated Area - Los Angeles County",
-                    "districtNumber": "27",
-                    "sectorNumber": "MESA",
-                    "ERTCode": "2",
-                    "centroidX": "-118.154473500199",
-                    "centroidY": "34.19786275004260"
-                },
-                {
                     "incidentId": "123903876",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "A",
                     "OANNumber": "1161322",
                     "outageStartDateTime": "3/24/2021 1:29:50 AM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
                     "lastChangeDateTime": "3/24/2021 4:28:15 AM",
                     "estimateCLUDateTime": "3/24/2021 10:00:00 AM",
                     "memoCauseCode": "16",
@@ -440,7 +415,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1161329",
                     "outageStartDateTime": "3/24/2021 3:11:15 AM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
                     "lastChangeDateTime": "3/24/2021 4:30:49 AM",
                     "estimateCLUDateTime": "Most up by 3/24/2021 8:30:00 AM",
                     "memoCauseCode": "02",
@@ -465,8 +440,8 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1161333",
                     "outageStartDateTime": "3/24/2021 3:32:41 AM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
-                    "lastChangeDateTime": "3/24/2021 4:28:15 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
+                    "lastChangeDateTime": "3/24/2021 4:54:28 AM",
                     "estimateCLUDateTime": "3/24/2021 9:00:00 AM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -487,11 +462,11 @@
                 {
                     "incidentId": "123904111",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "A",
+                    "FACJobStatusCode": "D",
                     "OANNumber": "1161334",
                     "outageStartDateTime": "3/24/2021 4:06:41 AM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
-                    "lastChangeDateTime": "3/24/2021 4:22:31 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
+                    "lastChangeDateTime": "3/24/2021 4:47:38 AM",
                     "estimateCLUDateTime": "Most up by 3/24/2021 12:00:00 PM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -510,38 +485,13 @@
                     "centroidY": "33.71684300034410"
                 },
                 {
-                    "incidentId": "123904092",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1161332",
-                    "outageStartDateTime": "3/24/2021 3:20:49 AM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
-                    "lastChangeDateTime": "3/24/2021 4:33:53 AM",
-                    "estimateCLUDateTime": "Not Available",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "01",
-                    "crewStatusCodeDescription": "We are aware of the problem.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "444",
-                    "zipCode": "92359",
-                    "countyName": "San Bernardino                          ",
-                    "cityName": "Unincorporated Area - San Bernardino County",
-                    "districtNumber": "31",
-                    "sectorNumber": "VISTA",
-                    "ERTCode": "02",
-                    "centroidX": "-117.133052665792",
-                    "centroidY": "34.07383245563370"
-                },
-                {
                     "incidentId": "123904049",
                     "incidentType": "QI",
                     "FACJobStatusCode": "A",
                     "OANNumber": "1161335",
                     "outageStartDateTime": "3/24/2021 2:31:53 AM",
-                    "versionDate": "3/24/2021 4:41:54 AM",
-                    "lastChangeDateTime": "3/24/2021 4:19:00 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
+                    "lastChangeDateTime": "3/24/2021 4:55:33 AM",
                     "estimateCLUDateTime": "Most up by 3/24/2021 9:00:00 AM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -558,6 +508,31 @@
                     "ERTCode": "05",
                     "centroidX": "-117.41968150",
                     "centroidY": "34.02378250000340"
+                },
+                {
+                    "incidentId": "123904092",
+                    "incidentType": "QI",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1161332",
+                    "outageStartDateTime": "3/24/2021 3:20:49 AM",
+                    "versionDate": "3/24/2021 5:21:55 AM",
+                    "lastChangeDateTime": "3/24/2021 5:00:55 AM",
+                    "estimateCLUDateTime": "Not Available",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "01",
+                    "crewStatusCodeDescription": "We are aware of the problem.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "444",
+                    "zipCode": "92359",
+                    "countyName": "San Bernardino                          ",
+                    "cityName": "Unincorporated Area - San Bernardino County",
+                    "districtNumber": "31",
+                    "sectorNumber": "VISTA",
+                    "ERTCode": "02",
+                    "centroidX": "-117.133052665792",
+                    "centroidY": "34.07383245563370"
                 }
             ]
         }
