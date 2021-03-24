@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-24T02:09:20.000Z",
+    "uiExpiraionDate": "2021-03-24T02:57:43.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 23, 2021, 06:54 PM",
+        "publishDate": "March 23, 2021, 07:42 PM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "6",
-                        "numberoOfCustomersAffected": "1072",
+                        "numberOfIncidents": "5",
+                        "numberoOfCustomersAffected": "414",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -28,8 +28,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "1133"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "475"
                 }
             },
             "cityBlock": {
@@ -37,7 +37,7 @@
                     {
                         "cityName": "Alhambra",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "742",
+                        "numberoOfCustomersAffected": "174",
                         "centroidX": "-118.135415990706",
                         "centroidY": "34.08398054930950"
                     },
@@ -47,13 +47,6 @@
                         "numberoOfCustomersAffected": "118",
                         "centroidX": "-118.396860336380",
                         "centroidY": "34.00574755643390"
-                    },
-                    {
-                        "cityName": "East Los Angeles",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "90",
-                        "centroidX": "-118.169087482630",
-                        "centroidY": "34.03259423868480"
                     },
                     {
                         "cityName": "La Puente",
@@ -113,19 +106,12 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "1133"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "475"
                 }
             },
             "zipCodeBlock": {
                 "zipCode": [
-                    {
-                        "zipCodeName": "90022",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "90",
-                        "centroidX": "-118.155592537009",
-                        "centroidY": "34.02442270480620"
-                    },
                     {
                         "zipCodeName": "90230",
                         "numberOfIncidents": "1",
@@ -150,7 +136,7 @@
                     {
                         "zipCodeName": "91803",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "742",
+                        "numberoOfCustomersAffected": "174",
                         "centroidX": "-118.146274786421",
                         "centroidY": "34.07471652047330"
                     },
@@ -198,16 +184,16 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "22",
-                    "totalCustomersAffected": "2266"
+                    "totalIncidents": "20",
+                    "totalCustomersAffected": "950"
                 }
             },
             "districtBlock": {
                 "district": [
                     {
                         "districtNumber": "22",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "832",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "174",
                         "centroidX": "-118.095054626544",
                         "centroidY": "34.04492252099090"
                     },
@@ -276,8 +262,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "1133"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "475"
                 }
             },
             "sectorBlock": {
@@ -305,8 +291,8 @@
                     },
                     {
                         "sectorNumber": "MESA",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "855",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "197",
                         "centroidX": "-118.041625982422",
                         "centroidY": "34.18203233598380"
                     },
@@ -340,8 +326,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "11",
-                    "totalCustomersAffected": "1133"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "475"
                 }
             }
         },
@@ -356,8 +342,8 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155288",
                     "outageStartDateTime": "3/23/2021 8:30:00 AM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
-                    "lastChangeDateTime": "3/23/2021 6:13:01 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
+                    "lastChangeDateTime": "3/23/2021 6:41:38 PM",
                     "estimateCLUDateTime": "3/23/2021 8:30:00 PM",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
@@ -372,8 +358,33 @@
                     "districtNumber": "42",
                     "sectorNumber": "EL NIDO",
                     "ERTCode": "07",
-                    "centroidX": "-118.398417778275",
-                    "centroidY": "33.99878150658920"
+                    "centroidX": "-118.398658303867",
+                    "centroidY": "33.99888913242340"
+                },
+                {
+                    "incidentId": "123902695",
+                    "incidentType": "QI",
+                    "FACJobStatusCode": "U",
+                    "OANNumber": "1161239",
+                    "outageStartDateTime": "3/23/2021 2:22:13 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
+                    "lastChangeDateTime": "3/23/2021 4:42:22 PM",
+                    "estimateCLUDateTime": "Not Available",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "0",
+                    "zipCode": "92571",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Unincorporated Area - Riverside County",
+                    "districtNumber": "77",
+                    "sectorNumber": "VALLEY",
+                    "ERTCode": "2",
+                    "centroidX": "-117.17775350",
+                    "centroidY": "33.86588600000640"
                 },
                 {
                     "incidentId": "123900306",
@@ -381,9 +392,9 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1160985",
                     "outageStartDateTime": "3/23/2021 1:56:53 AM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
                     "lastChangeDateTime": "3/23/2021 12:02:38 PM",
-                    "estimateCLUDateTime": "3/23/2021 8:00:00 PM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
                     "crewStatusCode": "04",
@@ -401,39 +412,14 @@
                     "centroidY": "34.05244850000360"
                 },
                 {
-                    "incidentId": "123901340",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1161117",
-                    "outageStartDateTime": "3/23/2021 10:11:32 AM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
-                    "lastChangeDateTime": "3/23/2021 5:12:28 PM",
-                    "estimateCLUDateTime": "3/23/2021 11:00:00 PM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "90",
-                    "zipCode": "90022",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "East Los Angeles",
-                    "districtNumber": "22",
-                    "sectorNumber": "MESA",
-                    "ERTCode": "07",
-                    "centroidX": "-118.17045450",
-                    "centroidY": "34.02558400000350"
-                },
-                {
                     "incidentId": "123901402",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1161122",
                     "outageStartDateTime": "3/23/2021 10:33:07 AM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
                     "lastChangeDateTime": "3/23/2021 1:38:08 PM",
-                    "estimateCLUDateTime": "3/23/2021 8:00:00 PM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
                     "crewStatusCode": "04",
@@ -456,7 +442,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154592",
                     "outageStartDateTime": "3/23/2021 6:00:00 PM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
                     "lastChangeDateTime": "3/23/2021 6:08:03 PM",
                     "estimateCLUDateTime": "3/23/2021 10:00:00 PM",
                     "memoCauseCode": "22",
@@ -481,7 +467,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161284",
                     "outageStartDateTime": "3/23/2021 5:21:49 PM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
                     "lastChangeDateTime": "3/23/2021 5:23:36 PM",
                     "estimateCLUDateTime": "3/23/2021 11:30:00 PM",
                     "memoCauseCode": "16",
@@ -503,27 +489,27 @@
                 {
                     "incidentId": "123903260",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "D",
+                    "FACJobStatusCode": "F",
                     "OANNumber": "1161287",
                     "outageStartDateTime": "3/23/2021 6:01:21 PM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
-                    "lastChangeDateTime": "3/23/2021 6:16:36 PM",
-                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "versionDate": "3/23/2021 7:30:26 PM",
+                    "lastChangeDateTime": "3/23/2021 7:19:25 PM",
+                    "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
                     "crewStatusCode": "02",
                     "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "742",
+                    "numberOfCustomersAffected": "174",
                     "zipCode": "91803",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Alhambra",
                     "districtNumber": "22",
                     "sectorNumber": "MESA",
-                    "ERTCode": "01",
-                    "centroidX": "-118.152163428675",
-                    "centroidY": "34.07128296241010"
+                    "ERTCode": "2",
+                    "centroidX": "-118.156674438366",
+                    "centroidY": "34.07550747811470"
                 },
                 {
                     "incidentId": "123903274",
@@ -531,8 +517,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1161290",
                     "outageStartDateTime": "3/23/2021 6:07:56 PM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
-                    "lastChangeDateTime": "3/23/2021 6:31:33 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
+                    "lastChangeDateTime": "3/23/2021 6:41:48 PM",
                     "estimateCLUDateTime": "Most up by 3/23/2021 10:15:56 PM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -551,38 +537,13 @@
                     "centroidY": "34.06090300001340"
                 },
                 {
-                    "incidentId": "123903109",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "F",
-                    "OANNumber": "1161276",
-                    "outageStartDateTime": "3/23/2021 4:41:40 PM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
-                    "lastChangeDateTime": "3/23/2021 6:07:25 PM",
-                    "estimateCLUDateTime": "Most up by 3/24/2021 1:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "11",
-                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "10",
-                    "zipCode": "92258",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Palm Springs",
-                    "districtNumber": "79",
-                    "sectorNumber": "DEVERS",
-                    "ERTCode": "05",
-                    "centroidX": "-116.546900205795",
-                    "centroidY": "33.90852081563330"
-                },
-                {
                     "incidentId": "123903293",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1161291",
                     "outageStartDateTime": "3/23/2021 6:15:34 PM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
-                    "lastChangeDateTime": "3/23/2021 6:32:55 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
+                    "lastChangeDateTime": "3/23/2021 6:41:18 PM",
                     "estimateCLUDateTime": "3/23/2021 10:00:00 PM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -601,29 +562,29 @@
                     "centroidY": "34.05165225097170"
                 },
                 {
-                    "incidentId": "123902695",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "U",
-                    "OANNumber": "1161239",
-                    "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/23/2021 6:40:28 PM",
-                    "lastChangeDateTime": "3/23/2021 4:42:22 PM",
-                    "estimateCLUDateTime": "Not Available",
+                    "incidentId": "123903109",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "F",
+                    "OANNumber": "1161276",
+                    "outageStartDateTime": "3/23/2021 4:41:40 PM",
+                    "versionDate": "3/23/2021 7:30:26 PM",
+                    "lastChangeDateTime": "3/23/2021 7:06:40 PM",
+                    "estimateCLUDateTime": "Most up by 3/24/2021 1:00:00 AM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
+                    "crewStatusCode": "11",
+                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "0",
-                    "zipCode": "92571",
+                    "numberOfCustomersAffected": "10",
+                    "zipCode": "92258",
                     "countyName": "Riverside                               ",
-                    "cityName": "Unincorporated Area - Riverside County",
-                    "districtNumber": "77",
-                    "sectorNumber": "VALLEY",
-                    "ERTCode": "2",
-                    "centroidX": "-117.17775350",
-                    "centroidY": "33.86588600000640"
+                    "cityName": "Palm Springs",
+                    "districtNumber": "79",
+                    "sectorNumber": "DEVERS",
+                    "ERTCode": "05",
+                    "centroidX": "-116.546900205795",
+                    "centroidY": "33.90852081563330"
                 }
             ]
         }
