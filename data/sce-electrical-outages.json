@@ -1,14 +1,21 @@
 {
-    "uiExpiraionDate": "2021-03-25T14:26:56.000Z",
+    "uiExpiraionDate": "2021-03-25T14:42:53.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 25, 2021, 07:11 AM",
+        "publishDate": "March 25, 2021, 07:27 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
+                        "countyName": "Orange                                  ",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "9",
+                        "centroidX": "-117.779276265953",
+                        "centroidY": "33.21832364981430"
+                    },
+                    {
                         "countyName": "Riverside                               ",
-                        "numberOfIncidents": "4",
-                        "numberoOfCustomersAffected": "1809",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "280",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -22,24 +29,24 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "1817"
+                    "totalCustomersAffected": "297"
                 }
             },
             "cityBlock": {
                 "city": [
-                    {
-                        "cityName": "Blythe",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1529",
-                        "centroidX": "-114.586964985934",
-                        "centroidY": "33.62858661429670"
-                    },
                     {
                         "cityName": "Grand Terrace",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "8",
                         "centroidX": "-117.313216041010",
                         "centroidY": "34.03110598023510"
+                    },
+                    {
+                        "cityName": "Irvine",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "9",
+                        "centroidX": "-117.7763039857",
+                        "centroidY": "33.67661160857420"
                     },
                     {
                         "cityName": "Unincorporated Area - Riverside County",
@@ -51,18 +58,11 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "1817"
+                    "totalCustomersAffected": "297"
                 }
             },
             "zipCodeBlock": {
                 "zipCode": [
-                    {
-                        "zipCodeName": "92225",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1529",
-                        "centroidX": "-114.576587904130",
-                        "centroidY": "33.61117784734290"
-                    },
                     {
                         "zipCodeName": "92313",
                         "numberOfIncidents": "1",
@@ -83,11 +83,18 @@
                         "numberoOfCustomersAffected": "0",
                         "centroidX": "-117.190287626696",
                         "centroidY": "33.837386052888"
+                    },
+                    {
+                        "zipCodeName": "92604",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "9",
+                        "centroidX": "-117.788483844848",
+                        "centroidY": "33.68790550155830"
                     }
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "3634"
+                    "totalCustomersAffected": "594"
                 }
             },
             "districtBlock": {
@@ -100,18 +107,18 @@
                         "centroidY": "34.05116348904590"
                     },
                     {
+                        "districtNumber": "43",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "9",
+                        "centroidX": "-117.640705110891",
+                        "centroidY": "33.670476393056"
+                    },
+                    {
                         "districtNumber": "77",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "0",
                         "centroidX": "-117.053622824074",
                         "centroidY": "33.81269200327950"
-                    },
-                    {
-                        "districtNumber": "87",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1529",
-                        "centroidX": "-114.955098687921",
-                        "centroidY": "33.96527939834320"
                     },
                     {
                         "districtNumber": "88",
@@ -123,17 +130,17 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "1817"
+                    "totalCustomersAffected": "297"
                 }
             },
             "sectorBlock": {
                 "sector": [
                     {
-                        "sectorNumber": "BLYTHE",
+                        "sectorNumber": "ELLIS",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1529",
-                        "centroidX": "-114.955098687921",
-                        "centroidY": "33.96527939834320"
+                        "numberoOfCustomersAffected": "9",
+                        "centroidX": "-117.756778722938",
+                        "centroidY": "33.67074505842850"
                     },
                     {
                         "sectorNumber": "VALLEY",
@@ -152,7 +159,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "1817"
+                    "totalCustomersAffected": "297"
                 }
             }
         },
@@ -167,7 +174,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1161728",
                     "outageStartDateTime": "3/25/2021 12:19:30 AM",
-                    "versionDate": "3/25/2021 7:05:00 AM",
+                    "versionDate": "3/25/2021 7:24:54 AM",
                     "lastChangeDateTime": "3/25/2021 5:15:39 AM",
                     "estimateCLUDateTime": "Most up by 3/25/2021 12:00:00 PM",
                     "memoCauseCode": "16",
@@ -192,7 +199,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1157155",
                     "outageStartDateTime": "3/24/2021 10:02:55 PM",
-                    "versionDate": "3/25/2021 7:05:00 AM",
+                    "versionDate": "3/25/2021 7:24:54 AM",
                     "lastChangeDateTime": "3/25/2021 6:32:05 AM",
                     "estimateCLUDateTime": "3/25/2021 11:00:00 AM",
                     "memoCauseCode": "21",
@@ -217,7 +224,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1157159",
                     "outageStartDateTime": "3/24/2021 10:02:42 PM",
-                    "versionDate": "3/25/2021 7:05:00 AM",
+                    "versionDate": "3/25/2021 7:24:54 AM",
                     "lastChangeDateTime": "3/25/2021 6:32:24 AM",
                     "estimateCLUDateTime": "3/25/2021 11:00:00 AM",
                     "memoCauseCode": "07",
@@ -242,7 +249,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/25/2021 7:05:00 AM",
+                    "versionDate": "3/25/2021 7:24:54 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -262,29 +269,29 @@
                     "centroidY": "33.86588600000640"
                 },
                 {
-                    "incidentId": "123908152",
+                    "incidentId": "123907975",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "U",
-                    "OANNumber": "1161759",
-                    "outageStartDateTime": "3/25/2021 6:56:37 AM",
-                    "versionDate": "3/25/2021 7:05:00 AM",
-                    "lastChangeDateTime": "3/25/2021 6:57:11 AM",
-                    "estimateCLUDateTime": "Most up by 3/25/2021 7:56:37 AM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
+                    "FACJobStatusCode": "A",
+                    "OANNumber": "1161730",
+                    "outageStartDateTime": "3/25/2021 12:39:24 AM",
+                    "versionDate": "3/25/2021 7:24:54 AM",
+                    "lastChangeDateTime": "3/25/2021 7:09:16 AM",
+                    "estimateCLUDateTime": "Most up by 3/25/2021 12:00:00 PM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "11",
+                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "1529",
-                    "zipCode": "92225",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Blythe",
-                    "districtNumber": "87",
-                    "sectorNumber": "BLYTHE",
-                    "ERTCode": "01",
-                    "centroidX": "-114.602387073984",
-                    "centroidY": "33.616962104081"
+                    "numberOfCustomersAffected": "9",
+                    "zipCode": "92604",
+                    "countyName": "Orange                                  ",
+                    "cityName": "Irvine",
+                    "districtNumber": "43",
+                    "sectorNumber": "ELLIS",
+                    "ERTCode": "05",
+                    "centroidX": "-117.77077150",
+                    "centroidY": "33.68808099999090"
                 }
             ]
         }
