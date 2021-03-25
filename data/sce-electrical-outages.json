@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-25T14:09:46.000Z",
+    "uiExpiraionDate": "2021-03-25T14:26:56.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 25, 2021, 06:54 AM",
+        "publishDate": "March 25, 2021, 07:11 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Riverside                               ",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "280",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "1809",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -21,12 +21,19 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "288"
+                    "totalIncidents": "5",
+                    "totalCustomersAffected": "1817"
                 }
             },
             "cityBlock": {
                 "city": [
+                    {
+                        "cityName": "Blythe",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1529",
+                        "centroidX": "-114.586964985934",
+                        "centroidY": "33.62858661429670"
+                    },
                     {
                         "cityName": "Grand Terrace",
                         "numberOfIncidents": "1",
@@ -43,12 +50,19 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "288"
+                    "totalIncidents": "5",
+                    "totalCustomersAffected": "1817"
                 }
             },
             "zipCodeBlock": {
                 "zipCode": [
+                    {
+                        "zipCodeName": "92225",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1529",
+                        "centroidX": "-114.576587904130",
+                        "centroidY": "33.61117784734290"
+                    },
                     {
                         "zipCodeName": "92313",
                         "numberOfIncidents": "1",
@@ -72,8 +86,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "8",
-                    "totalCustomersAffected": "576"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "3634"
                 }
             },
             "districtBlock": {
@@ -93,6 +107,13 @@
                         "centroidY": "33.81269200327950"
                     },
                     {
+                        "districtNumber": "87",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1529",
+                        "centroidX": "-114.955098687921",
+                        "centroidY": "33.96527939834320"
+                    },
+                    {
                         "districtNumber": "88",
                         "numberOfIncidents": "2",
                         "numberoOfCustomersAffected": "280",
@@ -101,12 +122,19 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "288"
+                    "totalIncidents": "5",
+                    "totalCustomersAffected": "1817"
                 }
             },
             "sectorBlock": {
                 "sector": [
+                    {
+                        "sectorNumber": "BLYTHE",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1529",
+                        "centroidX": "-114.955098687921",
+                        "centroidY": "33.96527939834320"
+                    },
                     {
                         "sectorNumber": "VALLEY",
                         "numberOfIncidents": "3",
@@ -123,8 +151,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "288"
+                    "totalIncidents": "5",
+                    "totalCustomersAffected": "1817"
                 }
             }
         },
@@ -139,7 +167,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1161728",
                     "outageStartDateTime": "3/25/2021 12:19:30 AM",
-                    "versionDate": "3/25/2021 6:43:51 AM",
+                    "versionDate": "3/25/2021 7:05:00 AM",
                     "lastChangeDateTime": "3/25/2021 5:15:39 AM",
                     "estimateCLUDateTime": "Most up by 3/25/2021 12:00:00 PM",
                     "memoCauseCode": "16",
@@ -164,7 +192,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1157155",
                     "outageStartDateTime": "3/24/2021 10:02:55 PM",
-                    "versionDate": "3/25/2021 6:43:51 AM",
+                    "versionDate": "3/25/2021 7:05:00 AM",
                     "lastChangeDateTime": "3/25/2021 6:32:05 AM",
                     "estimateCLUDateTime": "3/25/2021 11:00:00 AM",
                     "memoCauseCode": "21",
@@ -189,7 +217,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1157159",
                     "outageStartDateTime": "3/24/2021 10:02:42 PM",
-                    "versionDate": "3/25/2021 6:43:51 AM",
+                    "versionDate": "3/25/2021 7:05:00 AM",
                     "lastChangeDateTime": "3/25/2021 6:32:24 AM",
                     "estimateCLUDateTime": "3/25/2021 11:00:00 AM",
                     "memoCauseCode": "07",
@@ -214,7 +242,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/25/2021 6:43:51 AM",
+                    "versionDate": "3/25/2021 7:05:00 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -232,6 +260,31 @@
                     "ERTCode": "2",
                     "centroidX": "-117.17775350",
                     "centroidY": "33.86588600000640"
+                },
+                {
+                    "incidentId": "123908152",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "U",
+                    "OANNumber": "1161759",
+                    "outageStartDateTime": "3/25/2021 6:56:37 AM",
+                    "versionDate": "3/25/2021 7:05:00 AM",
+                    "lastChangeDateTime": "3/25/2021 6:57:11 AM",
+                    "estimateCLUDateTime": "Most up by 3/25/2021 7:56:37 AM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "1529",
+                    "zipCode": "92225",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Blythe",
+                    "districtNumber": "87",
+                    "sectorNumber": "BLYTHE",
+                    "ERTCode": "01",
+                    "centroidX": "-114.602387073984",
+                    "centroidY": "33.616962104081"
                 }
             ]
         }
