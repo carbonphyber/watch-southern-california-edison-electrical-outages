@@ -1,21 +1,21 @@
 {
-    "uiExpiraionDate": "2021-03-26T13:15:36.000Z",
+    "uiExpiraionDate": "2021-03-26T13:38:21.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 26, 2021, 06:00 AM",
+        "publishDate": "March 26, 2021, 06:23 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "5",
-                        "numberoOfCustomersAffected": "763",
+                        "numberoOfCustomersAffected": "757",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
                     {
                         "countyName": "Riverside                               ",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "62",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "1496",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -28,8 +28,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "863"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "2291"
                 }
             },
             "cityBlock": {
@@ -58,7 +58,7 @@
                     {
                         "cityName": "Santa Fe Springs",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "685",
+                        "numberoOfCustomersAffected": "679",
                         "centroidX": "-118.062495781185",
                         "centroidY": "33.93301950211320"
                     },
@@ -68,6 +68,13 @@
                         "numberoOfCustomersAffected": "38",
                         "centroidX": "-118.749252040806",
                         "centroidY": "34.26624581116830"
+                    },
+                    {
+                        "cityName": "Temecula",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1434",
+                        "centroidX": "-117.131445278192",
+                        "centroidY": "33.49276308602180"
                     },
                     {
                         "cityName": "Unincorporated Area - Los Angeles County",
@@ -85,8 +92,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "863"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "2291"
                 }
             },
             "zipCodeBlock": {
@@ -94,7 +101,7 @@
                     {
                         "zipCodeName": "90670",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "685",
+                        "numberoOfCustomersAffected": "679",
                         "centroidX": "-118.062540391409",
                         "centroidY": "33.93252337876050"
                     },
@@ -148,6 +155,13 @@
                         "centroidY": "33.837386052888"
                     },
                     {
+                        "zipCodeName": "92592",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1434",
+                        "centroidX": "-117.026395834526",
+                        "centroidY": "33.50651731775820"
+                    },
+                    {
                         "zipCodeName": "93063",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "38",
@@ -156,8 +170,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "42",
-                    "totalCustomersAffected": "2540"
+                    "totalIncidents": "44",
+                    "totalCustomersAffected": "5396"
                 }
             },
             "districtBlock": {
@@ -186,7 +200,7 @@
                     {
                         "districtNumber": "47",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "685",
+                        "numberoOfCustomersAffected": "679",
                         "centroidX": "-118.073307037418",
                         "centroidY": "33.93760217405580"
                     },
@@ -196,11 +210,18 @@
                         "numberoOfCustomersAffected": "62",
                         "centroidX": "-117.053622824074",
                         "centroidY": "33.81269200327950"
+                    },
+                    {
+                        "districtNumber": "88",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1434",
+                        "centroidX": "-117.204684530048",
+                        "centroidY": "33.627765649174"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "863"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "2291"
                 }
             },
             "sectorBlock": {
@@ -208,7 +229,7 @@
                     {
                         "sectorNumber": "LIGHTHIPE",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "722",
+                        "numberoOfCustomersAffected": "716",
                         "centroidX": "-118.138362885446",
                         "centroidY": "33.87951550511030"
                     },
@@ -228,15 +249,15 @@
                     },
                     {
                         "sectorNumber": "VALLEY",
-                        "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "62",
+                        "numberOfIncidents": "4",
+                        "numberoOfCustomersAffected": "1496",
                         "centroidX": "-117.091579068654",
                         "centroidY": "33.72064143866310"
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "863"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "2291"
                 }
             }
         },
@@ -251,7 +272,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1149192",
                     "outageStartDateTime": "3/25/2021 10:00:27 PM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
                     "lastChangeDateTime": "3/26/2021 3:33:29 AM",
                     "estimateCLUDateTime": "3/26/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -276,7 +297,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -301,7 +322,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155350",
                     "outageStartDateTime": "3/25/2021 10:00:16 PM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
                     "lastChangeDateTime": "3/26/2021 4:16:25 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "07",
@@ -326,7 +347,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154828",
                     "outageStartDateTime": "3/25/2021 9:15:12 AM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
                     "lastChangeDateTime": "3/25/2021 7:50:51 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
@@ -351,7 +372,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156044",
                     "outageStartDateTime": "3/25/2021 8:14:50 PM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
                     "lastChangeDateTime": "3/26/2021 4:56:37 AM",
                     "estimateCLUDateTime": "3/26/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -376,7 +397,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156739",
                     "outageStartDateTime": "3/25/2021 11:00:00 PM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
                     "lastChangeDateTime": "3/26/2021 1:39:28 AM",
                     "estimateCLUDateTime": "3/26/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -401,8 +422,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1161847",
                     "outageStartDateTime": "3/25/2021 9:05:15 AM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
-                    "lastChangeDateTime": "3/26/2021 4:36:34 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
+                    "lastChangeDateTime": "3/26/2021 6:14:36 AM",
                     "estimateCLUDateTime": "3/26/2021 8:00:00 AM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -410,7 +431,7 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "685",
+                    "numberOfCustomersAffected": "679",
                     "zipCode": "90670",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Santa Fe Springs",
@@ -426,7 +447,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1162138",
                     "outageStartDateTime": "3/25/2021 7:15:12 PM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
                     "lastChangeDateTime": "3/26/2021 1:37:37 AM",
                     "estimateCLUDateTime": "Most up by 3/26/2021 7:00:00 AM",
                     "memoCauseCode": "16",
@@ -451,9 +472,9 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162182",
                     "outageStartDateTime": "3/26/2021 1:43:00 AM",
-                    "versionDate": "3/26/2021 5:50:48 AM",
-                    "lastChangeDateTime": "3/26/2021 5:23:54 AM",
-                    "estimateCLUDateTime": "Not Available",
+                    "versionDate": "3/26/2021 6:20:05 AM",
+                    "lastChangeDateTime": "3/26/2021 6:01:14 AM",
+                    "estimateCLUDateTime": "Most up by 3/26/2021 12:00:00 PM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
                     "crewStatusCode": "11",
@@ -466,9 +487,34 @@
                     "cityName": "Simi Valley",
                     "districtNumber": "35",
                     "sectorNumber": "MOORPARK",
-                    "ERTCode": "2",
+                    "ERTCode": "05",
                     "centroidX": "-118.688245540294",
                     "centroidY": "34.28308076715690"
+                },
+                {
+                    "incidentId": "123911901",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "U",
+                    "OANNumber": "1162191",
+                    "outageStartDateTime": "3/26/2021 6:13:19 AM",
+                    "versionDate": "3/26/2021 6:20:05 AM",
+                    "lastChangeDateTime": "3/26/2021 6:14:14 AM",
+                    "estimateCLUDateTime": "Most up by 3/26/2021 7:13:19 AM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "1434",
+                    "zipCode": "92592",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Temecula",
+                    "districtNumber": "88",
+                    "sectorNumber": "VALLEY",
+                    "ERTCode": "01",
+                    "centroidX": "-117.097968413885",
+                    "centroidY": "33.46606017554930"
                 }
             ]
         }
