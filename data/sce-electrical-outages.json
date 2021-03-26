@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-26T12:45:41.000Z",
+    "uiExpiraionDate": "2021-03-26T13:15:36.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 26, 2021, 05:30 AM",
+        "publishDate": "March 26, 2021, 06:00 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,7 +14,7 @@
                     },
                     {
                         "countyName": "Riverside                               ",
-                        "numberOfIncidents": "4",
+                        "numberOfIncidents": "3",
                         "numberoOfCustomersAffected": "62",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
@@ -28,7 +28,7 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "10",
+                    "totalIncidents": "9",
                     "totalCustomersAffected": "863"
                 }
             },
@@ -54,13 +54,6 @@
                         "numberoOfCustomersAffected": "44",
                         "centroidX": "-117.204595983197",
                         "centroidY": "33.92441640009570"
-                    },
-                    {
-                        "cityName": "Rancho Mirage",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "-116.427283634161",
-                        "centroidY": "33.76191258509820"
                     },
                     {
                         "cityName": "Santa Fe Springs",
@@ -92,7 +85,7 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "10",
+                    "totalIncidents": "9",
                     "totalCustomersAffected": "863"
                 }
             },
@@ -134,13 +127,6 @@
                         "centroidY": "33.99891531143970"
                     },
                     {
-                        "zipCodeName": "92270",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "-116.426857335925",
-                        "centroidY": "33.76657465768980"
-                    },
-                    {
                         "zipCodeName": "92553",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "44",
@@ -170,7 +156,7 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "44",
+                    "totalIncidents": "42",
                     "totalCustomersAffected": "2540"
                 }
             },
@@ -210,29 +196,15 @@
                         "numberoOfCustomersAffected": "62",
                         "centroidX": "-117.053622824074",
                         "centroidY": "33.81269200327950"
-                    },
-                    {
-                        "districtNumber": "79",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "-116.592399612918",
-                        "centroidY": "33.73075475445940"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "10",
+                    "totalIncidents": "9",
                     "totalCustomersAffected": "863"
                 }
             },
             "sectorBlock": {
                 "sector": [
-                    {
-                        "sectorNumber": "DEVERS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
-                        "centroidX": "-116.592399612918",
-                        "centroidY": "33.73075475445940"
-                    },
                     {
                         "sectorNumber": "LIGHTHIPE",
                         "numberOfIncidents": "2",
@@ -263,7 +235,7 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "10",
+                    "totalIncidents": "9",
                     "totalCustomersAffected": "863"
                 }
             }
@@ -274,37 +246,12 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123834378",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1157085",
-                    "outageStartDateTime": "3/26/2021 4:13:55 AM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
-                    "lastChangeDateTime": "3/26/2021 4:46:08 AM",
-                    "estimateCLUDateTime": "3/26/2021 6:00:00 AM",
-                    "memoCauseCode": "07",
-                    "memoCauseCodeDescription": "Upgrading Equipment",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "0",
-                    "zipCode": "92270",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Rancho Mirage",
-                    "districtNumber": "79",
-                    "sectorNumber": "DEVERS",
-                    "ERTCode": "06",
-                    "centroidX": "-116.420298",
-                    "centroidY": "33.76426950001130"
-                },
-                {
                     "incidentId": "123744916",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1149192",
                     "outageStartDateTime": "3/25/2021 10:00:27 PM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
                     "lastChangeDateTime": "3/26/2021 3:33:29 AM",
                     "estimateCLUDateTime": "3/26/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -329,7 +276,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -354,9 +301,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155350",
                     "outageStartDateTime": "3/25/2021 10:00:16 PM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
                     "lastChangeDateTime": "3/26/2021 4:16:25 AM",
-                    "estimateCLUDateTime": "3/26/2021 6:00:00 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
                     "crewStatusCode": "04",
@@ -379,7 +326,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154828",
                     "outageStartDateTime": "3/25/2021 9:15:12 AM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
                     "lastChangeDateTime": "3/25/2021 7:50:51 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
@@ -404,7 +351,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156044",
                     "outageStartDateTime": "3/25/2021 8:14:50 PM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
                     "lastChangeDateTime": "3/26/2021 4:56:37 AM",
                     "estimateCLUDateTime": "3/26/2021 8:00:00 AM",
                     "memoCauseCode": "21",
@@ -424,12 +371,37 @@
                     "centroidY": "33.84605140697570"
                 },
                 {
+                    "incidentId": "123828808",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1156739",
+                    "outageStartDateTime": "3/25/2021 11:00:00 PM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "lastChangeDateTime": "3/26/2021 1:39:28 AM",
+                    "estimateCLUDateTime": "3/26/2021 7:00:00 AM",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "44",
+                    "zipCode": "92553",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Moreno Valley",
+                    "districtNumber": "77",
+                    "sectorNumber": "VALLEY",
+                    "ERTCode": "06",
+                    "centroidX": "-117.271020397921",
+                    "centroidY": "33.91771770336060"
+                },
+                {
                     "incidentId": "123908720",
                     "incidentType": "QI",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1161847",
                     "outageStartDateTime": "3/25/2021 9:05:15 AM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
                     "lastChangeDateTime": "3/26/2021 4:36:34 AM",
                     "estimateCLUDateTime": "3/26/2021 8:00:00 AM",
                     "memoCauseCode": "16",
@@ -454,7 +426,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1162138",
                     "outageStartDateTime": "3/25/2021 7:15:12 PM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
                     "lastChangeDateTime": "3/26/2021 1:37:37 AM",
                     "estimateCLUDateTime": "Most up by 3/26/2021 7:00:00 AM",
                     "memoCauseCode": "16",
@@ -479,8 +451,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162182",
                     "outageStartDateTime": "3/26/2021 1:43:00 AM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
-                    "lastChangeDateTime": "3/26/2021 5:07:40 AM",
+                    "versionDate": "3/26/2021 5:50:48 AM",
+                    "lastChangeDateTime": "3/26/2021 5:23:54 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -497,31 +469,6 @@
                     "ERTCode": "2",
                     "centroidX": "-118.688245540294",
                     "centroidY": "34.28308076715690"
-                },
-                {
-                    "incidentId": "123828808",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1156739",
-                    "outageStartDateTime": "3/25/2021 11:00:00 PM",
-                    "versionDate": "3/26/2021 5:20:54 AM",
-                    "lastChangeDateTime": "3/26/2021 1:39:28 AM",
-                    "estimateCLUDateTime": "3/26/2021 7:00:00 AM",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "44",
-                    "zipCode": "92553",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Moreno Valley",
-                    "districtNumber": "77",
-                    "sectorNumber": "VALLEY",
-                    "ERTCode": "06",
-                    "centroidX": "-117.271020397921",
-                    "centroidY": "33.91771770336060"
                 }
             ]
         }
