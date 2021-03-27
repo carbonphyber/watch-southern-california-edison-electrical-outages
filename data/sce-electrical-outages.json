@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-27T15:05:14.000Z",
+    "uiExpiraionDate": "2021-03-27T15:11:00.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 27, 2021, 07:50 AM",
+        "publishDate": "March 27, 2021, 07:56 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -15,14 +15,14 @@
                     {
                         "countyName": "San Bernardino                          ",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "269",
+                        "numberoOfCustomersAffected": "249",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
                     }
                 ],
                 "countyTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "313"
+                    "totalCustomersAffected": "293"
                 }
             },
             "cityBlock": {
@@ -30,7 +30,7 @@
                     {
                         "cityName": "Fontana",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "253",
+                        "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.459874576932",
                         "centroidY": "34.09880692452910"
                     },
@@ -58,7 +58,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "313"
+                    "totalCustomersAffected": "293"
                 }
             },
             "zipCodeBlock": {
@@ -66,7 +66,7 @@
                     {
                         "zipCodeName": "92335",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "253",
+                        "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.465581396572",
                         "centroidY": "34.08704053083050"
                     },
@@ -94,7 +94,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "626"
+                    "totalCustomersAffected": "586"
                 }
             },
             "districtBlock": {
@@ -102,7 +102,7 @@
                     {
                         "districtNumber": "30",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "253",
+                        "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.473674775964",
                         "centroidY": "34.17261336761070"
                     },
@@ -123,7 +123,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "313"
+                    "totalCustomersAffected": "293"
                 }
             },
             "sectorBlock": {
@@ -138,14 +138,14 @@
                     {
                         "sectorNumber": "VISTA",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "269",
+                        "numberoOfCustomersAffected": "249",
                         "centroidX": "-117.166920310144",
                         "centroidY": "34.11683585814790"
                     }
                 ],
                 "sectorTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "313"
+                    "totalCustomersAffected": "293"
                 }
             }
         },
@@ -160,8 +160,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156158",
                     "outageStartDateTime": "3/26/2021 8:14:09 PM",
-                    "versionDate": "3/27/2021 7:42:10 AM",
-                    "lastChangeDateTime": "3/27/2021 4:58:17 AM",
+                    "versionDate": "3/27/2021 7:48:22 AM",
+                    "lastChangeDateTime": "3/27/2021 6:34:25 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -169,7 +169,7 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "253",
+                    "numberOfCustomersAffected": "233",
                     "zipCode": "92335",
                     "countyName": "San Bernardino                          ",
                     "cityName": "Fontana",
@@ -185,7 +185,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/27/2021 7:42:10 AM",
+                    "versionDate": "3/27/2021 7:48:22 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -210,7 +210,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154828",
                     "outageStartDateTime": "3/25/2021 9:15:12 AM",
-                    "versionDate": "3/27/2021 7:42:10 AM",
+                    "versionDate": "3/27/2021 7:48:22 AM",
                     "lastChangeDateTime": "3/25/2021 7:50:51 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
@@ -235,7 +235,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1162480",
                     "outageStartDateTime": "3/27/2021 3:15:36 AM",
-                    "versionDate": "3/27/2021 7:42:10 AM",
+                    "versionDate": "3/27/2021 7:48:22 AM",
                     "lastChangeDateTime": "3/27/2021 6:12:18 AM",
                     "estimateCLUDateTime": "3/27/2021 3:30:00 PM",
                     "memoCauseCode": "16",
@@ -260,13 +260,13 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1162484",
                     "outageStartDateTime": "3/27/2021 4:59:38 AM",
-                    "versionDate": "3/27/2021 7:42:10 AM",
-                    "lastChangeDateTime": "3/27/2021 5:38:19 AM",
-                    "estimateCLUDateTime": "Most up by 3/27/2021 9:15:46 AM",
+                    "versionDate": "3/27/2021 7:48:22 AM",
+                    "lastChangeDateTime": "3/27/2021 6:38:35 AM",
+                    "estimateCLUDateTime": "Most up by 3/27/2021 1:00:00 PM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "01",
-                    "crewStatusCodeDescription": "We are aware of the problem.",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
                     "numberOfCustomersAffected": "16",
