@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-27T03:06:20.000Z",
+    "uiExpiraionDate": "2021-03-27T03:41:02.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 26, 2021, 07:51 PM",
+        "publishDate": "March 26, 2021, 08:26 PM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -18,13 +18,6 @@
                         "numberoOfCustomersAffected": "21",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
-                    },
-                    {
-                        "countyName": "Orange                                  ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-117.779276265953",
-                        "centroidY": "33.21832364981430"
                     },
                     {
                         "countyName": "Riverside                               ",
@@ -56,8 +49,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "141"
+                    "totalIncidents": "9",
+                    "totalCustomersAffected": "138"
                 }
             },
             "cityBlock": {
@@ -68,13 +61,6 @@
                         "numberoOfCustomersAffected": "34",
                         "centroidX": "-119.264132202102",
                         "centroidY": "35.767046513185"
-                    },
-                    {
-                        "cityName": "Mission Viejo",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-117.655132554644",
-                        "centroidY": "33.61056601663530"
                     },
                     {
                         "cityName": "Montecito",
@@ -113,8 +99,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "141"
+                    "totalIncidents": "9",
+                    "totalCustomersAffected": "138"
                 }
             },
             "zipCodeBlock": {
@@ -148,13 +134,6 @@
                         "centroidY": "33.837386052888"
                     },
                     {
-                        "zipCodeName": "92691",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-117.665801625807",
-                        "centroidY": "33.61153712256740"
-                    },
-                    {
                         "zipCodeName": "93108",
                         "numberOfIncidents": "3",
                         "numberoOfCustomersAffected": "20",
@@ -177,8 +156,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "26",
-                    "totalCustomersAffected": "486"
+                    "totalIncidents": "24",
+                    "totalCustomersAffected": "480"
                 }
             },
             "districtBlock": {
@@ -189,13 +168,6 @@
                         "numberoOfCustomersAffected": "4",
                         "centroidX": "-117.594234472477",
                         "centroidY": "34.032925546428"
-                    },
-                    {
-                        "districtNumber": "43",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-117.640705110891",
-                        "centroidY": "33.670476393056"
                     },
                     {
                         "districtNumber": "47",
@@ -227,19 +199,12 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "141"
+                    "totalIncidents": "9",
+                    "totalCustomersAffected": "138"
                 }
             },
             "sectorBlock": {
                 "sector": [
-                    {
-                        "sectorNumber": "ELLIS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
-                        "centroidX": "-117.756778722938",
-                        "centroidY": "33.67074505842850"
-                    },
                     {
                         "sectorNumber": "GOLETA",
                         "numberOfIncidents": "3",
@@ -277,8 +242,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "141"
+                    "totalIncidents": "9",
+                    "totalCustomersAffected": "138"
                 }
             }
         },
@@ -288,64 +253,14 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123914427",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "F",
-                    "OANNumber": "1162428",
-                    "outageStartDateTime": "3/26/2021 3:16:40 PM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
-                    "lastChangeDateTime": "3/26/2021 7:19:37 PM",
-                    "estimateCLUDateTime": "Most up by 3/27/2021 1:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "11",
-                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "34",
-                    "zipCode": "93215",
-                    "countyName": "Kern                                    ",
-                    "cityName": "Delano",
-                    "districtNumber": "51",
-                    "sectorNumber": "SAN JOAQUIN",
-                    "ERTCode": "05",
-                    "centroidX": "-119.243937",
-                    "centroidY": "35.79000700000680"
-                },
-                {
-                    "incidentId": "123914323",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1162438",
-                    "outageStartDateTime": "3/26/2021 4:24:49 PM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
-                    "lastChangeDateTime": "3/26/2021 6:12:03 PM",
-                    "estimateCLUDateTime": "Most up by 3/26/2021 8:30:49 PM",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "21",
-                    "zipCode": "90650",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "Norwalk",
-                    "districtNumber": "47",
-                    "sectorNumber": "LIGHTHIPE",
-                    "ERTCode": "05",
-                    "centroidX": "-118.09040950",
-                    "centroidY": "33.92668800000350"
-                },
-                {
                     "incidentId": "123913019",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162267",
                     "outageStartDateTime": "3/26/2021 9:25:21 AM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
-                    "lastChangeDateTime": "3/26/2021 7:04:58 PM",
-                    "estimateCLUDateTime": "Most up by 3/27/2021 12:00:00 AM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
+                    "lastChangeDateTime": "3/26/2021 7:31:18 PM",
+                    "estimateCLUDateTime": "Most up by 3/27/2021 2:00:00 AM",
                     "memoCauseCode": "13",
                     "memoCauseCodeDescription": "Dig Into Underground Service",
                     "crewStatusCode": "11",
@@ -368,7 +283,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1162444",
                     "outageStartDateTime": "3/26/2021 6:25:49 PM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
                     "lastChangeDateTime": "3/26/2021 7:06:18 PM",
                     "estimateCLUDateTime": "3/26/2021 9:30:00 PM",
                     "memoCauseCode": "16",
@@ -388,37 +303,12 @@
                     "centroidY": "34.43883150034280"
                 },
                 {
-                    "incidentId": "123914595",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1162459",
-                    "outageStartDateTime": "3/26/2021 7:06:21 PM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
-                    "lastChangeDateTime": "3/26/2021 7:22:24 PM",
-                    "estimateCLUDateTime": "3/27/2021 2:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "3",
-                    "zipCode": "92691",
-                    "countyName": "Orange                                  ",
-                    "cityName": "Mission Viejo",
-                    "districtNumber": "43",
-                    "sectorNumber": "ELLIS",
-                    "ERTCode": "06",
-                    "centroidX": "-117.676061",
-                    "centroidY": "33.62291899999660"
-                },
-                {
                     "incidentId": "123902695",
                     "incidentType": "QI",
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -443,7 +333,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154828",
                     "outageStartDateTime": "3/25/2021 9:15:12 AM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
                     "lastChangeDateTime": "3/25/2021 7:50:51 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
@@ -468,7 +358,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162384",
                     "outageStartDateTime": "3/26/2021 2:41:50 PM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
                     "lastChangeDateTime": "3/26/2021 7:18:26 PM",
                     "estimateCLUDateTime": "3/27/2021 1:15:00 AM",
                     "memoCauseCode": "12",
@@ -493,7 +383,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1162404",
                     "outageStartDateTime": "3/26/2021 3:35:18 PM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
                     "lastChangeDateTime": "3/26/2021 7:06:18 PM",
                     "estimateCLUDateTime": "Most up by 3/26/2021 11:30:00 PM",
                     "memoCauseCode": "16",
@@ -518,7 +408,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162420",
                     "outageStartDateTime": "3/26/2021 5:02:28 PM",
-                    "versionDate": "3/26/2021 7:32:48 PM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
                     "lastChangeDateTime": "3/26/2021 7:06:18 PM",
                     "estimateCLUDateTime": "Most up by 3/27/2021 4:00:00 AM",
                     "memoCauseCode": "16",
@@ -536,6 +426,56 @@
                     "ERTCode": "05",
                     "centroidX": "-119.652953911965",
                     "centroidY": "34.44079175306350"
+                },
+                {
+                    "incidentId": "123914427",
+                    "incidentType": "QI",
+                    "FACJobStatusCode": "F",
+                    "OANNumber": "1162428",
+                    "outageStartDateTime": "3/26/2021 3:16:40 PM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
+                    "lastChangeDateTime": "3/26/2021 7:19:37 PM",
+                    "estimateCLUDateTime": "Most up by 3/27/2021 1:00:00 AM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "11",
+                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "34",
+                    "zipCode": "93215",
+                    "countyName": "Kern                                    ",
+                    "cityName": "Delano",
+                    "districtNumber": "51",
+                    "sectorNumber": "SAN JOAQUIN",
+                    "ERTCode": "05",
+                    "centroidX": "-119.243937",
+                    "centroidY": "35.79000700000680"
+                },
+                {
+                    "incidentId": "123914323",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1162438",
+                    "outageStartDateTime": "3/26/2021 4:24:49 PM",
+                    "versionDate": "3/26/2021 8:13:08 PM",
+                    "lastChangeDateTime": "3/26/2021 6:12:03 PM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "21",
+                    "zipCode": "90650",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Norwalk",
+                    "districtNumber": "47",
+                    "sectorNumber": "LIGHTHIPE",
+                    "ERTCode": "05",
+                    "centroidX": "-118.09040950",
+                    "centroidY": "33.92668800000350"
                 }
             ]
         }
