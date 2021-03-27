@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-27T04:38:29.000Z",
+    "uiExpiraionDate": "2021-03-27T04:57:05.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 26, 2021, 09:23 PM",
+        "publishDate": "March 26, 2021, 09:42 PM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,8 +14,8 @@
                     },
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "4",
-                        "numberoOfCustomersAffected": "33",
+                        "numberOfIncidents": "5",
+                        "numberoOfCustomersAffected": "34",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -28,8 +28,8 @@
                     },
                     {
                         "countyName": "San Bernardino                          ",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "237",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "249",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
                     },
@@ -49,8 +49,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "383"
+                    "totalIncidents": "15",
+                    "totalCustomersAffected": "396"
                 }
             },
             "cityBlock": {
@@ -75,6 +75,20 @@
                         "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.459874576932",
                         "centroidY": "34.09880692452910"
+                    },
+                    {
+                        "cityName": "Gardena",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-118.307183337974",
+                        "centroidY": "33.89436074653080"
+                    },
+                    {
+                        "cityName": "Highland",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "12",
+                        "centroidX": "-117.165539568301",
+                        "centroidY": "34.11140788356370"
                     },
                     {
                         "cityName": "Montecito",
@@ -120,12 +134,19 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "383"
+                    "totalIncidents": "15",
+                    "totalCustomersAffected": "396"
                 }
             },
             "zipCodeBlock": {
                 "zipCode": [
+                    {
+                        "zipCodeName": "90247",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-118.297580346492",
+                        "centroidY": "33.89129860540250"
+                    },
                     {
                         "zipCodeName": "90265",
                         "numberOfIncidents": "2",
@@ -160,6 +181,13 @@
                         "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.465581396572",
                         "centroidY": "34.08704053083050"
+                    },
+                    {
+                        "zipCodeName": "92346",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "12",
+                        "centroidX": "-117.152278917255",
+                        "centroidY": "34.11625773641240"
                     },
                     {
                         "zipCodeName": "92570",
@@ -198,8 +226,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "38",
-                    "totalCustomersAffected": "994"
+                    "totalIncidents": "42",
+                    "totalCustomersAffected": "1020"
                 }
             },
             "districtBlock": {
@@ -210,6 +238,13 @@
                         "numberoOfCustomersAffected": "233",
                         "centroidX": "-117.473674775964",
                         "centroidY": "34.17261336761070"
+                    },
+                    {
+                        "districtNumber": "31",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "12",
+                        "centroidX": "-117.064038478043",
+                        "centroidY": "34.05116348904590"
                     },
                     {
                         "districtNumber": "34",
@@ -224,6 +259,13 @@
                         "numberoOfCustomersAffected": "12",
                         "centroidX": "-118.790699007993",
                         "centroidY": "34.18828440743510"
+                    },
+                    {
+                        "districtNumber": "44",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-118.360092163335",
+                        "centroidY": "33.86848458673040"
                     },
                     {
                         "districtNumber": "47",
@@ -255,12 +297,19 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "383"
+                    "totalIncidents": "15",
+                    "totalCustomersAffected": "396"
                 }
             },
             "sectorBlock": {
                 "sector": [
+                    {
+                        "sectorNumber": "EL NIDO",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "1",
+                        "centroidX": "-118.403697968540",
+                        "centroidY": "33.91681631657030"
+                    },
                     {
                         "sectorNumber": "GOLETA",
                         "numberOfIncidents": "3",
@@ -305,15 +354,15 @@
                     },
                     {
                         "sectorNumber": "VISTA",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "233",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "245",
                         "centroidX": "-117.166920310144",
                         "centroidY": "34.11683585814790"
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "383"
+                    "totalIncidents": "15",
+                    "totalCustomersAffected": "396"
                 }
             }
         },
@@ -328,7 +377,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156158",
                     "outageStartDateTime": "3/26/2021 8:14:09 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 8:14:31 PM",
                     "estimateCLUDateTime": "3/27/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -353,7 +402,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155468",
                     "outageStartDateTime": "3/26/2021 8:04:13 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 8:04:22 PM",
                     "estimateCLUDateTime": "3/27/2021 4:00:00 AM",
                     "memoCauseCode": "21",
@@ -378,7 +427,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155454",
                     "outageStartDateTime": "3/26/2021 8:03:53 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 8:04:59 PM",
                     "estimateCLUDateTime": "3/26/2021 11:45:00 PM",
                     "memoCauseCode": "22",
@@ -403,7 +452,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155473",
                     "outageStartDateTime": "3/26/2021 8:04:04 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 8:04:29 PM",
                     "estimateCLUDateTime": "3/27/2021 4:00:00 AM",
                     "memoCauseCode": "21",
@@ -428,7 +477,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -453,7 +502,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154828",
                     "outageStartDateTime": "3/25/2021 9:15:12 AM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/25/2021 7:50:51 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
@@ -473,12 +522,37 @@
                     "centroidY": "33.842103007669"
                 },
                 {
+                    "incidentId": "123914043",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "F",
+                    "OANNumber": "1162384",
+                    "outageStartDateTime": "3/26/2021 2:41:50 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
+                    "lastChangeDateTime": "3/26/2021 8:08:09 PM",
+                    "estimateCLUDateTime": "3/27/2021 1:15:00 AM",
+                    "memoCauseCode": "12",
+                    "memoCauseCodeDescription": "Foreign Object in Equipment",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "06",
+                    "resultCodeDesription": "Equipment Damage",
+                    "numberOfCustomersAffected": "41",
+                    "zipCode": "93257",
+                    "countyName": "Tulare                                  ",
+                    "cityName": "Porterville",
+                    "districtNumber": "51",
+                    "sectorNumber": "SAN JOAQUIN",
+                    "ERTCode": "06",
+                    "centroidX": "-118.996038059316",
+                    "centroidY": "36.06355100480740"
+                },
+                {
                     "incidentId": "123914139",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "W",
                     "OANNumber": "1162404",
                     "outageStartDateTime": "3/26/2021 3:35:18 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 7:06:18 PM",
                     "estimateCLUDateTime": "Most up by 3/26/2021 11:30:00 PM",
                     "memoCauseCode": "16",
@@ -498,37 +572,12 @@
                     "centroidY": "34.43670850000360"
                 },
                 {
-                    "incidentId": "123914373",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "F",
-                    "OANNumber": "1162420",
-                    "outageStartDateTime": "3/26/2021 5:02:28 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
-                    "lastChangeDateTime": "3/26/2021 8:12:43 PM",
-                    "estimateCLUDateTime": "Most up by 3/27/2021 4:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "11",
-                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "12",
-                    "zipCode": "93108",
-                    "countyName": "Santa Barbara                           ",
-                    "cityName": "Montecito",
-                    "districtNumber": "49",
-                    "sectorNumber": "GOLETA",
-                    "ERTCode": "05",
-                    "centroidX": "-119.652953911965",
-                    "centroidY": "34.44079175306350"
-                },
-                {
                     "incidentId": "123914427",
                     "incidentType": "QI",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162428",
                     "outageStartDateTime": "3/26/2021 3:16:40 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 7:19:37 PM",
                     "estimateCLUDateTime": "Most up by 3/27/2021 1:00:00 AM",
                     "memoCauseCode": "16",
@@ -553,7 +602,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1162438",
                     "outageStartDateTime": "3/26/2021 4:24:49 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 8:01:15 PM",
                     "estimateCLUDateTime": "Most up by 3/26/2021 11:30:49 PM",
                     "memoCauseCode": "15",
@@ -578,7 +627,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162267",
                     "outageStartDateTime": "3/26/2021 9:25:21 AM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 7:31:18 PM",
                     "estimateCLUDateTime": "Most up by 3/27/2021 2:00:00 AM",
                     "memoCauseCode": "13",
@@ -603,9 +652,9 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1162444",
                     "outageStartDateTime": "3/26/2021 6:25:49 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
                     "lastChangeDateTime": "3/26/2021 7:06:18 PM",
-                    "estimateCLUDateTime": "3/26/2021 9:30:00 PM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
                     "crewStatusCode": "04",
@@ -623,29 +672,79 @@
                     "centroidY": "34.43883150034280"
                 },
                 {
-                    "incidentId": "123914043",
+                    "incidentId": "123914373",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
-                    "OANNumber": "1162384",
-                    "outageStartDateTime": "3/26/2021 2:41:50 PM",
-                    "versionDate": "3/26/2021 8:45:01 PM",
-                    "lastChangeDateTime": "3/26/2021 8:08:09 PM",
-                    "estimateCLUDateTime": "3/27/2021 1:15:00 AM",
-                    "memoCauseCode": "12",
-                    "memoCauseCodeDescription": "Foreign Object in Equipment",
+                    "OANNumber": "1162420",
+                    "outageStartDateTime": "3/26/2021 5:02:28 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
+                    "lastChangeDateTime": "3/26/2021 8:12:43 PM",
+                    "estimateCLUDateTime": "Most up by 3/27/2021 4:00:00 AM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "11",
+                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "12",
+                    "zipCode": "93108",
+                    "countyName": "Santa Barbara                           ",
+                    "cityName": "Montecito",
+                    "districtNumber": "49",
+                    "sectorNumber": "GOLETA",
+                    "ERTCode": "05",
+                    "centroidX": "-119.652953911965",
+                    "centroidY": "34.44079175306350"
+                },
+                {
+                    "incidentId": "123914666",
+                    "incidentType": "QI",
+                    "FACJobStatusCode": "U",
+                    "OANNumber": "1162469",
+                    "outageStartDateTime": "3/26/2021 8:23:47 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
+                    "lastChangeDateTime": "3/26/2021 8:26:13 PM",
+                    "estimateCLUDateTime": "Most up by 3/27/2021 4:00:00 AM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "1",
+                    "zipCode": "90247",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Gardena",
+                    "districtNumber": "44",
+                    "sectorNumber": "EL NIDO",
+                    "ERTCode": "05",
+                    "centroidX": "-118.29690350",
+                    "centroidY": "33.91463400000350"
+                },
+                {
+                    "incidentId": "123822788",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "U",
+                    "OANNumber": "1156310",
+                    "outageStartDateTime": "3/26/2021 8:27:12 PM",
+                    "versionDate": "3/26/2021 9:06:20 PM",
+                    "lastChangeDateTime": "3/26/2021 8:27:24 PM",
+                    "estimateCLUDateTime": "3/27/2021 6:00:00 AM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
                     "crewStatusCode": "04",
                     "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "06",
-                    "resultCodeDesription": "Equipment Damage",
-                    "numberOfCustomersAffected": "41",
-                    "zipCode": "93257",
-                    "countyName": "Tulare                                  ",
-                    "cityName": "Porterville",
-                    "districtNumber": "51",
-                    "sectorNumber": "SAN JOAQUIN",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "12",
+                    "zipCode": "92346",
+                    "countyName": "San Bernardino                          ",
+                    "cityName": "Highland",
+                    "districtNumber": "31",
+                    "sectorNumber": "VISTA",
                     "ERTCode": "06",
-                    "centroidX": "-118.996038059316",
-                    "centroidY": "36.06355100480740"
+                    "centroidX": "-117.153087070495",
+                    "centroidY": "34.10709057813470"
                 }
             ]
         }
