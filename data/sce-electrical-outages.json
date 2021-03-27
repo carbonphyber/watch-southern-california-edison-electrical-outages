@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-27T10:31:01.000Z",
+    "uiExpiraionDate": "2021-03-27T10:49:42.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 27, 2021, 03:16 AM",
+        "publishDate": "March 27, 2021, 03:34 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,8 +14,8 @@
                     },
                     {
                         "countyName": "Los Angeles                             ",
-                        "numberOfIncidents": "6",
-                        "numberoOfCustomersAffected": "307",
+                        "numberOfIncidents": "7",
+                        "numberoOfCustomersAffected": "311",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -56,8 +56,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "16",
-                    "totalCustomersAffected": "1162"
+                    "totalIncidents": "17",
+                    "totalCustomersAffected": "1166"
                 }
             },
             "cityBlock": {
@@ -141,8 +141,8 @@
                     },
                     {
                         "cityName": "Unincorporated Area - Los Angeles County",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "3",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "7",
                         "centroidX": "-118.214453761165",
                         "centroidY": "34.41817081802910"
                     },
@@ -162,8 +162,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "16",
-                    "totalCustomersAffected": "1162"
+                    "totalIncidents": "17",
+                    "totalCustomersAffected": "1166"
                 }
             },
             "zipCodeBlock": {
@@ -191,8 +191,8 @@
                     },
                     {
                         "zipCodeName": "91302",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "8",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "12",
                         "centroidX": "-118.688582048374",
                         "centroidY": "34.181339111759"
                     },
@@ -275,8 +275,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "52",
-                    "totalCustomersAffected": "3254"
+                    "totalIncidents": "56",
+                    "totalCustomersAffected": "3270"
                 }
             },
             "districtBlock": {
@@ -318,8 +318,8 @@
                     },
                     {
                         "districtNumber": "35",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "11",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "15",
                         "centroidX": "-118.790699007993",
                         "centroidY": "34.18828440743510"
                     },
@@ -367,8 +367,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "16",
-                    "totalCustomersAffected": "1162"
+                    "totalIncidents": "17",
+                    "totalCustomersAffected": "1166"
                 }
             },
             "sectorBlock": {
@@ -410,8 +410,8 @@
                     },
                     {
                         "sectorNumber": "MOORPARK",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "11",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "15",
                         "centroidX": "-118.790699007993",
                         "centroidY": "34.18828440743510"
                     },
@@ -445,8 +445,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "16",
-                    "totalCustomersAffected": "1162"
+                    "totalIncidents": "17",
+                    "totalCustomersAffected": "1166"
                 }
             }
         },
@@ -456,37 +456,12 @@
         "AOCIncidents": {
             "incident": [
                 {
-                    "incidentId": "123831584",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1156859",
-                    "outageStartDateTime": "3/26/2021 11:11:27 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
-                    "lastChangeDateTime": "3/27/2021 12:09:16 AM",
-                    "estimateCLUDateTime": "3/27/2021 5:00:00 AM",
-                    "memoCauseCode": "23",
-                    "memoCauseCodeDescription": "Cable Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "64",
-                    "zipCode": "93035",
-                    "countyName": "Ventura                                 ",
-                    "cityName": "Oxnard",
-                    "districtNumber": "39",
-                    "sectorNumber": "SANTA CLARA",
-                    "ERTCode": "06",
-                    "centroidX": "-119.236760688019",
-                    "centroidY": "34.19152688697720"
-                },
-                {
                     "incidentId": "123821203",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156158",
                     "outageStartDateTime": "3/26/2021 8:14:09 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/26/2021 11:08:06 PM",
                     "estimateCLUDateTime": "3/27/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -511,7 +486,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1150652",
                     "outageStartDateTime": "3/26/2021 9:00:30 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/26/2021 11:25:09 PM",
                     "estimateCLUDateTime": "3/27/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -536,7 +511,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155230",
                     "outageStartDateTime": "3/26/2021 10:03:37 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/26/2021 11:01:44 PM",
                     "estimateCLUDateTime": "3/27/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -561,7 +536,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155468",
                     "outageStartDateTime": "3/26/2021 8:04:13 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/27/2021 12:08:27 AM",
                     "estimateCLUDateTime": "3/27/2021 4:00:00 AM",
                     "memoCauseCode": "21",
@@ -586,7 +561,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155473",
                     "outageStartDateTime": "3/26/2021 8:04:04 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/27/2021 12:08:41 AM",
                     "estimateCLUDateTime": "3/27/2021 4:00:00 AM",
                     "memoCauseCode": "21",
@@ -611,7 +586,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -636,7 +611,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1154828",
                     "outageStartDateTime": "3/25/2021 9:15:12 AM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/25/2021 7:50:51 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "21",
@@ -656,29 +631,29 @@
                     "centroidY": "33.842103007669"
                 },
                 {
-                    "incidentId": "123914373",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "F",
-                    "OANNumber": "1162420",
-                    "outageStartDateTime": "3/26/2021 5:03:06 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
-                    "lastChangeDateTime": "3/27/2021 12:04:17 AM",
-                    "estimateCLUDateTime": "3/27/2021 9:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "11",
-                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "12",
-                    "zipCode": "93108",
-                    "countyName": "Santa Barbara                           ",
-                    "cityName": "Montecito",
-                    "districtNumber": "49",
-                    "sectorNumber": "GOLETA",
-                    "ERTCode": "07",
-                    "centroidX": "-119.652953911965",
-                    "centroidY": "34.44079175306350"
+                    "incidentId": "123813352",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1155476",
+                    "outageStartDateTime": "3/27/2021 12:44:27 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
+                    "lastChangeDateTime": "3/27/2021 12:45:09 AM",
+                    "estimateCLUDateTime": "3/27/2021 4:00:00 AM",
+                    "memoCauseCode": "22",
+                    "memoCauseCodeDescription": "Transformer Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "4",
+                    "zipCode": "91302",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Unincorporated Area - Los Angeles County",
+                    "districtNumber": "35",
+                    "sectorNumber": "MOORPARK",
+                    "ERTCode": "06",
+                    "centroidX": "-118.66577750",
+                    "centroidY": "34.09948950000810"
                 },
                 {
                     "incidentId": "123914427",
@@ -686,7 +661,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162428",
                     "outageStartDateTime": "3/26/2021 3:24:51 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/27/2021 12:07:44 AM",
                     "estimateCLUDateTime": "3/27/2021 4:00:00 AM",
                     "memoCauseCode": "16",
@@ -706,62 +681,12 @@
                     "centroidY": "35.79000700000680"
                 },
                 {
-                    "incidentId": "123914666",
-                    "incidentType": "QI",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1162469",
-                    "outageStartDateTime": "3/26/2021 8:23:47 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
-                    "lastChangeDateTime": "3/26/2021 11:45:58 PM",
-                    "estimateCLUDateTime": "3/27/2021 4:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "1",
-                    "zipCode": "90247",
-                    "countyName": "Los Angeles                             ",
-                    "cityName": "Gardena",
-                    "districtNumber": "44",
-                    "sectorNumber": "EL NIDO",
-                    "ERTCode": "06",
-                    "centroidX": "-118.29690350",
-                    "centroidY": "33.91463400000350"
-                },
-                {
-                    "incidentId": "123914832",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1162475",
-                    "outageStartDateTime": "3/26/2021 11:28:30 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
-                    "lastChangeDateTime": "3/27/2021 12:12:13 AM",
-                    "estimateCLUDateTime": "Not Available",
-                    "memoCauseCode": "15",
-                    "memoCauseCodeDescription": "Analyzing Problem",
-                    "crewStatusCode": "02",
-                    "crewStatusCodeDescription": "We have notified our repair crews. ",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "296",
-                    "zipCode": "92371",
-                    "countyName": "San Bernardino                          ",
-                    "cityName": "Unincorporated Area - San Bernardino County",
-                    "districtNumber": "30",
-                    "sectorNumber": "VISTA",
-                    "ERTCode": "2",
-                    "centroidX": "-117.519152664194",
-                    "centroidY": "34.336445805584"
-                },
-                {
                     "incidentId": "123913019",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162267",
                     "outageStartDateTime": "3/26/2021 9:25:21 AM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/26/2021 9:01:49 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "13",
@@ -786,7 +711,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162468",
                     "outageStartDateTime": "3/26/2021 8:22:53 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/27/2021 12:26:37 AM",
                     "estimateCLUDateTime": "Most up by 3/27/2021 5:00:00 AM",
                     "memoCauseCode": "19",
@@ -806,12 +731,112 @@
                     "centroidY": "33.923910126339"
                 },
                 {
+                    "incidentId": "123914832",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1162475",
+                    "outageStartDateTime": "3/26/2021 11:28:30 PM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
+                    "lastChangeDateTime": "3/27/2021 12:12:13 AM",
+                    "estimateCLUDateTime": "Not Available",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "02",
+                    "crewStatusCodeDescription": "We have notified our repair crews. ",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "296",
+                    "zipCode": "92371",
+                    "countyName": "San Bernardino                          ",
+                    "cityName": "Unincorporated Area - San Bernardino County",
+                    "districtNumber": "30",
+                    "sectorNumber": "VISTA",
+                    "ERTCode": "2",
+                    "centroidX": "-117.519152664194",
+                    "centroidY": "34.336445805584"
+                },
+                {
+                    "incidentId": "123831584",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "W",
+                    "OANNumber": "1156859",
+                    "outageStartDateTime": "3/26/2021 11:11:27 PM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
+                    "lastChangeDateTime": "3/27/2021 12:09:16 AM",
+                    "estimateCLUDateTime": "3/27/2021 5:00:00 AM",
+                    "memoCauseCode": "23",
+                    "memoCauseCodeDescription": "Cable Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "64",
+                    "zipCode": "93035",
+                    "countyName": "Ventura                                 ",
+                    "cityName": "Oxnard",
+                    "districtNumber": "39",
+                    "sectorNumber": "SANTA CLARA",
+                    "ERTCode": "06",
+                    "centroidX": "-119.236760688019",
+                    "centroidY": "34.19152688697720"
+                },
+                {
+                    "incidentId": "123914373",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "F",
+                    "OANNumber": "1162420",
+                    "outageStartDateTime": "3/26/2021 5:03:06 PM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
+                    "lastChangeDateTime": "3/27/2021 12:04:17 AM",
+                    "estimateCLUDateTime": "3/27/2021 9:00:00 AM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "11",
+                    "crewStatusCodeDescription": "We have identified the problem and are working to restore your service.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "12",
+                    "zipCode": "93108",
+                    "countyName": "Santa Barbara                           ",
+                    "cityName": "Montecito",
+                    "districtNumber": "49",
+                    "sectorNumber": "GOLETA",
+                    "ERTCode": "07",
+                    "centroidX": "-119.652953911965",
+                    "centroidY": "34.44079175306350"
+                },
+                {
+                    "incidentId": "123914666",
+                    "incidentType": "QI",
+                    "FACJobStatusCode": "W",
+                    "OANNumber": "1162469",
+                    "outageStartDateTime": "3/26/2021 8:23:47 PM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
+                    "lastChangeDateTime": "3/26/2021 11:45:58 PM",
+                    "estimateCLUDateTime": "3/27/2021 4:00:00 AM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "1",
+                    "zipCode": "90247",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "Gardena",
+                    "districtNumber": "44",
+                    "sectorNumber": "EL NIDO",
+                    "ERTCode": "06",
+                    "centroidX": "-118.29690350",
+                    "centroidY": "33.91463400000350"
+                },
+                {
                     "incidentId": "123914844",
                     "incidentType": "QI",
                     "FACJobStatusCode": "W",
                     "OANNumber": "1162476",
                     "outageStartDateTime": "3/27/2021 12:03:03 AM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/27/2021 12:26:24 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -836,7 +861,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155987",
                     "outageStartDateTime": "3/26/2021 9:00:40 PM",
-                    "versionDate": "3/27/2021 3:03:48 AM",
+                    "versionDate": "3/27/2021 3:22:42 AM",
                     "lastChangeDateTime": "3/26/2021 11:25:09 PM",
                     "estimateCLUDateTime": "3/27/2021 5:00:00 AM",
                     "memoCauseCode": "21",
