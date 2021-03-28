@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-28T09:12:21.000Z",
+    "uiExpiraionDate": "2021-03-28T09:36:47.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 28, 2021, 01:57 AM",
+        "publishDate": "March 28, 2021, 02:21 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,8 +14,8 @@
                     },
                     {
                         "countyName": "Riverside                               ",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "306",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "0",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -28,8 +28,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "906"
+                    "totalIncidents": "8",
+                    "totalCustomersAffected": "600"
                 }
             },
             "cityBlock": {
@@ -40,13 +40,6 @@
                         "numberoOfCustomersAffected": "49",
                         "centroidX": "-118.402099376158",
                         "centroidY": "34.07853929233890"
-                    },
-                    {
-                        "cityName": "Desert Hot Springs",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "306",
-                        "centroidX": "-116.542923488224",
-                        "centroidY": "33.955128722902"
                     },
                     {
                         "cityName": "Fontana",
@@ -85,8 +78,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "906"
+                    "totalIncidents": "8",
+                    "totalCustomersAffected": "600"
                 }
             },
             "zipCodeBlock": {
@@ -104,13 +97,6 @@
                         "numberoOfCustomersAffected": "169",
                         "centroidX": "-117.937418634382",
                         "centroidY": "34.067501292966"
-                    },
-                    {
-                        "zipCodeName": "92240",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "306",
-                        "centroidX": "-116.522113736001",
-                        "centroidY": "33.961144906329"
                     },
                     {
                         "zipCodeName": "92301",
@@ -142,8 +128,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "20",
-                    "totalCustomersAffected": "1814"
+                    "totalIncidents": "18",
+                    "totalCustomersAffected": "1202"
                 }
             },
             "districtBlock": {
@@ -189,29 +175,15 @@
                         "numberoOfCustomersAffected": "0",
                         "centroidX": "-117.053622824074",
                         "centroidY": "33.81269200327950"
-                    },
-                    {
-                        "districtNumber": "79",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "306",
-                        "centroidX": "-116.592399612918",
-                        "centroidY": "33.73075475445940"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "906"
+                    "totalIncidents": "8",
+                    "totalCustomersAffected": "600"
                 }
             },
             "sectorBlock": {
                 "sector": [
-                    {
-                        "sectorNumber": "DEVERS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "306",
-                        "centroidX": "-116.592399612918",
-                        "centroidY": "33.73075475445940"
-                    },
                     {
                         "sectorNumber": "EL NIDO",
                         "numberOfIncidents": "2",
@@ -249,8 +221,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "9",
-                    "totalCustomersAffected": "906"
+                    "totalIncidents": "8",
+                    "totalCustomersAffected": "600"
                 }
             }
         },
@@ -265,7 +237,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
+                    "versionDate": "3/28/2021 2:03:18 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -285,37 +257,12 @@
                     "centroidY": "33.86588600000640"
                 },
                 {
-                    "incidentId": "123833028",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1156961",
-                    "outageStartDateTime": "3/27/2021 9:08:49 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
-                    "lastChangeDateTime": "3/28/2021 1:41:09 AM",
-                    "estimateCLUDateTime": "Most up by 3/28/2021 6:00:00 AM",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "306",
-                    "zipCode": "92240",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Desert Hot Springs",
-                    "districtNumber": "79",
-                    "sectorNumber": "DEVERS",
-                    "ERTCode": "09",
-                    "centroidX": "-116.527294413733",
-                    "centroidY": "33.98465048994030"
-                },
-                {
                     "incidentId": "123825882",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156656",
                     "outageStartDateTime": "3/27/2021 10:12:22 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
+                    "versionDate": "3/28/2021 2:03:18 AM",
                     "lastChangeDateTime": "3/27/2021 10:14:19 PM",
                     "estimateCLUDateTime": "3/28/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -340,7 +287,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156574",
                     "outageStartDateTime": "3/27/2021 9:43:11 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
+                    "versionDate": "3/28/2021 2:03:18 AM",
                     "lastChangeDateTime": "3/27/2021 11:09:36 PM",
                     "estimateCLUDateTime": "3/28/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -365,7 +312,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156654",
                     "outageStartDateTime": "3/27/2021 10:12:14 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
+                    "versionDate": "3/28/2021 2:03:18 AM",
                     "lastChangeDateTime": "3/27/2021 11:09:50 PM",
                     "estimateCLUDateTime": "3/28/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -390,7 +337,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156204",
                     "outageStartDateTime": "3/27/2021 9:02:39 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
+                    "versionDate": "3/28/2021 2:03:18 AM",
                     "lastChangeDateTime": "3/27/2021 9:21:00 PM",
                     "estimateCLUDateTime": "3/28/2021 4:00:00 AM",
                     "memoCauseCode": "21",
@@ -415,7 +362,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162721",
                     "outageStartDateTime": "3/27/2021 8:23:55 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
+                    "versionDate": "3/28/2021 2:03:18 AM",
                     "lastChangeDateTime": "3/28/2021 12:32:35 AM",
                     "estimateCLUDateTime": "3/28/2021 4:00:00 AM",
                     "memoCauseCode": "11",
@@ -440,7 +387,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1162725",
                     "outageStartDateTime": "3/27/2021 7:49:24 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
+                    "versionDate": "3/28/2021 2:03:18 AM",
                     "lastChangeDateTime": "3/28/2021 12:38:59 AM",
                     "estimateCLUDateTime": "3/28/2021 7:00:00 AM",
                     "memoCauseCode": "11",
@@ -465,8 +412,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162715",
                     "outageStartDateTime": "3/27/2021 7:39:24 PM",
-                    "versionDate": "3/28/2021 1:48:19 AM",
-                    "lastChangeDateTime": "3/28/2021 12:38:25 AM",
+                    "versionDate": "3/28/2021 2:03:18 AM",
+                    "lastChangeDateTime": "3/28/2021 1:45:58 AM",
                     "estimateCLUDateTime": "3/28/2021 7:00:00 AM",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
