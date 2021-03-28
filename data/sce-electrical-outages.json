@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-28T13:39:14.000Z",
+    "uiExpiraionDate": "2021-03-28T13:58:35.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 28, 2021, 06:24 AM",
+        "publishDate": "March 28, 2021, 06:43 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,8 +14,8 @@
                     },
                     {
                         "countyName": "San Bernardino                          ",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "234",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "7",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
                     },
@@ -28,19 +28,12 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "299"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "72"
                 }
             },
             "cityBlock": {
                 "city": [
-                    {
-                        "cityName": "Fontana",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "227",
-                        "centroidX": "-117.459874576932",
-                        "centroidY": "34.09880692452910"
-                    },
                     {
                         "cityName": "Montecito",
                         "numberOfIncidents": "1",
@@ -64,8 +57,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "299"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "72"
                 }
             },
             "zipCodeBlock": {
@@ -76,13 +69,6 @@
                         "numberoOfCustomersAffected": "7",
                         "centroidX": "-117.390306156043",
                         "centroidY": "34.05959696570670"
-                    },
-                    {
-                        "zipCodeName": "92337",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "227",
-                        "centroidX": "-117.469396225833",
-                        "centroidY": "34.049609763933"
                     },
                     {
                         "zipCodeName": "92571",
@@ -100,16 +86,16 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "612"
+                    "totalIncidents": "8",
+                    "totalCustomersAffected": "158"
                 }
             },
             "districtBlock": {
                 "district": [
                     {
                         "districtNumber": "30",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "234",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "7",
                         "centroidX": "-117.473674775964",
                         "centroidY": "34.17261336761070"
                     },
@@ -129,8 +115,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "299"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "72"
                 }
             },
             "sectorBlock": {
@@ -151,15 +137,15 @@
                     },
                     {
                         "sectorNumber": "VISTA",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "234",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "7",
                         "centroidX": "-117.166920310144",
                         "centroidY": "34.11683585814790"
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "4",
-                    "totalCustomersAffected": "299"
+                    "totalIncidents": "3",
+                    "totalCustomersAffected": "72"
                 }
             }
         },
@@ -174,7 +160,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/28/2021 6:02:45 AM",
+                    "versionDate": "3/28/2021 6:32:43 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -194,37 +180,12 @@
                     "centroidY": "33.86588600000640"
                 },
                 {
-                    "incidentId": "123825287",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1156574",
-                    "outageStartDateTime": "3/27/2021 9:43:11 PM",
-                    "versionDate": "3/28/2021 6:02:45 AM",
-                    "lastChangeDateTime": "3/28/2021 3:13:54 AM",
-                    "estimateCLUDateTime": "3/28/2021 7:00:00 AM",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "227",
-                    "zipCode": "92337",
-                    "countyName": "San Bernardino                          ",
-                    "cityName": "Fontana",
-                    "districtNumber": "30",
-                    "sectorNumber": "VISTA",
-                    "ERTCode": "07",
-                    "centroidX": "-117.504805761579",
-                    "centroidY": "34.03375868565370"
-                },
-                {
                     "incidentId": "123813361",
                     "incidentType": "PO",
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155477",
                     "outageStartDateTime": "3/28/2021 3:10:36 AM",
-                    "versionDate": "3/28/2021 6:02:45 AM",
+                    "versionDate": "3/28/2021 6:32:43 AM",
                     "lastChangeDateTime": "3/28/2021 3:15:49 AM",
                     "estimateCLUDateTime": "3/28/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -249,7 +210,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1162729",
                     "outageStartDateTime": "3/28/2021 2:47:54 AM",
-                    "versionDate": "3/28/2021 6:02:45 AM",
+                    "versionDate": "3/28/2021 6:32:43 AM",
                     "lastChangeDateTime": "3/28/2021 5:51:54 AM",
                     "estimateCLUDateTime": "Most up by 3/28/2021 2:00:00 PM",
                     "memoCauseCode": "11",
