@@ -1,14 +1,28 @@
 {
-    "uiExpiraionDate": "2021-03-28T13:58:35.000Z",
+    "uiExpiraionDate": "2021-03-28T14:35:10.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 28, 2021, 06:43 AM",
+        "publishDate": "March 28, 2021, 07:20 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
-                        "countyName": "Riverside                               ",
+                        "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
+                        "numberoOfCustomersAffected": "347",
+                        "centroidX": "-118.351107325584",
+                        "centroidY": "33.819720564505"
+                    },
+                    {
+                        "countyName": "Orange                                  ",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "62",
+                        "centroidX": "-117.779276265953",
+                        "centroidY": "33.21832364981430"
+                    },
+                    {
+                        "countyName": "Riverside                               ",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "3",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -28,18 +42,39 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "3",
-                    "totalCustomersAffected": "72"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "484"
                 }
             },
             "cityBlock": {
                 "city": [
+                    {
+                        "cityName": "Costa Mesa",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "62",
+                        "centroidX": "-117.913429955336",
+                        "centroidY": "33.66669659216160"
+                    },
                     {
                         "cityName": "Montecito",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "65",
                         "centroidX": "-119.628116721587",
                         "centroidY": "34.43846938345420"
+                    },
+                    {
+                        "cityName": "Palm Springs",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "3",
+                        "centroidX": "-116.538050571858",
+                        "centroidY": "33.801705291180"
+                    },
+                    {
+                        "cityName": "South Pasadena",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "347",
+                        "centroidX": "-118.157282396264",
+                        "centroidY": "34.11024873650060"
                     },
                     {
                         "cityName": "Unincorporated Area - Riverside County",
@@ -57,12 +92,19 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "3",
-                    "totalCustomersAffected": "72"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "484"
                 }
             },
             "zipCodeBlock": {
                 "zipCode": [
+                    {
+                        "zipCodeName": "91030",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "347",
+                        "centroidX": "-118.157234314820",
+                        "centroidY": "34.11023457022970"
+                    },
                     {
                         "zipCodeName": "92316",
                         "numberOfIncidents": "1",
@@ -78,26 +120,54 @@
                         "centroidY": "33.837386052888"
                     },
                     {
+                        "zipCodeName": "92627",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "62",
+                        "centroidX": "-117.919537332505",
+                        "centroidY": "33.64609155122020"
+                    },
+                    {
                         "zipCodeName": "93108",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "65",
                         "centroidX": "-119.621534855340",
                         "centroidY": "34.44590773915370"
+                    },
+                    {
+                        "zipCodeName": "No Zip Code",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "3",
+                        "centroidX": "\n        ",
+                        "centroidY": "\n        "
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "8",
-                    "totalCustomersAffected": "158"
+                    "totalIncidents": "14",
+                    "totalCustomersAffected": "979"
                 }
             },
             "districtBlock": {
                 "district": [
+                    {
+                        "districtNumber": "27",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "347",
+                        "centroidX": "-118.041625980567",
+                        "centroidY": "34.22240613373430"
+                    },
                     {
                         "districtNumber": "30",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "7",
                         "centroidX": "-117.473674775964",
                         "centroidY": "34.17261336761070"
+                    },
+                    {
+                        "districtNumber": "33",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "62",
+                        "centroidX": "-117.949649811255",
+                        "centroidY": "33.67443891010450"
                     },
                     {
                         "districtNumber": "49",
@@ -112,21 +182,49 @@
                         "numberoOfCustomersAffected": "0",
                         "centroidX": "-117.053622824074",
                         "centroidY": "33.81269200327950"
+                    },
+                    {
+                        "districtNumber": "79",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "3",
+                        "centroidX": "-116.592399612918",
+                        "centroidY": "33.73075475445940"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "3",
-                    "totalCustomersAffected": "72"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "484"
                 }
             },
             "sectorBlock": {
                 "sector": [
+                    {
+                        "sectorNumber": "DEVERS",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "3",
+                        "centroidX": "-116.592399612918",
+                        "centroidY": "33.73075475445940"
+                    },
+                    {
+                        "sectorNumber": "ELLIS",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "62",
+                        "centroidX": "-117.756778722938",
+                        "centroidY": "33.67074505842850"
+                    },
                     {
                         "sectorNumber": "GOLETA",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "65",
                         "centroidX": "-119.984684122706",
                         "centroidY": "34.555116001730"
+                    },
+                    {
+                        "sectorNumber": "MESA",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "347",
+                        "centroidX": "-118.041625982422",
+                        "centroidY": "34.18203233598380"
                     },
                     {
                         "sectorNumber": "VALLEY",
@@ -144,8 +242,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "3",
-                    "totalCustomersAffected": "72"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "484"
                 }
             }
         },
@@ -160,7 +258,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/28/2021 6:32:43 AM",
+                    "versionDate": "3/28/2021 7:17:30 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -180,12 +278,87 @@
                     "centroidY": "33.86588600000640"
                 },
                 {
+                    "incidentId": "123825638",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1156607",
+                    "outageStartDateTime": "3/28/2021 6:00:00 AM",
+                    "versionDate": "3/28/2021 7:17:30 AM",
+                    "lastChangeDateTime": "3/28/2021 6:49:14 AM",
+                    "estimateCLUDateTime": "Most up by 3/28/2021 4:00:00 PM",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "347",
+                    "zipCode": "91030",
+                    "countyName": "Los Angeles                             ",
+                    "cityName": "South Pasadena",
+                    "districtNumber": "27",
+                    "sectorNumber": "MESA",
+                    "ERTCode": "09",
+                    "centroidX": "-118.147144543560",
+                    "centroidY": "34.12191700048710"
+                },
+                {
+                    "incidentId": "123894751",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1160346",
+                    "outageStartDateTime": "3/28/2021 7:03:35 AM",
+                    "versionDate": "3/28/2021 7:17:30 AM",
+                    "lastChangeDateTime": "3/28/2021 7:12:48 AM",
+                    "estimateCLUDateTime": "3/29/2021 4:00:00 PM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "1",
+                    "zipCode": "No Zip Code",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Palm Springs",
+                    "districtNumber": "79",
+                    "sectorNumber": "DEVERS",
+                    "ERTCode": "06",
+                    "centroidX": "-116.540146",
+                    "centroidY": "33.89262300000570"
+                },
+                {
+                    "incidentId": "123894755",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1160348",
+                    "outageStartDateTime": "3/28/2021 7:03:25 AM",
+                    "versionDate": "3/28/2021 7:17:30 AM",
+                    "lastChangeDateTime": "3/28/2021 7:13:22 AM",
+                    "estimateCLUDateTime": "3/29/2021 4:00:00 PM",
+                    "memoCauseCode": "07",
+                    "memoCauseCodeDescription": "Upgrading Equipment",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "2",
+                    "zipCode": "No Zip Code",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Palm Springs",
+                    "districtNumber": "79",
+                    "sectorNumber": "DEVERS",
+                    "ERTCode": "06",
+                    "centroidX": "-116.548597",
+                    "centroidY": "33.89897000000380"
+                },
+                {
                     "incidentId": "123813361",
                     "incidentType": "PO",
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155477",
                     "outageStartDateTime": "3/28/2021 3:10:36 AM",
-                    "versionDate": "3/28/2021 6:32:43 AM",
+                    "versionDate": "3/28/2021 7:17:30 AM",
                     "lastChangeDateTime": "3/28/2021 3:15:49 AM",
                     "estimateCLUDateTime": "3/28/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -205,12 +378,37 @@
                     "centroidY": "34.42090568520680"
                 },
                 {
+                    "incidentId": "123917998",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1162732",
+                    "outageStartDateTime": "3/28/2021 6:09:31 AM",
+                    "versionDate": "3/28/2021 7:17:30 AM",
+                    "lastChangeDateTime": "3/28/2021 7:09:06 AM",
+                    "estimateCLUDateTime": "Most up by 3/28/2021 9:30:00 AM",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "01",
+                    "crewStatusCodeDescription": "We are aware of the problem.",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "62",
+                    "zipCode": "92627",
+                    "countyName": "Orange                                  ",
+                    "cityName": "Costa Mesa",
+                    "districtNumber": "33",
+                    "sectorNumber": "ELLIS",
+                    "ERTCode": "05",
+                    "centroidX": "-117.925344002211",
+                    "centroidY": "33.64237950343760"
+                },
+                {
                     "incidentId": "123917883",
                     "incidentType": "Not Available",
                     "FACJobStatusCode": "A",
                     "OANNumber": "1162729",
                     "outageStartDateTime": "3/28/2021 2:47:54 AM",
-                    "versionDate": "3/28/2021 6:32:43 AM",
+                    "versionDate": "3/28/2021 7:17:30 AM",
                     "lastChangeDateTime": "3/28/2021 5:51:54 AM",
                     "estimateCLUDateTime": "Most up by 3/28/2021 2:00:00 PM",
                     "memoCauseCode": "11",
