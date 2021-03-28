@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-28T12:29:36.000Z",
+    "uiExpiraionDate": "2021-03-28T13:17:31.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 28, 2021, 05:14 AM",
+        "publishDate": "March 28, 2021, 06:02 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -174,7 +174,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/28/2021 5:02:45 AM",
+                    "versionDate": "3/28/2021 5:47:40 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -199,7 +199,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156574",
                     "outageStartDateTime": "3/27/2021 9:43:11 PM",
-                    "versionDate": "3/28/2021 5:02:45 AM",
+                    "versionDate": "3/28/2021 5:47:40 AM",
                     "lastChangeDateTime": "3/28/2021 3:13:54 AM",
                     "estimateCLUDateTime": "3/28/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -224,7 +224,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1155477",
                     "outageStartDateTime": "3/28/2021 3:10:36 AM",
-                    "versionDate": "3/28/2021 5:02:45 AM",
+                    "versionDate": "3/28/2021 5:47:40 AM",
                     "lastChangeDateTime": "3/28/2021 3:15:49 AM",
                     "estimateCLUDateTime": "3/28/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -249,8 +249,8 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1162729",
                     "outageStartDateTime": "3/28/2021 2:47:54 AM",
-                    "versionDate": "3/28/2021 5:02:45 AM",
-                    "lastChangeDateTime": "3/28/2021 4:49:21 AM",
+                    "versionDate": "3/28/2021 5:47:40 AM",
+                    "lastChangeDateTime": "3/28/2021 5:18:40 AM",
                     "estimateCLUDateTime": "Most up by 3/28/2021 2:00:00 PM",
                     "memoCauseCode": "11",
                     "memoCauseCodeDescription": "Traffic Accident",
