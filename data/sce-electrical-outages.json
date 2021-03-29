@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-29T12:46:11.000Z",
+    "uiExpiraionDate": "2021-03-29T13:08:33.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 29, 2021, 05:31 AM",
+        "publishDate": "March 29, 2021, 05:53 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "100",
+                        "numberoOfCustomersAffected": "38",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -29,7 +29,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "101"
+                    "totalCustomersAffected": "39"
                 }
             },
             "cityBlock": {
@@ -56,11 +56,11 @@
                         "centroidY": "34.14163662772690"
                     },
                     {
-                        "cityName": "Unincorporated Area - Los Angeles County",
+                        "cityName": "Torrance",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "69",
-                        "centroidX": "-118.214453761165",
-                        "centroidY": "34.41817081802910"
+                        "numberoOfCustomersAffected": "7",
+                        "centroidX": "-118.341702208521",
+                        "centroidY": "33.83460781301750"
                     },
                     {
                         "cityName": "Unincorporated Area - Riverside County",
@@ -72,7 +72,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "101"
+                    "totalCustomersAffected": "39"
                 }
             },
             "zipCodeBlock": {
@@ -85,11 +85,11 @@
                         "centroidY": "33.97696421233630"
                     },
                     {
-                        "zipCodeName": "91384",
+                        "zipCodeName": "90504",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "69",
-                        "centroidX": "-118.798703196970",
-                        "centroidY": "34.62063869129770"
+                        "numberoOfCustomersAffected": "7",
+                        "centroidX": "-118.329912435296",
+                        "centroidY": "33.86942144430440"
                     },
                     {
                         "zipCodeName": "91770",
@@ -114,8 +114,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "14",
-                    "totalCustomersAffected": "478"
+                    "totalIncidents": "10",
+                    "totalCustomersAffected": "78"
                 }
             },
             "districtBlock": {
@@ -142,11 +142,11 @@
                         "centroidY": "33.90927213139650"
                     },
                     {
-                        "districtNumber": "59",
+                        "districtNumber": "44",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "69",
-                        "centroidX": "-118.555233017072",
-                        "centroidY": "34.39573824835440"
+                        "numberoOfCustomersAffected": "7",
+                        "centroidX": "-118.360092163335",
+                        "centroidY": "33.86848458673040"
                     },
                     {
                         "districtNumber": "77",
@@ -158,11 +158,18 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "101"
+                    "totalCustomersAffected": "39"
                 }
             },
             "sectorBlock": {
                 "sector": [
+                    {
+                        "sectorNumber": "EL NIDO",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "7",
+                        "centroidX": "-118.403697968540",
+                        "centroidY": "33.91681631657030"
+                    },
                     {
                         "sectorNumber": "LIGHTHIPE",
                         "numberOfIncidents": "1",
@@ -176,13 +183,6 @@
                         "numberoOfCustomersAffected": "15",
                         "centroidX": "-118.041625982422",
                         "centroidY": "34.18203233598380"
-                    },
-                    {
-                        "sectorNumber": "SAUGUS",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "69",
-                        "centroidX": "-118.555233017072",
-                        "centroidY": "34.39573824835440"
                     },
                     {
                         "sectorNumber": "VALLEY",
@@ -201,7 +201,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "101"
+                    "totalCustomersAffected": "39"
                 }
             }
         },
@@ -216,7 +216,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162858",
                     "outageStartDateTime": "3/28/2021 12:35:14 PM",
-                    "versionDate": "3/29/2021 5:23:07 AM",
+                    "versionDate": "3/29/2021 5:41:47 AM",
                     "lastChangeDateTime": "3/28/2021 10:34:53 PM",
                     "estimateCLUDateTime": "3/29/2021 12:00:00 PM",
                     "memoCauseCode": "16",
@@ -236,29 +236,29 @@
                     "centroidY": "34.10959849999740"
                 },
                 {
-                    "incidentId": "123928162",
+                    "incidentId": "123928473",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "F",
-                    "OANNumber": "1162968",
-                    "outageStartDateTime": "3/28/2021 9:33:02 PM",
-                    "versionDate": "3/29/2021 5:23:07 AM",
-                    "lastChangeDateTime": "3/29/2021 4:46:05 AM",
-                    "estimateCLUDateTime": "3/29/2021 6:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
+                    "FACJobStatusCode": "A",
+                    "OANNumber": "1162985",
+                    "outageStartDateTime": "3/29/2021 2:45:11 AM",
+                    "versionDate": "3/29/2021 5:41:47 AM",
+                    "lastChangeDateTime": "3/29/2021 5:27:37 AM",
+                    "estimateCLUDateTime": "Not Available",
+                    "memoCauseCode": "15",
+                    "memoCauseCodeDescription": "Analyzing Problem",
+                    "crewStatusCode": "01",
+                    "crewStatusCodeDescription": "We are aware of the problem.",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "69",
-                    "zipCode": "91384",
+                    "numberOfCustomersAffected": "7",
+                    "zipCode": "90504",
                     "countyName": "Los Angeles                             ",
-                    "cityName": "Unincorporated Area - Los Angeles County",
-                    "districtNumber": "59",
-                    "sectorNumber": "SAUGUS",
-                    "ERTCode": "06",
-                    "centroidX": "-118.631071502041",
-                    "centroidY": "34.45539450649250"
+                    "cityName": "Torrance",
+                    "districtNumber": "44",
+                    "sectorNumber": "EL NIDO",
+                    "ERTCode": "02",
+                    "centroidX": "-118.32812450",
+                    "centroidY": "33.86016650000340"
                 },
                 {
                     "incidentId": "123927698",
@@ -266,7 +266,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162957",
                     "outageStartDateTime": "3/28/2021 7:23:21 PM",
-                    "versionDate": "3/29/2021 5:23:07 AM",
+                    "versionDate": "3/29/2021 5:41:47 AM",
                     "lastChangeDateTime": "3/29/2021 1:56:00 AM",
                     "estimateCLUDateTime": "3/29/2021 10:00:00 AM",
                     "memoCauseCode": "16",
@@ -291,9 +291,9 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154335",
                     "outageStartDateTime": "3/28/2021 10:35:00 PM",
-                    "versionDate": "3/29/2021 5:23:07 AM",
-                    "lastChangeDateTime": "3/29/2021 4:32:47 AM",
-                    "estimateCLUDateTime": "3/29/2021 6:00:00 AM",
+                    "versionDate": "3/29/2021 5:41:47 AM",
+                    "lastChangeDateTime": "3/29/2021 5:17:05 AM",
+                    "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "17",
                     "memoCauseCodeDescription": "Metallic Balloons in Equipment",
                     "crewStatusCode": "04",
@@ -316,7 +316,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/29/2021 5:23:07 AM",
+                    "versionDate": "3/29/2021 5:41:47 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
