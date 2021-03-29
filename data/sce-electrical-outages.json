@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-29T13:08:33.000Z",
+    "uiExpiraionDate": "2021-03-29T13:48:27.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 29, 2021, 05:53 AM",
+        "publishDate": "March 29, 2021, 06:33 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "38",
+                        "numberoOfCustomersAffected": "64",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -29,7 +29,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "39"
+                    "totalCustomersAffected": "65"
                 }
             },
             "cityBlock": {
@@ -37,7 +37,7 @@
                     {
                         "cityName": "Huntington Park",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "16",
+                        "numberoOfCustomersAffected": "42",
                         "centroidX": "-118.216580357511",
                         "centroidY": "33.97990536367520"
                     },
@@ -72,7 +72,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "39"
+                    "totalCustomersAffected": "65"
                 }
             },
             "zipCodeBlock": {
@@ -80,7 +80,7 @@
                     {
                         "zipCodeName": "90255",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "16",
+                        "numberoOfCustomersAffected": "42",
                         "centroidX": "-118.217117567476",
                         "centroidY": "33.97696421233630"
                     },
@@ -115,7 +115,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "10",
-                    "totalCustomersAffected": "78"
+                    "totalCustomersAffected": "130"
                 }
             },
             "districtBlock": {
@@ -137,7 +137,7 @@
                     {
                         "districtNumber": "32",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "16",
+                        "numberoOfCustomersAffected": "42",
                         "centroidX": "-118.193962097429",
                         "centroidY": "33.90927213139650"
                     },
@@ -158,7 +158,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "39"
+                    "totalCustomersAffected": "65"
                 }
             },
             "sectorBlock": {
@@ -173,7 +173,7 @@
                     {
                         "sectorNumber": "LIGHTHIPE",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "16",
+                        "numberoOfCustomersAffected": "42",
                         "centroidX": "-118.138362885446",
                         "centroidY": "33.87951550511030"
                     },
@@ -201,7 +201,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "5",
-                    "totalCustomersAffected": "39"
+                    "totalCustomersAffected": "65"
                 }
             }
         },
@@ -216,7 +216,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162858",
                     "outageStartDateTime": "3/28/2021 12:35:14 PM",
-                    "versionDate": "3/29/2021 5:41:47 AM",
+                    "versionDate": "3/29/2021 6:22:49 AM",
                     "lastChangeDateTime": "3/28/2021 10:34:53 PM",
                     "estimateCLUDateTime": "3/29/2021 12:00:00 PM",
                     "memoCauseCode": "16",
@@ -241,8 +241,8 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1162985",
                     "outageStartDateTime": "3/29/2021 2:45:11 AM",
-                    "versionDate": "3/29/2021 5:41:47 AM",
-                    "lastChangeDateTime": "3/29/2021 5:27:37 AM",
+                    "versionDate": "3/29/2021 6:22:49 AM",
+                    "lastChangeDateTime": "3/29/2021 5:35:11 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -266,8 +266,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162957",
                     "outageStartDateTime": "3/28/2021 7:23:21 PM",
-                    "versionDate": "3/29/2021 5:41:47 AM",
-                    "lastChangeDateTime": "3/29/2021 1:56:00 AM",
+                    "versionDate": "3/29/2021 6:22:49 AM",
+                    "lastChangeDateTime": "3/29/2021 6:15:18 AM",
                     "estimateCLUDateTime": "3/29/2021 10:00:00 AM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -291,8 +291,8 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154335",
                     "outageStartDateTime": "3/28/2021 10:35:00 PM",
-                    "versionDate": "3/29/2021 5:41:47 AM",
-                    "lastChangeDateTime": "3/29/2021 5:17:05 AM",
+                    "versionDate": "3/29/2021 6:22:49 AM",
+                    "lastChangeDateTime": "3/29/2021 6:13:27 AM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "17",
                     "memoCauseCodeDescription": "Metallic Balloons in Equipment",
@@ -300,15 +300,15 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "01",
                     "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "16",
+                    "numberOfCustomersAffected": "42",
                     "zipCode": "90255",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Huntington Park",
                     "districtNumber": "32",
                     "sectorNumber": "LIGHTHIPE",
                     "ERTCode": "06",
-                    "centroidX": "-118.225355",
-                    "centroidY": "33.98338899999080"
+                    "centroidX": "-118.225200749997",
+                    "centroidY": "33.98338750008740"
                 },
                 {
                     "incidentId": "123902695",
@@ -316,7 +316,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/29/2021 5:41:47 AM",
+                    "versionDate": "3/29/2021 6:22:49 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
