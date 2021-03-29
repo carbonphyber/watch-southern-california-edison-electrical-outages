@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-29T14:25:03.000Z",
+    "uiExpiraionDate": "2021-03-29T14:48:47.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 29, 2021, 07:10 AM",
+        "publishDate": "March 29, 2021, 07:33 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -14,8 +14,8 @@
                     },
                     {
                         "countyName": "Riverside                               ",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "0",
+                        "numberOfIncidents": "3",
+                        "numberoOfCustomersAffected": "10",
                         "centroidX": "-115.993691627676",
                         "centroidY": "33.74647681696390"
                     },
@@ -28,8 +28,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "36"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "46"
                 }
             },
             "cityBlock": {
@@ -40,6 +40,13 @@
                         "numberoOfCustomersAffected": "20",
                         "centroidX": "-117.926703620415",
                         "centroidY": "34.01751561181780"
+                    },
+                    {
+                        "cityName": "Palm Springs",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "10",
+                        "centroidX": "-116.538050571858",
+                        "centroidY": "33.801705291180"
                     },
                     {
                         "cityName": "Pomona",
@@ -71,8 +78,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "36"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "46"
                 }
             },
             "zipCodeBlock": {
@@ -111,11 +118,18 @@
                         "numberoOfCustomersAffected": "0",
                         "centroidX": "-117.190287626696",
                         "centroidY": "33.837386052888"
+                    },
+                    {
+                        "zipCodeName": "No Zip Code",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "10",
+                        "centroidX": "\n        ",
+                        "centroidY": "\n        "
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "10",
-                    "totalCustomersAffected": "72"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "82"
                 }
             },
             "districtBlock": {
@@ -147,15 +161,29 @@
                         "numberoOfCustomersAffected": "0",
                         "centroidX": "-117.053622824074",
                         "centroidY": "33.81269200327950"
+                    },
+                    {
+                        "districtNumber": "79",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "10",
+                        "centroidX": "-116.592399612918",
+                        "centroidY": "33.73075475445940"
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "36"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "46"
                 }
             },
             "sectorBlock": {
                 "sector": [
+                    {
+                        "sectorNumber": "DEVERS",
+                        "numberOfIncidents": "2",
+                        "numberoOfCustomersAffected": "10",
+                        "centroidX": "-116.592399612918",
+                        "centroidY": "33.73075475445940"
+                    },
                     {
                         "sectorNumber": "EL NIDO",
                         "numberOfIncidents": "1",
@@ -186,8 +214,8 @@
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "5",
-                    "totalCustomersAffected": "36"
+                    "totalIncidents": "7",
+                    "totalCustomersAffected": "46"
                 }
             }
         },
@@ -202,7 +230,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162858",
                     "outageStartDateTime": "3/28/2021 12:35:14 PM",
-                    "versionDate": "3/29/2021 7:07:37 AM",
+                    "versionDate": "3/29/2021 7:22:45 AM",
                     "lastChangeDateTime": "3/28/2021 10:34:53 PM",
                     "estimateCLUDateTime": "3/29/2021 12:00:00 PM",
                     "memoCauseCode": "16",
@@ -224,11 +252,11 @@
                 {
                     "incidentId": "123928473",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "A",
+                    "FACJobStatusCode": "D",
                     "OANNumber": "1162985",
                     "outageStartDateTime": "3/29/2021 2:45:11 AM",
-                    "versionDate": "3/29/2021 7:07:37 AM",
-                    "lastChangeDateTime": "3/29/2021 6:59:56 AM",
+                    "versionDate": "3/29/2021 7:22:45 AM",
+                    "lastChangeDateTime": "3/29/2021 7:11:02 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -249,11 +277,11 @@
                 {
                     "incidentId": "123928958",
                     "incidentType": "Not Available",
-                    "FACJobStatusCode": "A",
+                    "FACJobStatusCode": "D",
                     "OANNumber": "1162992",
                     "outageStartDateTime": "3/29/2021 5:45:37 AM",
-                    "versionDate": "3/29/2021 7:07:37 AM",
-                    "lastChangeDateTime": "3/29/2021 7:01:24 AM",
+                    "versionDate": "3/29/2021 7:22:45 AM",
+                    "lastChangeDateTime": "3/29/2021 7:13:44 AM",
                     "estimateCLUDateTime": "Most up by 3/29/2021 1:00:00 PM",
                     "memoCauseCode": "15",
                     "memoCauseCodeDescription": "Analyzing Problem",
@@ -277,7 +305,7 @@
                     "FACJobStatusCode": "A",
                     "OANNumber": "1162997",
                     "outageStartDateTime": "3/28/2021 6:13:48 PM",
-                    "versionDate": "3/29/2021 7:07:37 AM",
+                    "versionDate": "3/29/2021 7:22:45 AM",
                     "lastChangeDateTime": "3/28/2021 8:30:43 PM",
                     "estimateCLUDateTime": "Currently Being Re-evaluated",
                     "memoCauseCode": "15",
@@ -297,12 +325,62 @@
                     "centroidY": "34.07204100000370"
                 },
                 {
+                    "incidentId": "123891549",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "W",
+                    "OANNumber": "1160124",
+                    "outageStartDateTime": "3/29/2021 7:03:54 AM",
+                    "versionDate": "3/29/2021 7:22:45 AM",
+                    "lastChangeDateTime": "3/29/2021 7:13:42 AM",
+                    "estimateCLUDateTime": "3/29/2021 4:00:00 PM",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "1",
+                    "zipCode": "No Zip Code",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Palm Springs",
+                    "districtNumber": "79",
+                    "sectorNumber": "DEVERS",
+                    "ERTCode": "06",
+                    "centroidX": "-116.549998320020",
+                    "centroidY": "33.89746735481880"
+                },
+                {
+                    "incidentId": "123891572",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "W",
+                    "OANNumber": "1160125",
+                    "outageStartDateTime": "3/29/2021 7:04:15 AM",
+                    "versionDate": "3/29/2021 7:22:45 AM",
+                    "lastChangeDateTime": "3/29/2021 7:05:12 AM",
+                    "estimateCLUDateTime": "3/29/2021 4:00:00 PM",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "9",
+                    "zipCode": "No Zip Code",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Palm Springs",
+                    "districtNumber": "79",
+                    "sectorNumber": "DEVERS",
+                    "ERTCode": "06",
+                    "centroidX": "-116.570401599966",
+                    "centroidY": "33.900619391573"
+                },
+                {
                     "incidentId": "123902695",
                     "incidentType": "QI",
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/29/2021 7:07:37 AM",
+                    "versionDate": "3/29/2021 7:22:45 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
