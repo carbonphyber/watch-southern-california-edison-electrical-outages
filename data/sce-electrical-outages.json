@@ -1,14 +1,14 @@
 {
-    "uiExpiraionDate": "2021-03-29T08:06:39.000Z",
+    "uiExpiraionDate": "2021-03-29T09:02:12.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 29, 2021, 12:51 AM",
+        "publishDate": "March 29, 2021, 01:47 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
                     {
                         "countyName": "Los Angeles                             ",
                         "numberOfIncidents": "8",
-                        "numberoOfCustomersAffected": "1433",
+                        "numberoOfCustomersAffected": "3130",
                         "centroidX": "-118.351107325584",
                         "centroidY": "33.819720564505"
                     },
@@ -43,7 +43,7 @@
                 ],
                 "countyTotals": {
                     "totalIncidents": "20",
-                    "totalCustomersAffected": "2067"
+                    "totalCustomersAffected": "3764"
                 }
             },
             "cityBlock": {
@@ -93,7 +93,7 @@
                     {
                         "cityName": "Long Beach",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1151",
+                        "numberoOfCustomersAffected": "2848",
                         "centroidX": "-118.161118683789",
                         "centroidY": "33.80447665657890"
                     },
@@ -170,7 +170,7 @@
                 ],
                 "cityTotals": {
                     "totalIncidents": "20",
-                    "totalCustomersAffected": "2067"
+                    "totalCustomersAffected": "3764"
                 }
             },
             "zipCodeBlock": {
@@ -192,7 +192,7 @@
                     {
                         "zipCodeName": "90804",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1151",
+                        "numberoOfCustomersAffected": "2848",
                         "centroidX": "-118.149450180427",
                         "centroidY": "33.78220227751790"
                     },
@@ -297,7 +297,7 @@
                 ],
                 "zipCodeTotals": {
                     "totalIncidents": "48",
-                    "totalCustomersAffected": "4406"
+                    "totalCustomersAffected": "7800"
                 }
             },
             "districtBlock": {
@@ -375,7 +375,7 @@
                     {
                         "districtNumber": "46",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "1151",
+                        "numberoOfCustomersAffected": "2848",
                         "centroidX": "-118.139034271362",
                         "centroidY": "33.81028532489710"
                     },
@@ -403,7 +403,7 @@
                 ],
                 "districtTotals": {
                     "totalIncidents": "20",
-                    "totalCustomersAffected": "2067"
+                    "totalCustomersAffected": "3764"
                 }
             },
             "sectorBlock": {
@@ -418,7 +418,7 @@
                     {
                         "sectorNumber": "LIGHTHIPE",
                         "numberOfIncidents": "3",
-                        "numberoOfCustomersAffected": "1232",
+                        "numberoOfCustomersAffected": "2929",
                         "centroidX": "-118.138362885446",
                         "centroidY": "33.87951550511030"
                     },
@@ -481,7 +481,7 @@
                 ],
                 "sectorTotals": {
                     "totalIncidents": "20",
-                    "totalCustomersAffected": "2067"
+                    "totalCustomersAffected": "3764"
                 }
             }
         },
@@ -496,7 +496,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162858",
                     "outageStartDateTime": "3/28/2021 12:35:14 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 10:34:53 PM",
                     "estimateCLUDateTime": "3/29/2021 12:00:00 PM",
                     "memoCauseCode": "16",
@@ -521,7 +521,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1153052",
                     "outageStartDateTime": "3/28/2021 8:15:11 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 8:16:09 PM",
                     "estimateCLUDateTime": "3/29/2021 4:00:00 AM",
                     "memoCauseCode": "22",
@@ -546,7 +546,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1153170",
                     "outageStartDateTime": "3/28/2021 10:16:21 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 11:35:35 PM",
                     "estimateCLUDateTime": "3/29/2021 6:00:00 AM",
                     "memoCauseCode": "07",
@@ -571,7 +571,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1162962",
                     "outageStartDateTime": "3/28/2021 8:44:09 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 10:47:15 PM",
                     "estimateCLUDateTime": "3/29/2021 3:00:00 AM",
                     "memoCauseCode": "16",
@@ -596,7 +596,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1162961",
                     "outageStartDateTime": "3/28/2021 6:35:05 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 11:50:11 PM",
                     "estimateCLUDateTime": "3/29/2021 3:30:00 AM",
                     "memoCauseCode": "11",
@@ -621,7 +621,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1162952",
                     "outageStartDateTime": "3/28/2021 2:38:06 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 11:06:12 PM",
                     "estimateCLUDateTime": "Most up by 3/29/2021 7:00:00 AM",
                     "memoCauseCode": "15",
@@ -646,7 +646,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1154335",
                     "outageStartDateTime": "3/28/2021 10:35:00 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/29/2021 12:02:39 AM",
                     "estimateCLUDateTime": "3/29/2021 6:00:00 AM",
                     "memoCauseCode": "17",
@@ -671,7 +671,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1152127",
                     "outageStartDateTime": "3/29/2021 12:00:01 AM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/29/2021 12:06:54 AM",
                     "estimateCLUDateTime": "3/29/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -696,7 +696,7 @@
                     "FACJobStatusCode": "U",
                     "OANNumber": "1161239",
                     "outageStartDateTime": "3/23/2021 2:22:13 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/23/2021 4:42:22 PM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -721,7 +721,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155810",
                     "outageStartDateTime": "3/29/2021 12:00:00 AM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/29/2021 12:06:37 AM",
                     "estimateCLUDateTime": "3/29/2021 3:00:00 AM",
                     "memoCauseCode": "07",
@@ -746,7 +746,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1156189",
                     "outageStartDateTime": "3/28/2021 10:09:32 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 10:10:13 PM",
                     "estimateCLUDateTime": "3/29/2021 5:00:00 AM",
                     "memoCauseCode": "07",
@@ -771,8 +771,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155812",
                     "outageStartDateTime": "3/29/2021 12:00:00 AM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
-                    "lastChangeDateTime": "3/29/2021 12:03:49 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
+                    "lastChangeDateTime": "3/29/2021 12:41:38 AM",
                     "estimateCLUDateTime": "3/29/2021 3:00:00 AM",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
@@ -796,7 +796,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1155627",
                     "outageStartDateTime": "3/28/2021 10:00:00 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 10:56:37 PM",
                     "estimateCLUDateTime": "3/29/2021 5:00:00 AM",
                     "memoCauseCode": "21",
@@ -821,7 +821,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1156182",
                     "outageStartDateTime": "3/28/2021 9:13:01 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 9:13:40 PM",
                     "estimateCLUDateTime": "3/29/2021 6:00:00 AM",
                     "memoCauseCode": "07",
@@ -846,7 +846,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156184",
                     "outageStartDateTime": "3/28/2021 9:14:01 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 9:28:07 PM",
                     "estimateCLUDateTime": "3/29/2021 6:00:00 AM",
                     "memoCauseCode": "07",
@@ -871,7 +871,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162936",
                     "outageStartDateTime": "3/28/2021 3:57:20 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/29/2021 12:14:23 AM",
                     "estimateCLUDateTime": "3/29/2021 6:00:00 AM",
                     "memoCauseCode": "16",
@@ -896,7 +896,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162957",
                     "outageStartDateTime": "3/28/2021 7:23:21 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/29/2021 12:14:23 AM",
                     "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
@@ -921,7 +921,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162968",
                     "outageStartDateTime": "3/28/2021 9:33:02 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 11:28:33 PM",
                     "estimateCLUDateTime": "3/29/2021 9:30:00 AM",
                     "memoCauseCode": "16",
@@ -946,8 +946,8 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1162972",
                     "outageStartDateTime": "3/28/2021 11:52:36 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
-                    "lastChangeDateTime": "3/29/2021 12:31:17 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
+                    "lastChangeDateTime": "3/29/2021 12:44:11 AM",
                     "estimateCLUDateTime": "3/29/2021 4:00:00 AM",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
@@ -955,15 +955,15 @@
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "1151",
+                    "numberOfCustomersAffected": "2848",
                     "zipCode": "90804",
                     "countyName": "Los Angeles                             ",
                     "cityName": "Long Beach",
                     "districtNumber": "46",
                     "sectorNumber": "LIGHTHIPE",
                     "ERTCode": "06",
-                    "centroidX": "-118.155524192467",
-                    "centroidY": "33.78254920994650"
+                    "centroidX": "-118.160021645533",
+                    "centroidY": "33.78330503851220"
                 },
                 {
                     "incidentId": "123925540",
@@ -971,7 +971,7 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1162943",
                     "outageStartDateTime": "3/28/2021 5:19:21 PM",
-                    "versionDate": "3/29/2021 12:36:52 AM",
+                    "versionDate": "3/29/2021 12:51:46 AM",
                     "lastChangeDateTime": "3/28/2021 11:19:22 PM",
                     "estimateCLUDateTime": "3/29/2021 4:00:00 AM",
                     "memoCauseCode": "16",
