@@ -1,7 +1,7 @@
 {
-    "uiExpiraionDate": "2021-03-30T07:42:05.000Z",
+    "uiExpiraionDate": "2021-03-30T07:57:30.000Z",
     "outageMapDataResponse": {
-        "publishDate": "March 30, 2021, 12:27 AM",
+        "publishDate": "March 30, 2021, 12:42 AM",
         "AOCLocationStats": {
             "countyBlock": {
                 "county": [
@@ -15,7 +15,7 @@
                     {
                         "countyName": "Orange                                  ",
                         "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "7",
+                        "numberoOfCustomersAffected": "12",
                         "centroidX": "-117.779276265953",
                         "centroidY": "33.21832364981430"
                     },
@@ -28,8 +28,8 @@
                     },
                     {
                         "countyName": "San Bernardino                          ",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "17",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "7",
                         "centroidX": "-116.176933512471",
                         "centroidY": "34.84217480790910"
                     },
@@ -42,8 +42,8 @@
                     }
                 ],
                 "countyTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "569"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "564"
                 }
             },
             "cityBlock": {
@@ -72,16 +72,9 @@
                     {
                         "cityName": "Irvine",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "4",
+                        "numberoOfCustomersAffected": "9",
                         "centroidX": "-117.7763039857",
                         "centroidY": "33.67661160857420"
-                    },
-                    {
-                        "cityName": "Loma Linda",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "10",
-                        "centroidX": "-117.250470672776",
-                        "centroidY": "34.04473453070110"
                     },
                     {
                         "cityName": "Palm Springs",
@@ -127,8 +120,8 @@
                     }
                 ],
                 "cityTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "569"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "564"
                 }
             },
             "zipCodeBlock": {
@@ -169,13 +162,6 @@
                         "centroidY": "34.05959696570670"
                     },
                     {
-                        "zipCodeName": "92354",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "10",
-                        "centroidX": "-117.261785036584",
-                        "centroidY": "34.01864189828710"
-                    },
-                    {
                         "zipCodeName": "92592",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "5",
@@ -185,7 +171,7 @@
                     {
                         "zipCodeName": "92620",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "4",
+                        "numberoOfCustomersAffected": "9",
                         "centroidX": "-117.756861994706",
                         "centroidY": "33.70640195298270"
                     },
@@ -219,8 +205,8 @@
                     }
                 ],
                 "zipCodeTotals": {
-                    "totalIncidents": "44",
-                    "totalCustomersAffected": "1680"
+                    "totalIncidents": "38",
+                    "totalCustomersAffected": "1630"
                 }
             },
             "districtBlock": {
@@ -240,13 +226,6 @@
                         "centroidY": "34.17261336761070"
                     },
                     {
-                        "districtNumber": "31",
-                        "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "10",
-                        "centroidX": "-117.064038478043",
-                        "centroidY": "34.05116348904590"
-                    },
-                    {
                         "districtNumber": "35",
                         "numberOfIncidents": "1",
                         "numberoOfCustomersAffected": "91",
@@ -263,7 +242,7 @@
                     {
                         "districtNumber": "43",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "4",
+                        "numberoOfCustomersAffected": "9",
                         "centroidX": "-117.640705110891",
                         "centroidY": "33.670476393056"
                     },
@@ -304,8 +283,8 @@
                     }
                 ],
                 "districtTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "569"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "564"
                 }
             },
             "sectorBlock": {
@@ -327,7 +306,7 @@
                     {
                         "sectorNumber": "ELLIS",
                         "numberOfIncidents": "1",
-                        "numberoOfCustomersAffected": "4",
+                        "numberoOfCustomersAffected": "9",
                         "centroidX": "-117.756778722938",
                         "centroidY": "33.67074505842850"
                     },
@@ -375,15 +354,15 @@
                     },
                     {
                         "sectorNumber": "VISTA",
-                        "numberOfIncidents": "2",
-                        "numberoOfCustomersAffected": "17",
+                        "numberOfIncidents": "1",
+                        "numberoOfCustomersAffected": "7",
                         "centroidX": "-117.166920310144",
                         "centroidY": "34.11683585814790"
                     }
                 ],
                 "sectorTotals": {
-                    "totalIncidents": "13",
-                    "totalCustomersAffected": "569"
+                    "totalIncidents": "12",
+                    "totalCustomersAffected": "564"
                 }
             }
         },
@@ -398,7 +377,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1163261",
                     "outageStartDateTime": "3/29/2021 10:17:06 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
                     "lastChangeDateTime": "3/29/2021 11:41:34 PM",
                     "estimateCLUDateTime": "3/30/2021 4:00:00 AM",
                     "memoCauseCode": "16",
@@ -423,22 +402,22 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1163253",
                     "outageStartDateTime": "3/29/2021 9:03:32 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
-                    "lastChangeDateTime": "3/29/2021 10:31:51 PM",
-                    "estimateCLUDateTime": "3/30/2021 5:00:00 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
+                    "lastChangeDateTime": "3/30/2021 12:13:35 AM",
+                    "estimateCLUDateTime": "Not Available",
                     "memoCauseCode": "16",
                     "memoCauseCodeDescription": "Equipment Problems",
                     "crewStatusCode": "04",
                     "crewStatusCodeDescription": "Work is in progress.",
                     "resultCode": "0",
                     "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "4",
+                    "numberOfCustomersAffected": "9",
                     "zipCode": "92620",
                     "countyName": "Orange                                  ",
                     "cityName": "Irvine",
                     "districtNumber": "43",
                     "sectorNumber": "ELLIS",
-                    "ERTCode": "06",
+                    "ERTCode": "2",
                     "centroidX": "-117.75345350",
                     "centroidY": "33.70536700000210"
                 },
@@ -448,7 +427,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1160124",
                     "outageStartDateTime": "3/29/2021 7:03:54 AM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
                     "lastChangeDateTime": "3/29/2021 11:03:46 PM",
                     "estimateCLUDateTime": "3/30/2021 10:00:00 AM",
                     "memoCauseCode": "21",
@@ -468,12 +447,37 @@
                     "centroidY": "33.89746735481880"
                 },
                 {
+                    "incidentId": "123891572",
+                    "incidentType": "PO",
+                    "FACJobStatusCode": "W",
+                    "OANNumber": "1160125",
+                    "outageStartDateTime": "3/29/2021 7:04:15 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
+                    "lastChangeDateTime": "3/29/2021 11:03:30 PM",
+                    "estimateCLUDateTime": "3/30/2021 10:00:00 AM",
+                    "memoCauseCode": "21",
+                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "crewStatusCode": "04",
+                    "crewStatusCodeDescription": "Work is in progress.",
+                    "resultCode": "01",
+                    "resultCodeDesription": "Enhancing Reliability",
+                    "numberOfCustomersAffected": "9",
+                    "zipCode": "No Zip Code",
+                    "countyName": "Riverside                               ",
+                    "cityName": "Palm Springs",
+                    "districtNumber": "79",
+                    "sectorNumber": "DEVERS",
+                    "ERTCode": "07",
+                    "centroidX": "-116.570401599966",
+                    "centroidY": "33.900619391573"
+                },
+                {
                     "incidentId": "123824967",
                     "incidentType": "PO",
                     "FACJobStatusCode": "W",
                     "OANNumber": "1156547",
                     "outageStartDateTime": "3/29/2021 10:02:15 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
                     "lastChangeDateTime": "3/29/2021 10:07:33 PM",
                     "estimateCLUDateTime": "3/30/2021 6:00:00 AM",
                     "memoCauseCode": "07",
@@ -498,8 +502,8 @@
                     "FACJobStatusCode": "F",
                     "OANNumber": "1155749",
                     "outageStartDateTime": "3/29/2021 10:08:40 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
-                    "lastChangeDateTime": "3/30/2021 12:04:47 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
+                    "lastChangeDateTime": "3/30/2021 12:19:00 AM",
                     "estimateCLUDateTime": "3/30/2021 4:00:00 AM",
                     "memoCauseCode": "07",
                     "memoCauseCodeDescription": "Upgrading Equipment",
@@ -523,7 +527,7 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156236",
                     "outageStartDateTime": "3/29/2021 11:00:00 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
                     "lastChangeDateTime": "3/29/2021 11:28:34 PM",
                     "estimateCLUDateTime": "3/30/2021 7:00:00 AM",
                     "memoCauseCode": "21",
@@ -548,8 +552,8 @@
                     "FACJobStatusCode": "D",
                     "OANNumber": "1157087",
                     "outageStartDateTime": "3/29/2021 10:07:59 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
-                    "lastChangeDateTime": "3/29/2021 10:09:51 PM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
+                    "lastChangeDateTime": "3/30/2021 12:10:04 AM",
                     "estimateCLUDateTime": "3/30/2021 5:30:00 AM",
                     "memoCauseCode": "21",
                     "memoCauseCodeDescription": "Pole Upgrade",
@@ -564,33 +568,8 @@
                     "districtNumber": "30",
                     "sectorNumber": "VISTA",
                     "ERTCode": "06",
-                    "centroidX": "-117.400829831478",
-                    "centroidY": "34.06760466686070"
-                },
-                {
-                    "incidentId": "123821326",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1156195",
-                    "outageStartDateTime": "3/29/2021 9:13:59 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
-                    "lastChangeDateTime": "3/29/2021 11:52:23 PM",
-                    "estimateCLUDateTime": "3/30/2021 4:00:00 AM",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "10",
-                    "zipCode": "92354",
-                    "countyName": "San Bernardino                          ",
-                    "cityName": "Loma Linda",
-                    "districtNumber": "31",
-                    "sectorNumber": "VISTA",
-                    "ERTCode": "06",
-                    "centroidX": "-117.26913350",
-                    "centroidY": "34.04839400000350"
+                    "centroidX": "-117.400785247989",
+                    "centroidY": "34.06711350020590"
                 },
                 {
                     "incidentId": "123835769",
@@ -598,7 +577,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1157200",
                     "outageStartDateTime": "3/29/2021 10:00:57 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
                     "lastChangeDateTime": "3/29/2021 10:19:59 PM",
                     "estimateCLUDateTime": "3/30/2021 6:00:00 AM",
                     "memoCauseCode": "21",
@@ -623,7 +602,7 @@
                     "FACJobStatusCode": "W",
                     "OANNumber": "1157575",
                     "outageStartDateTime": "3/29/2021 8:15:16 AM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
                     "lastChangeDateTime": "3/29/2021 11:52:34 PM",
                     "estimateCLUDateTime": "3/30/2021 9:00:00 AM",
                     "memoCauseCode": "21",
@@ -643,37 +622,12 @@
                     "centroidY": "34.39534650026550"
                 },
                 {
-                    "incidentId": "123928988",
-                    "incidentType": "Not Available",
-                    "FACJobStatusCode": "D",
-                    "OANNumber": "1163155",
-                    "outageStartDateTime": "3/29/2021 6:53:12 AM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
-                    "lastChangeDateTime": "3/29/2021 11:49:52 PM",
-                    "estimateCLUDateTime": "3/30/2021 4:00:00 AM",
-                    "memoCauseCode": "16",
-                    "memoCauseCodeDescription": "Equipment Problems",
-                    "crewStatusCode": "04",
-                    "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "0",
-                    "resultCodeDesription": "Not Available",
-                    "numberOfCustomersAffected": "5",
-                    "zipCode": "92592",
-                    "countyName": "Riverside                               ",
-                    "cityName": "Unincorporated Area - Riverside County",
-                    "districtNumber": "88",
-                    "sectorNumber": "VALLEY",
-                    "ERTCode": "07",
-                    "centroidX": "-117.042398407771",
-                    "centroidY": "33.47812390930810"
-                },
-                {
                     "incidentId": "123821288",
                     "incidentType": "PO",
                     "FACJobStatusCode": "D",
                     "OANNumber": "1156181",
                     "outageStartDateTime": "3/29/2021 11:04:47 PM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
                     "lastChangeDateTime": "3/29/2021 11:47:19 PM",
                     "estimateCLUDateTime": "3/30/2021 4:00:00 AM",
                     "memoCauseCode": "07",
@@ -693,29 +647,29 @@
                     "centroidY": "33.83103425176340"
                 },
                 {
-                    "incidentId": "123891572",
-                    "incidentType": "PO",
-                    "FACJobStatusCode": "W",
-                    "OANNumber": "1160125",
-                    "outageStartDateTime": "3/29/2021 7:04:15 AM",
-                    "versionDate": "3/30/2021 12:12:38 AM",
-                    "lastChangeDateTime": "3/29/2021 11:03:30 PM",
-                    "estimateCLUDateTime": "3/30/2021 10:00:00 AM",
-                    "memoCauseCode": "21",
-                    "memoCauseCodeDescription": "Pole Upgrade",
+                    "incidentId": "123928988",
+                    "incidentType": "Not Available",
+                    "FACJobStatusCode": "D",
+                    "OANNumber": "1163155",
+                    "outageStartDateTime": "3/29/2021 6:53:12 AM",
+                    "versionDate": "3/30/2021 12:27:34 AM",
+                    "lastChangeDateTime": "3/30/2021 12:06:57 AM",
+                    "estimateCLUDateTime": "3/30/2021 4:00:00 AM",
+                    "memoCauseCode": "16",
+                    "memoCauseCodeDescription": "Equipment Problems",
                     "crewStatusCode": "04",
                     "crewStatusCodeDescription": "Work is in progress.",
-                    "resultCode": "01",
-                    "resultCodeDesription": "Enhancing Reliability",
-                    "numberOfCustomersAffected": "9",
-                    "zipCode": "No Zip Code",
+                    "resultCode": "0",
+                    "resultCodeDesription": "Not Available",
+                    "numberOfCustomersAffected": "5",
+                    "zipCode": "92592",
                     "countyName": "Riverside                               ",
-                    "cityName": "Palm Springs",
-                    "districtNumber": "79",
-                    "sectorNumber": "DEVERS",
+                    "cityName": "Unincorporated Area - Riverside County",
+                    "districtNumber": "88",
+                    "sectorNumber": "VALLEY",
                     "ERTCode": "07",
-                    "centroidX": "-116.570401599966",
-                    "centroidY": "33.900619391573"
+                    "centroidX": "-117.042398407771",
+                    "centroidY": "33.47812390930810"
                 }
             ]
         }
